@@ -1,4 +1,5 @@
 # Awesome Medical Agent Evaluation
+[![DOI](https://zenodo.org/badge/1287962753.svg)](https://doi.org/10.5281/zenodo.21341662)
 
 A curated evidence map of medical AI agents powered by large language models, vision-language models, and multimodal foundation models, with a focus on evaluation methods, safety oversight, governance controls, and clinical translation readiness.
 
