@@ -1,0 +1,10 @@
+stage,count,note
+records_identified,546,PubMed 113; Web of Science 159; IEEE Xplore 49; ACM Digital Library 41; ACL Anthology 84; arXiv 100
+duplicate_or_overlapping_records_removed,77,Removed before screening
+records_screened,469,Title/abstract and preliminary screening
+records_excluded_preliminary,337,Not advanced after preliminary screening
+records_retained_for_detailed_verification,132,Full-record relevance and methodological verification
+records_excluded_after_detailed_verification,85,Detailed relevance and PCC/RQ fit exclusions
+records_retained_after_detailed_eligibility_verification,47,Records retained after detailed eligibility verification
+records_removed_final_manual_audit,6,Topic drift 4; scope mismatch 2
+records_included_in_review,41,Final descriptive synthesis

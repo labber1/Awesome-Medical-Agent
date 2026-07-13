@@ -1,0 +1,1777 @@
+{
+  "total": 142,
+  "bad": [
+    {
+      "source": "data/included_studies.csv",
+      "row": 3,
+      "field": "url",
+      "label": "Transforming oncology clinical trial matching through neuro-symbolic, multi-agent AI and an oncology-specific knowledge graph: a prospective evaluation in 3804 patients",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949820126000251",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S2949820126000251",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 5,
+      "field": "url",
+      "label": "Explainable and evidence-linked recommendations for spine surgery via a retrieval-augmented LLM agent",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0720048X26000823",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/abs/pii/S0720048X26000823",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 9,
+      "field": "url",
+      "label": "Agentic LLM for anonymizing healthcare data with contextual awareness",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950705126007604",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S0950705126007604",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 10,
+      "field": "url",
+      "label": "Impact of patient communication style on agentic AI-generated clinical advice in E-medicine",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002934326000100",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/abs/pii/S0002934326000100",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 13,
+      "field": "doi",
+      "label": "Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study",
+      "url": "https://doi.org/10.1093/eurjcn/zvag029",
+      "status": 403,
+      "final_url": "https://academic.oup.com/eurjcn/advance-article/doi/10.1093/eurjcn/zvag029/8455732",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 13,
+      "field": "url",
+      "label": "Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study",
+      "url": "https://doi.org/10.1093/eurjcn/zvag029",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 15,
+      "field": "url",
+      "label": "A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00148-7/fulltext",
+      "status": 403,
+      "final_url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00148-7/fulltext",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 18,
+      "field": "url",
+      "label": "Addressing hallucinations in generative AI agents using observability and dual memory knowledge graphs",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950705126002121#abs0001",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S0950705126002121#abs0001",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 26,
+      "field": "doi",
+      "label": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.16556",
+      "status": 403,
+      "final_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 26,
+      "field": "url",
+      "label": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "status": 403,
+      "final_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 34,
+      "field": "doi",
+      "label": "MRAgent: an LLM-based automated agent for causal knowledge discovery in disease via Mendelian randomization",
+      "url": "https://doi.org/10.1093/bib/bbaf140",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbaf140/8107848",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 34,
+      "field": "url",
+      "label": "MRAgent: an LLM-based automated agent for causal knowledge discovery in disease via Mendelian randomization",
+      "url": "https://academic.oup.com/bib/article/26/2/bbaf140/8107848",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/26/2/bbaf140/8107848",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 2,
+      "field": "url",
+      "label": "Alhazba SA, Ali MH, Alawi DA, et al. From Reactive AI to Agentic Systems: A Review of Autonomous medical AI Agents in Healthcare.",
+      "url": "https://doi.org/10.1007/s11831-026-10655-y",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 3,
+      "field": "doi",
+      "label": "Branda F, Ahmed MM, Ciccozzi M, et al. The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery.",
+      "url": "https://doi.org/10.1093/bib/bbag245",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag245/8688274",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 3,
+      "field": "url",
+      "label": "Branda F, Ahmed MM, Ciccozzi M, et al. The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery.",
+      "url": "https://doi.org/10.1093/bib/bbag245",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag245/8688274",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 4,
+      "field": "url",
+      "label": "Chen LF, Xu XM, Qin YM, et al. Vision-language foundation model driven agentic AI systems for healthcare.",
+      "url": "https://doi.org/10.1007/s00371-026-04437-7",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 5,
+      "field": "doi",
+      "label": "Chen XL, Chen RY, Xu PS, et al. From visual question answering to intelligent AI agents in ophthalmology.",
+      "url": "https://doi.org/10.1136/bjo-2024-326097",
+      "status": 403,
+      "final_url": "https://bjo.bmj.com/lookup/doi/10.1136/bjo-2024-326097",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 5,
+      "field": "url",
+      "label": "Chen XL, Chen RY, Xu PS, et al. From visual question answering to intelligent AI agents in ophthalmology.",
+      "url": "https://doi.org/10.1136/bjo-2024-326097",
+      "status": 403,
+      "final_url": "https://bjo.bmj.com/lookup/doi/10.1136/bjo-2024-326097",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 6,
+      "field": "doi",
+      "label": "Chen Y, Qin XQ, Chen SP. Foundation Models and AI Agents in Digital Pathology Imaging: A Systematic Review of Integration into the Clinical Workflow and Implementation Challenges.",
+      "url": "https://doi.org/10.1007/s10278-026-02034-7",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 7,
+      "field": "doi",
+      "label": "Dip SA, Mallick D, Shuvo UA, et al. Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbag110",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 7,
+      "field": "url",
+      "label": "Dip SA, Mallick D, Shuvo UA, et al. Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbag110",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag110/8540361",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 11,
+      "field": "doi",
+      "label": "Ma AR, Chen JY, Yang ZY. From Tool to Agent: A Semi-Systematic Review of Human-AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health.",
+      "url": "https://doi.org/10.3390/healthcare14060820",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2227-9032/14/6/820",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 11,
+      "field": "url",
+      "label": "Ma AR, Chen JY, Yang ZY. From Tool to Agent: A Semi-Systematic Review of Human-AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health.",
+      "url": "https://doi.org/10.3390/healthcare14060820",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2227-9032/14/6/820",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 12,
+      "field": "doi",
+      "label": "Qi C, Wang WB, Jiang SQ, et al. Artificial Intelligence agents for biological research: a survey.",
+      "url": "https://doi.org/10.1093/bib/bbag075",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag075/8499367",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 12,
+      "field": "url",
+      "label": "Qi C, Wang WB, Jiang SQ, et al. Artificial Intelligence agents for biological research: a survey.",
+      "url": "https://doi.org/10.1093/bib/bbag075",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag075/8499367",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 15,
+      "field": "url",
+      "label": "Soetikno BT, Nielsen CS, Pollreisz A, et al. Toward autonomous discovery: agentic AI and the future of ophthalmic research.",
+      "url": "https://doi.org/10.1097/ICU.0000000000001179",
+      "status": 403,
+      "final_url": "https://journals.lww.com/10.1097/ICU.0000000000001179",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 17,
+      "field": "url",
+      "label": "Tzanis E, Adams LC, D'Antonoli TA, et al. Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns.",
+      "url": "https://doi.org/10.1016/j.diii.2025.10.002",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 20,
+      "field": "url",
+      "label": "Xu G, Li X, Chen Y, et al. A comprehensive survey of AI agents in healthcare.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1532046426000699",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S1532046426000699",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 22,
+      "field": "doi",
+      "label": "Salehi S, Singh Y, Horst KK, et al. Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges.",
+      "url": "https://doi.org/10.3390/bioengineering12121303",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2306-5354/12/12/1303",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 22,
+      "field": "url",
+      "label": "Salehi S, Singh Y, Horst KK, et al. Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges.",
+      "url": "https://doi.org/10.3390/bioengineering12121303",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2306-5354/12/12/1303",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 23,
+      "field": "doi",
+      "label": "Wang W, Ma Z, Wang Z, et al. A survey of LLM-based agents in medicine: how far are we from Baymax?",
+      "url": "https://doi.org/10.18653/v1/2025.findings-acl.539",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 24,
+      "field": "doi",
+      "label": "Xu X, Sankar R. Large language model agents for biomedicine: a comprehensive review of methods, evaluations, challenges, and future directions.",
+      "url": "https://doi.org/10.3390/info16100894",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2078-2489/16/10/894",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 24,
+      "field": "url",
+      "label": "Xu X, Sankar R. Large language model agents for biomedicine: a comprehensive review of methods, evaluations, challenges, and future directions.",
+      "url": "https://doi.org/10.3390/info16100894",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 25,
+      "field": "doi",
+      "label": "Yang TT, Xiao YH, Bao ZJ, et al. The rise and potential opportunities of large language model agents in bioinformatics and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbaf601",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 25,
+      "field": "url",
+      "label": "Yang TT, Xiao YH, Bao ZJ, et al. The rise and potential opportunities of large language model agents in bioinformatics and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbaf601",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbaf601/8320153",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    }
+  ],
+  "results": [
+    {
+      "source": "data/included_studies.csv",
+      "row": 2,
+      "field": "doi",
+      "label": "Development of a generative AI agent for family support in implementing family-based treatment for children and adolescents with anorexia nervosa",
+      "url": "https://doi.org/10.3389/fdgth.2026.1759690",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1759690/full",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 2,
+      "field": "url",
+      "label": "Development of a generative AI agent for family support in implementing family-based treatment for children and adolescents with anorexia nervosa",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1759690/full#s3",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1759690/full#s3",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 3,
+      "field": "doi",
+      "label": "Transforming oncology clinical trial matching through neuro-symbolic, multi-agent AI and an oncology-specific knowledge graph: a prospective evaluation in 3804 patients",
+      "url": "https://doi.org/10.1016/j.esmorw.2026.100706",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2949820126000251",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 3,
+      "field": "url",
+      "label": "Transforming oncology clinical trial matching through neuro-symbolic, multi-agent AI and an oncology-specific knowledge graph: a prospective evaluation in 3804 patients",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949820126000251",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S2949820126000251",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 4,
+      "field": "doi",
+      "label": "A randomized controlled trial of a WeChat-based artificial intelligence agent for postoperative care in orthopedic patients",
+      "url": "https://doi.org/10.1038/s41746-025-02269-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-02269-8?error=cookies_not_supported&code=f17d2912-76c8-4668-9b22-238243a5b257",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 4,
+      "field": "url",
+      "label": "A randomized controlled trial of a WeChat-based artificial intelligence agent for postoperative care in orthopedic patients",
+      "url": "https://doi.org/10.1038/s41746-025-02269-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-02269-8?error=cookies_not_supported&code=30ed8faa-e11a-4e6d-80e4-aa3ad02f7510",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 5,
+      "field": "doi",
+      "label": "Explainable and evidence-linked recommendations for spine surgery via a retrieval-augmented LLM agent",
+      "url": "https://doi.org/10.1016/j.ejrad.2026.112734",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0720048X26000823",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 5,
+      "field": "url",
+      "label": "Explainable and evidence-linked recommendations for spine surgery via a retrieval-augmented LLM agent",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0720048X26000823",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/abs/pii/S0720048X26000823",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 6,
+      "field": "doi",
+      "label": "Performance comparison of a neuro-symbolic large language model system versus conventional AI models and human experts in cholangitis management",
+      "url": "https://doi.org/10.1186/s12911-026-03593-z",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1186/s12911-026-03593-z?error=cookies_not_supported&code=c9bcaaea-2bb6-4bfa-a472-41da2c3d9a01",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 6,
+      "field": "url",
+      "label": "Performance comparison of a neuro-symbolic large language model system versus conventional AI models and human experts in cholangitis management",
+      "url": "https://link.springer.com/article/10.1186/s12911-026-03593-z",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1186/s12911-026-03593-z?error=cookies_not_supported&code=a0768f9a-72a1-4dc8-9f27-922a8638b1f0",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 7,
+      "field": "doi",
+      "label": "MedAgentBench v2: Improving Medical LLM Agent Design",
+      "url": "https://doi.org/10.1142/9789819824755_0025",
+      "status": 200,
+      "final_url": "https://www.worldscientific.com/action/cookieAbsent",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 7,
+      "field": "url",
+      "label": "MedAgentBench v2: Improving Medical LLM Agent Design",
+      "url": "https://psb.stanford.edu/psb-online/proceedings/psb26/chen_eric.pdf",
+      "status": 200,
+      "final_url": "https://psb.stanford.edu/psb-online/proceedings/psb26/chen_eric.pdf",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 7,
+      "field": "code_url",
+      "label": "MedAgentBench v2: Improving Medical LLM Agent Design",
+      "url": "https://github.com/ericoericochen/medagentbenchv2",
+      "status": 200,
+      "final_url": "https://github.com/ericoericochen/medagentbenchv2",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 8,
+      "field": "doi",
+      "label": "Large Language Model Agent for Managing Patients With Suspected Hypertension",
+      "url": "https://doi.org/10.1161/hypertensionaha.125.25305",
+      "status": 200,
+      "final_url": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25305",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 8,
+      "field": "url",
+      "label": "Large Language Model Agent for Managing Patients With Suspected Hypertension",
+      "url": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25305",
+      "status": 200,
+      "final_url": "https://www.ahajournals.org/action/cookieAbsent",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 9,
+      "field": "doi",
+      "label": "Agentic LLM for anonymizing healthcare data with contextual awareness",
+      "url": "https://doi.org/10.1016/j.knosys.2026.116034",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0950705126007604",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 9,
+      "field": "url",
+      "label": "Agentic LLM for anonymizing healthcare data with contextual awareness",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950705126007604",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S0950705126007604",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 10,
+      "field": "doi",
+      "label": "Impact of patient communication style on agentic AI-generated clinical advice in E-medicine",
+      "url": "https://doi.org/10.1016/j.amjmed.2025.12.027",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0002934326000100",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 10,
+      "field": "url",
+      "label": "Impact of patient communication style on agentic AI-generated clinical advice in E-medicine",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002934326000100",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/abs/pii/S0002934326000100",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 11,
+      "field": "doi",
+      "label": "EvoMDT: a self-evolving multi-agent system for structured clinical decision-making in multi-cancer",
+      "url": "https://doi.org/10.1038/s41746-025-02304-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-02304-8?error=cookies_not_supported&code=47a08e59-8099-4c66-b140-65324795fcf1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 11,
+      "field": "url",
+      "label": "EvoMDT: a self-evolving multi-agent system for structured clinical decision-making in multi-cancer",
+      "url": "https://doi.org/10.1038/s41746-025-02304-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-02304-8?error=cookies_not_supported&code=8bfddac7-b014-424b-b462-946f11299bcd",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 12,
+      "field": "doi",
+      "label": "AgentClinic: a multimodal benchmark for tool-using clinical AI agents",
+      "url": "https://doi.org/10.1038/s41746-026-02674-7",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-026-02674-7?error=cookies_not_supported&code=85a4eb30-bf15-4fc4-afc1-ade369d2f7d9",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 12,
+      "field": "url",
+      "label": "AgentClinic: a multimodal benchmark for tool-using clinical AI agents",
+      "url": "https://doi.org/10.1038/s41746-026-02674-7",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-026-02674-7?error=cookies_not_supported&code=c190362c-740b-4d4d-b73c-348b14230c67",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 12,
+      "field": "code_url",
+      "label": "AgentClinic: a multimodal benchmark for tool-using clinical AI agents",
+      "url": "https://github.com/samuelschmidgall/agentclinic",
+      "status": 200,
+      "final_url": "https://github.com/samuelschmidgall/agentclinic",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 13,
+      "field": "doi",
+      "label": "Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study",
+      "url": "https://doi.org/10.1093/eurjcn/zvag029",
+      "status": 403,
+      "final_url": "https://academic.oup.com/eurjcn/advance-article/doi/10.1093/eurjcn/zvag029/8455732",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 13,
+      "field": "url",
+      "label": "Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study",
+      "url": "https://doi.org/10.1093/eurjcn/zvag029",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 14,
+      "field": "doi",
+      "label": "AutoMedic: An Automated Evaluation Framework for Clinical Conversational Agents with Medical Dataset Grounding",
+      "url": "https://doi.org/10.1109/jbhi.2026.3703097",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11559631/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 14,
+      "field": "url",
+      "label": "AutoMedic: An Automated Evaluation Framework for Clinical Conversational Agents with Medical Dataset Grounding",
+      "url": "https://doi.org/10.1109/jbhi.2026.3703097",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11559631/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 15,
+      "field": "doi",
+      "label": "A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study",
+      "url": "https://doi.org/10.1016/j.landig.2025.100966",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2589750025001487",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 15,
+      "field": "url",
+      "label": "A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00148-7/fulltext",
+      "status": 403,
+      "final_url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00148-7/fulltext",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 16,
+      "field": "doi",
+      "label": "Let large language models judge each other: multi-agent peer-reviewed reasoning for medical question answering",
+      "url": "https://doi.org/10.48550/arxiv.2606.15419",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.15419",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 16,
+      "field": "url",
+      "label": "Let large language models judge each other: multi-agent peer-reviewed reasoning for medical question answering",
+      "url": "https://arxiv.org/html/2606.15419v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.15419v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 17,
+      "field": "doi",
+      "label": "EC2Seq2Sql: Patient-trial matching with LLM agents",
+      "url": "https://doi.org/10.1371/journal.pone.0341827",
+      "status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341827",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 17,
+      "field": "url",
+      "label": "EC2Seq2Sql: Patient-trial matching with LLM agents",
+      "url": "https://doi.org/10.1371/journal.pone.0341827",
+      "status": 200,
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341827",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 18,
+      "field": "doi",
+      "label": "Addressing hallucinations in generative AI agents using observability and dual memory knowledge graphs",
+      "url": "https://doi.org/10.1016/j.knosys.2026.115469",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0950705126002121",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 18,
+      "field": "url",
+      "label": "Addressing hallucinations in generative AI agents using observability and dual memory knowledge graphs",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950705126002121#abs0001",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S0950705126002121#abs0001",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 19,
+      "field": "doi",
+      "label": "MedCTA: A Benchmark for Clinical Tool Agents",
+      "url": "https://doi.org/10.48550/arxiv.2606.11702",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.11702",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 19,
+      "field": "url",
+      "label": "MedCTA: A Benchmark for Clinical Tool Agents",
+      "url": "http://arxiv.org/abs/2606.11702v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.11702v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 19,
+      "field": "code_url",
+      "label": "MedCTA: A Benchmark for Clinical Tool Agents",
+      "url": "https://github.com/IVUL-KAUST/MedCTA",
+      "status": 200,
+      "final_url": "https://github.com/IVUL-KAUST/MedCTA",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 20,
+      "field": "doi",
+      "label": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "https://doi.org/10.48550/arxiv.2605.02240",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.02240",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 20,
+      "field": "url",
+      "label": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "http://arxiv.org/abs/2605.02240v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.02240v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 20,
+      "field": "code_url",
+      "label": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "https://github.com/HealthRex/PhysicianBench",
+      "status": 200,
+      "final_url": "https://github.com/HealthRex/PhysicianBench",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 21,
+      "field": "doi",
+      "label": "DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue",
+      "url": "https://doi.org/10.48550/arxiv.2505.19630",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2505.19630",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 21,
+      "field": "url",
+      "label": "DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue",
+      "url": "https://arxiv.org/html/2505.19630v2",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2505.19630v2",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 21,
+      "field": "code_url",
+      "label": "DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue",
+      "url": "https://github.com/JarvisUSTC/DoctorAgent-RL",
+      "status": 200,
+      "final_url": "https://github.com/JarvisUSTC/DoctorAgent-RL",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 22,
+      "field": "doi",
+      "label": "Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes",
+      "url": "https://doi.org/10.48550/arxiv.2507.12261",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2507.12261",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 22,
+      "field": "url",
+      "label": "Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes",
+      "url": "https://arxiv.org/html/2507.12261v2",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2507.12261v2",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 22,
+      "field": "code_url",
+      "label": "Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes",
+      "url": "https://github.com/j-frei/Infherno",
+      "status": 200,
+      "final_url": "https://github.com/j-frei/Infherno",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 23,
+      "field": "doi",
+      "label": "ART: Action-based Reasoning Task Benchmarking for Medical AI Agents",
+      "url": "https://doi.org/10.48550/arxiv.2601.08988",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.08988",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 23,
+      "field": "url",
+      "label": "ART: Action-based Reasoning Task Benchmarking for Medical AI Agents",
+      "url": "http://arxiv.org/abs/2601.08988v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.08988v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 24,
+      "field": "doi",
+      "label": "AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks",
+      "url": "https://doi.org/10.48550/arxiv.2605.10286",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.10286",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 24,
+      "field": "url",
+      "label": "AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks",
+      "url": "https://arxiv.org/html/2605.10286v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2605.10286v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 25,
+      "field": "doi",
+      "label": "Towards autonomous medical artificial intelligence agents",
+      "url": "https://doi.org/10.1038/s41586-026-10675-5",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-026-10675-5?error=cookies_not_supported&code=a5deb3ea-e671-4d8f-ba9b-82450035fb22",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 25,
+      "field": "url",
+      "label": "Towards autonomous medical artificial intelligence agents",
+      "url": "https://www.nature.com/articles/s41586-026-10675-5",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41586-026-10675-5?error=cookies_not_supported&code=ca6ae8d6-b602-4a37-b46c-b3b6584409ce",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 25,
+      "field": "code_url",
+      "label": "Towards autonomous medical artificial intelligence agents",
+      "url": "https://github.com/Dyke-F/MIRA",
+      "status": 200,
+      "final_url": "https://github.com/Dyke-F/MIRA",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 26,
+      "field": "doi",
+      "label": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.16556",
+      "status": 403,
+      "final_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 26,
+      "field": "url",
+      "label": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "status": 403,
+      "final_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 26,
+      "field": "code_url",
+      "label": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+      "url": "https://github.com/fcgrolleau/medfacteval",
+      "status": 200,
+      "final_url": "https://github.com/fcgrolleau/medfacteval",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 27,
+      "field": "doi",
+      "label": "A Bilingual On-Premises AI Agent for Clinical Drafting: Implementation Report of Seamless Electronic Health Records Integration in the Y-KNOT Project",
+      "url": "https://doi.org/10.2196/76848",
+      "status": 200,
+      "final_url": "https://medinform.jmir.org/2025/1/e76848",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 27,
+      "field": "url",
+      "label": "A Bilingual On-Premises AI Agent for Clinical Drafting: Implementation Report of Seamless Electronic Health Records Integration in the Y-KNOT Project",
+      "url": "https://doi.org/10.2196/76848",
+      "status": 200,
+      "final_url": "https://medinform.jmir.org/2025/1/e76848",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 28,
+      "field": "doi",
+      "label": "CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes",
+      "url": "https://doi.org/10.1038/s41746-025-01940-4",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-01940-4?error=cookies_not_supported&code=f86ccafc-44d8-4d0e-b7b6-a67928ea945a",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 28,
+      "field": "url",
+      "label": "CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes",
+      "url": "https://doi.org/10.1038/s41746-025-01940-4",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-01940-4?error=cookies_not_supported&code=48d61d70-4c2d-4cf0-b6cf-15b955c4fb91",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 29,
+      "field": "doi",
+      "label": "ADAM-1: An AI Reasoning and Bioinformatics Model for Alzheimer’s Disease Detection and Microbiome-Clinical Data Integration",
+      "url": "https://doi.org/10.1109/access.2025.3599857",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11129017/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 29,
+      "field": "url",
+      "label": "ADAM-1: An AI Reasoning and Bioinformatics Model for Alzheimer’s Disease Detection and Microbiome-Clinical Data Integration",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11129017",
+      "status": 200,
+      "final_url": "https://ieeexplore.ieee.org/abstract/document/11129017",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 30,
+      "field": "doi",
+      "label": "An Agentic LLM-Based Framework for Population-Scale Mental Health Screening",
+      "url": "https://doi.org/10.48550/arxiv.2605.13046",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.13046",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 30,
+      "field": "url",
+      "label": "An Agentic LLM-Based Framework for Population-Scale Mental Health Screening",
+      "url": "https://arxiv.org/html/2605.13046v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2605.13046v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 31,
+      "field": "doi",
+      "label": "PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology",
+      "url": "https://doi.org/10.48550/arxiv.2502.08916",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2502.08916",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 31,
+      "field": "url",
+      "label": "PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology",
+      "url": "https://arxiv.org/html/2502.08916v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2502.08916v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 32,
+      "field": "doi",
+      "label": "Large language model agents can use tools to perform clinical calculations",
+      "url": "https://doi.org/10.1038/s41746-025-01475-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-01475-8?error=cookies_not_supported&code=e809578f-5df6-436b-a4d3-e727da9a8e2b",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 32,
+      "field": "url",
+      "label": "Large language model agents can use tools to perform clinical calculations",
+      "url": "https://doi.org/10.1038/s41746-025-01475-8",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-025-01475-8?error=cookies_not_supported&code=7dccc260-9086-46eb-a0a6-bab459a3a26f",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 32,
+      "field": "code_url",
+      "label": "Large language model agents can use tools to perform clinical calculations",
+      "url": "https://github.com/stanfordaimlab/llm-as-clinical-calculator",
+      "status": 200,
+      "final_url": "https://github.com/stanfordaimlab/llm-as-clinical-calculator",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 33,
+      "field": "doi",
+      "label": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+      "url": "https://doi.org/10.1038/s43018-025-00991-6",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s43018-025-00991-6?error=cookies_not_supported&code=94c05f79-6a4e-4815-aa36-fe85daf7124a",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 33,
+      "field": "url",
+      "label": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+      "url": "https://www.nature.com/articles/s43018-025-00991-6",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s43018-025-00991-6?error=cookies_not_supported&code=975b7eb6-7b5d-46de-8f4f-df8a7ef2544d",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 34,
+      "field": "doi",
+      "label": "MRAgent: an LLM-based automated agent for causal knowledge discovery in disease via Mendelian randomization",
+      "url": "https://doi.org/10.1093/bib/bbaf140",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbaf140/8107848",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 34,
+      "field": "url",
+      "label": "MRAgent: an LLM-based automated agent for causal knowledge discovery in disease via Mendelian randomization",
+      "url": "https://academic.oup.com/bib/article/26/2/bbaf140/8107848",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/26/2/bbaf140/8107848",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 34,
+      "field": "code_url",
+      "label": "MRAgent: an LLM-based automated agent for causal knowledge discovery in disease via Mendelian randomization",
+      "url": "https://github.com/xuwei1997/MRAgent",
+      "status": 200,
+      "final_url": "https://github.com/xuwei1997/MRAgent",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 35,
+      "field": "doi",
+      "label": "An Adaptive Multi-Agent LLM-Based Clinical Decision Support System Integrating Biomedical RAG and Web Intelligence",
+      "url": "https://doi.org/10.1109/access.2025.3613340",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11176078/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 35,
+      "field": "url",
+      "label": "An Adaptive Multi-Agent LLM-Based Clinical Decision Support System Integrating Biomedical RAG and Web Intelligence",
+      "url": "https://ieeexplore.ieee.org/document/11176078",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11176078",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 36,
+      "field": "url",
+      "label": "AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator",
+      "url": "https://aclanthology.org/2025.coling-main.680/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.coling-main.680/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 36,
+      "field": "code_url",
+      "label": "AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator",
+      "url": "https://github.com/LibertFan/AI_Hospital",
+      "status": 200,
+      "final_url": "https://github.com/LibertFan/AI_Hospital",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 37,
+      "field": "doi",
+      "label": "MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling",
+      "url": "https://doi.org/10.18653/v1/2025.naacl-long.263",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.naacl-long.263/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 37,
+      "field": "url",
+      "label": "MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling",
+      "url": "https://aclanthology.org/2025.naacl-long.263/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.naacl-long.263/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 37,
+      "field": "code_url",
+      "label": "MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling",
+      "url": "https://github.com/shzyk/MENTI",
+      "status": 200,
+      "final_url": "https://github.com/shzyk/MENTI",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 38,
+      "field": "doi",
+      "label": "CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment",
+      "url": "https://doi.org/10.48550/arxiv.2512.10206",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.10206",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 38,
+      "field": "url",
+      "label": "CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment",
+      "url": "https://arxiv.org/html/2512.10206v2",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2512.10206v2",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 39,
+      "field": "doi",
+      "label": "Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation",
+      "url": "https://doi.org/10.48550/arxiv.2507.10911",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2507.10911",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 39,
+      "field": "url",
+      "label": "Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation",
+      "url": "http://arxiv.org/abs/2507.10911v1",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2507.10911v1",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 40,
+      "field": "doi",
+      "label": "Multi-Planners in Plan-and-Solve Prompting for Medical Reasoning",
+      "url": "https://doi.org/10.1109/bigdata66926.2025.11402280",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11402280/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 40,
+      "field": "url",
+      "label": "Multi-Planners in Plan-and-Solve Prompting for Medical Reasoning",
+      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11402280&isnumber=11400712",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11402280/;jsessionid=39857507B1724E57A080A2154B519E8C",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 41,
+      "field": "doi",
+      "label": "Evaluating large language models as agents in the clinic.",
+      "url": "https://doi.org/10.1038/s41746-024-01083-y",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-024-01083-y?error=cookies_not_supported&code=c25662e3-b20e-4a1f-9967-98c109e630cb",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 41,
+      "field": "url",
+      "label": "Evaluating large language models as agents in the clinic.",
+      "url": "https://www.nature.com/articles/s41746-024-01083-y",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s41746-024-01083-y?error=cookies_not_supported&code=0d4ad2fa-e018-4092-9310-8338ed1ddb2b",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 42,
+      "field": "doi",
+      "label": "TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage",
+      "url": "https://doi.org/10.18653/v1/2024.findings-emnlp.329",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2024.findings-emnlp.329/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 42,
+      "field": "url",
+      "label": "TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage",
+      "url": "https://aclanthology.org/2024.findings-emnlp.329/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2024.findings-emnlp.329/",
+      "error": null
+    },
+    {
+      "source": "data/included_studies.csv",
+      "row": 42,
+      "field": "code_url",
+      "label": "TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage",
+      "url": "https://github.com/Lucanyc/TriageAgent",
+      "status": 200,
+      "final_url": "https://github.com/Lucanyc/TriageAgent",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 2,
+      "field": "doi",
+      "label": "Alhazba SA, Ali MH, Alawi DA, et al. From Reactive AI to Agentic Systems: A Review of Autonomous medical AI Agents in Healthcare.",
+      "url": "https://doi.org/10.1007/s11831-026-10655-y",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s11831-026-10655-y?error=cookies_not_supported&code=f2b7badf-f542-4e9a-83fa-a4cc360e3bb4",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 2,
+      "field": "url",
+      "label": "Alhazba SA, Ali MH, Alawi DA, et al. From Reactive AI to Agentic Systems: A Review of Autonomous medical AI Agents in Healthcare.",
+      "url": "https://doi.org/10.1007/s11831-026-10655-y",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 3,
+      "field": "doi",
+      "label": "Branda F, Ahmed MM, Ciccozzi M, et al. The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery.",
+      "url": "https://doi.org/10.1093/bib/bbag245",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag245/8688274",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 3,
+      "field": "url",
+      "label": "Branda F, Ahmed MM, Ciccozzi M, et al. The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery.",
+      "url": "https://doi.org/10.1093/bib/bbag245",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag245/8688274",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 4,
+      "field": "doi",
+      "label": "Chen LF, Xu XM, Qin YM, et al. Vision-language foundation model driven agentic AI systems for healthcare.",
+      "url": "https://doi.org/10.1007/s00371-026-04437-7",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s00371-026-04437-7?error=cookies_not_supported&code=16511169-dd96-4885-bf07-af89e4c5ca16",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 4,
+      "field": "url",
+      "label": "Chen LF, Xu XM, Qin YM, et al. Vision-language foundation model driven agentic AI systems for healthcare.",
+      "url": "https://doi.org/10.1007/s00371-026-04437-7",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 5,
+      "field": "doi",
+      "label": "Chen XL, Chen RY, Xu PS, et al. From visual question answering to intelligent AI agents in ophthalmology.",
+      "url": "https://doi.org/10.1136/bjo-2024-326097",
+      "status": 403,
+      "final_url": "https://bjo.bmj.com/lookup/doi/10.1136/bjo-2024-326097",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 5,
+      "field": "url",
+      "label": "Chen XL, Chen RY, Xu PS, et al. From visual question answering to intelligent AI agents in ophthalmology.",
+      "url": "https://doi.org/10.1136/bjo-2024-326097",
+      "status": 403,
+      "final_url": "https://bjo.bmj.com/lookup/doi/10.1136/bjo-2024-326097",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 6,
+      "field": "doi",
+      "label": "Chen Y, Qin XQ, Chen SP. Foundation Models and AI Agents in Digital Pathology Imaging: A Systematic Review of Integration into the Clinical Workflow and Implementation Challenges.",
+      "url": "https://doi.org/10.1007/s10278-026-02034-7",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 6,
+      "field": "url",
+      "label": "Chen Y, Qin XQ, Chen SP. Foundation Models and AI Agents in Digital Pathology Imaging: A Systematic Review of Integration into the Clinical Workflow and Implementation Challenges.",
+      "url": "https://doi.org/10.1007/s10278-026-02034-7",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s10278-026-02034-7?error=cookies_not_supported&code=1100c174-8be2-4b20-8788-a16eaaa3b2bb",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 7,
+      "field": "doi",
+      "label": "Dip SA, Mallick D, Shuvo UA, et al. Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbag110",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 7,
+      "field": "url",
+      "label": "Dip SA, Mallick D, Shuvo UA, et al. Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbag110",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag110/8540361",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 8,
+      "field": "doi",
+      "label": "Ghanwatkar Y, Rajdeo P, Mahato RI. Foundation models and AI agents in oncology drug discovery.",
+      "url": "https://doi.org/10.1016/j.drudis.2026.104655",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1359644626000607",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 8,
+      "field": "url",
+      "label": "Ghanwatkar Y, Rajdeo P, Mahato RI. Foundation models and AI agents in oncology drug discovery.",
+      "url": "https://doi.org/10.1016/j.drudis.2026.104655",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1359644626000607",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 9,
+      "field": "doi",
+      "label": "Guo XT, Chen J, Zhang YY, et al. Precision oncology: from large language models to multi-agent systems.",
+      "url": "https://doi.org/10.3389/fonc.2026.1828507",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1828507/full",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 9,
+      "field": "url",
+      "label": "Guo XT, Chen J, Zhang YY, et al. Precision oncology: from large language models to multi-agent systems.",
+      "url": "https://doi.org/10.3389/fonc.2026.1828507",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1828507/full",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 10,
+      "field": "doi",
+      "label": "Huynh DL, Seal S, Reid D, et al. AI agents in drug discovery: applications and case studies.",
+      "url": "https://doi.org/10.1016/j.drudis.2026.104650",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1359644626000553",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 10,
+      "field": "url",
+      "label": "Huynh DL, Seal S, Reid D, et al. AI agents in drug discovery: applications and case studies.",
+      "url": "https://doi.org/10.1016/j.drudis.2026.104650",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1359644626000553",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 11,
+      "field": "doi",
+      "label": "Ma AR, Chen JY, Yang ZY. From Tool to Agent: A Semi-Systematic Review of Human-AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health.",
+      "url": "https://doi.org/10.3390/healthcare14060820",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2227-9032/14/6/820",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 11,
+      "field": "url",
+      "label": "Ma AR, Chen JY, Yang ZY. From Tool to Agent: A Semi-Systematic Review of Human-AI Alignment and a Proposed Tiered Healing Ecosystem for Mental Health.",
+      "url": "https://doi.org/10.3390/healthcare14060820",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2227-9032/14/6/820",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 12,
+      "field": "doi",
+      "label": "Qi C, Wang WB, Jiang SQ, et al. Artificial Intelligence agents for biological research: a survey.",
+      "url": "https://doi.org/10.1093/bib/bbag075",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag075/8499367",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 12,
+      "field": "url",
+      "label": "Qi C, Wang WB, Jiang SQ, et al. Artificial Intelligence agents for biological research: a survey.",
+      "url": "https://doi.org/10.1093/bib/bbag075",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag075/8499367",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 13,
+      "field": "doi",
+      "label": "Salehi S, Keishing V, Singh Y, et al. Systematic Review: Agentic AI in Neuroradiology: Technical Promise with Limited Clinical Evidence.",
+      "url": "https://doi.org/10.1007/s10278-025-01839-2",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s10278-025-01839-2?error=cookies_not_supported&code=fbc36fec-d117-478d-8c7a-a334a8e4d497",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 13,
+      "field": "url",
+      "label": "Salehi S, Keishing V, Singh Y, et al. Systematic Review: Agentic AI in Neuroradiology: Technical Promise with Limited Clinical Evidence.",
+      "url": "https://doi.org/10.1007/s10278-025-01839-2",
+      "status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s10278-025-01839-2?error=cookies_not_supported&code=aaabd3ca-5c1e-48b8-ac9f-a9733386deb9",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 14,
+      "field": "doi",
+      "label": "Silveira AL, Righi RR, da Costa CA. Multi-agent systems for clinical decision support: A systematic review.",
+      "url": "https://doi.org/10.1016/j.asoc.2025.114447",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1568494625017600",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 14,
+      "field": "url",
+      "label": "Silveira AL, Righi RR, da Costa CA. Multi-agent systems for clinical decision support: A systematic review.",
+      "url": "https://doi.org/10.1016/j.asoc.2025.114447",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1568494625017600",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 15,
+      "field": "doi",
+      "label": "Soetikno BT, Nielsen CS, Pollreisz A, et al. Toward autonomous discovery: agentic AI and the future of ophthalmic research.",
+      "url": "https://doi.org/10.1097/ICU.0000000000001179",
+      "status": 200,
+      "final_url": "https://www.ovid.com/jnls/co-ophthalmology/abstract/10.1097/icu.0000000000001179~toward-autonomous-discovery-agentic-ai-and-the-future-of?redirectionsource=fulltextview",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 15,
+      "field": "url",
+      "label": "Soetikno BT, Nielsen CS, Pollreisz A, et al. Toward autonomous discovery: agentic AI and the future of ophthalmic research.",
+      "url": "https://doi.org/10.1097/ICU.0000000000001179",
+      "status": 403,
+      "final_url": "https://journals.lww.com/10.1097/ICU.0000000000001179",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 16,
+      "field": "doi",
+      "label": "Srinivasu P, Aruna Kumari GL, Ahmed S, et al. Exploring agentic AI in healthcare: a study on its working mechanism.",
+      "url": "https://doi.org/10.3389/fmed.2025.1753443",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1753443/full",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 16,
+      "field": "url",
+      "label": "Srinivasu P, Aruna Kumari GL, Ahmed S, et al. Exploring agentic AI in healthcare: a study on its working mechanism.",
+      "url": "https://doi.org/10.3389/fmed.2025.1753443",
+      "status": 200,
+      "final_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1753443/full",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 17,
+      "field": "doi",
+      "label": "Tzanis E, Adams LC, D'Antonoli TA, et al. Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns.",
+      "url": "https://doi.org/10.1016/j.diii.2025.10.002",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2211568425001858",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 17,
+      "field": "url",
+      "label": "Tzanis E, Adams LC, D'Antonoli TA, et al. Agentic systems in radiology: Principles, opportunities, privacy risks, regulation, and sustainability concerns.",
+      "url": "https://doi.org/10.1016/j.diii.2025.10.002",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 18,
+      "field": "doi",
+      "label": "Vatsal S, Dubey H, Singh A. Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents.",
+      "url": "https://doi.org/10.1109/access.2026.3651218",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11329025/",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 18,
+      "field": "url",
+      "label": "Vatsal S, Dubey H, Singh A. Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents.",
+      "url": "https://doi.org/10.1109/access.2026.3651218",
+      "status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/11329025/",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 19,
+      "field": "doi",
+      "label": "Venerito V, Lopalco G, Iannone F, et al. Agentic AI in rheumatology.",
+      "url": "https://doi.org/10.1016/S2665-9913(26)00076-7",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2665991326000767",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 19,
+      "field": "url",
+      "label": "Venerito V, Lopalco G, Iannone F, et al. Agentic AI in rheumatology.",
+      "url": "https://doi.org/10.1016/S2665-9913(26)00076-7",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2665991326000767",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 20,
+      "field": "doi",
+      "label": "Xu G, Li X, Chen Y, et al. A comprehensive survey of AI agents in healthcare.",
+      "url": "https://doi.org/10.1016/j.jbi.2026.105045",
+      "status": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1532046426000699",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 20,
+      "field": "url",
+      "label": "Xu G, Li X, Chen Y, et al. A comprehensive survey of AI agents in healthcare.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1532046426000699",
+      "status": 403,
+      "final_url": "https://www.sciencedirect.com/science/article/pii/S1532046426000699",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 21,
+      "field": "doi",
+      "label": "Zhao L, Liu S, Xin T, et al. AI agent in healthcare: applications, evaluations, and future directions.",
+      "url": "https://doi.org/10.1038/s44387-026-00076-4",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s44387-026-00076-4?error=cookies_not_supported&code=fb73fe86-ca6f-418f-a85f-a897baf33e41",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 21,
+      "field": "url",
+      "label": "Zhao L, Liu S, Xin T, et al. AI agent in healthcare: applications, evaluations, and future directions.",
+      "url": "https://www.nature.com/articles/s44387-026-00076-4",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/s44387-026-00076-4?error=cookies_not_supported&code=d8ab77a7-948a-40e8-aeb5-49f386950fa3",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 22,
+      "field": "doi",
+      "label": "Salehi S, Singh Y, Horst KK, et al. Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges.",
+      "url": "https://doi.org/10.3390/bioengineering12121303",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2306-5354/12/12/1303",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 22,
+      "field": "url",
+      "label": "Salehi S, Singh Y, Horst KK, et al. Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges.",
+      "url": "https://doi.org/10.3390/bioengineering12121303",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2306-5354/12/12/1303",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 23,
+      "field": "doi",
+      "label": "Wang W, Ma Z, Wang Z, et al. A survey of LLM-based agents in medicine: how far are we from Baymax?",
+      "url": "https://doi.org/10.18653/v1/2025.findings-acl.539",
+      "status": null,
+      "final_url": null,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 23,
+      "field": "url",
+      "label": "Wang W, Ma Z, Wang Z, et al. A survey of LLM-based agents in medicine: how far are we from Baymax?",
+      "url": "https://aclanthology.org/2025.findings-acl.539/",
+      "status": 200,
+      "final_url": "https://aclanthology.org/2025.findings-acl.539/",
+      "error": null
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 24,
+      "field": "doi",
+      "label": "Xu X, Sankar R. Large language model agents for biomedicine: a comprehensive review of methods, evaluations, challenges, and future directions.",
+      "url": "https://doi.org/10.3390/info16100894",
+      "status": 403,
+      "final_url": "https://www.mdpi.com/2078-2489/16/10/894",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 24,
+      "field": "url",
+      "label": "Xu X, Sankar R. Large language model agents for biomedicine: a comprehensive review of methods, evaluations, challenges, and future directions.",
+      "url": "https://doi.org/10.3390/info16100894",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 25,
+      "field": "doi",
+      "label": "Yang TT, Xiao YH, Bao ZJ, et al. The rise and potential opportunities of large language model agents in bioinformatics and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbaf601",
+      "status": null,
+      "final_url": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "data/related_reviews.csv",
+      "row": 25,
+      "field": "url",
+      "label": "Yang TT, Xiao YH, Bao ZJ, et al. The rise and potential opportunities of large language model agents in bioinformatics and biomedicine.",
+      "url": "https://doi.org/10.1093/bib/bbaf601",
+      "status": 403,
+      "final_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbaf601/8320153",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+    }
+  ]
+}

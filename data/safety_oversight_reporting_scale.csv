@@ -1,0 +1,7 @@
+code,reporting_status,definition
+0,Not reported,The mechanism was not described
+1,Conceptually mentioned,"The mechanism was discussed as desirable, future work, or a general principle"
+2,Included in design,The mechanism was specified as part of the system design or architecture
+3,Implemented,The mechanism was implemented in the evaluated system
+4,Evaluated,"The mechanism was empirically tested, audited, or assessed"
+5,Deployed/monitored,The mechanism was used in deployment or continuous monitoring

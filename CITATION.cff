@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: Awesome Medical Agent Evaluation
+message: If you use this resource, please cite the associated scoping review and this repository.
+type: dataset
+authors:
+  - family-names: "Wang"
+    given-names: "Yuhao"
+  - family-names: "Liao"
+    given-names: "Yuehui"
+  - family-names: "Chen"
+    given-names: "Yu"
+  - family-names: "Feng"
+    given-names: "Yaning"
+  - family-names: "Yang"
+    given-names: "Guang"
+  - family-names: "Jin"
+    given-names: "Qun"
+  - family-names: "Lai"
+    given-names: "Xiaobo"
+  - family-names: "Hu"
+    given-names: "Yu"
+version: 1.0.0
+date-released: 2026-07-13
+license: CC-BY-4.0

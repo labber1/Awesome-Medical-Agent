@@ -1,0 +1,7 @@
+level,maturity_category,typical_reported_evidence_source
+Level 0,Conceptual proposal or non-implemented framework,"Commentaries, design blueprints, protocols, or frameworks without an implemented agentic workflow or empirical system run."
+Level 1,Implemented proof-of-concept without systematic evaluation,"Implemented prototypes, demos, case examples, or feasibility checks without systematic benchmark, simulation, or clinical-data evaluation."
+Level 2,Benchmark or simulation evaluation,"Public medical or biomedical benchmarks, retrieval or tool-use benchmarks, virtual patients, simulated EHR environments, diagnostic simulators, multi-agent clinical simulations, or red-teaming tasks."
+Level 3,Retrospective clinical-data evaluation,"Historical EHRs, clinical notes, imaging archives, laboratory data, registries, claims data, de-identified patient messages, or retrospective patient cohorts."
+Level 4,Prospective silent-mode or workflow study,"Silent-mode deployment, shadow testing, prospective usability studies, clinician-in-the-loop workflow evaluations, or workflow-integrated evaluations in real clinical settings without autonomous or interventional clinical action."
+Level 5,Clinical evaluation or monitored real-world use,"Randomized or pragmatic clinical trials involving real patients, prospective clinical deployment, health-system implementation with active clinical use, or monitored clinical use of the complete agentic workflow."
