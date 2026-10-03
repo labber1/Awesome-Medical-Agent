@@ -1,0 +1,1243 @@
+﻿report_id,mechanism_id,mechanism_name,domain,reporting_status,implemented,empirically_evaluated,used_in_evaluated_setting,used_in_real_world_operation
+R001,GV01,Audit logging,Governance and lifecycle,Unclear,Unclear,Unclear,Not reported,Not reported
+R001,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R001,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,GV12,Institutional governance,Governance and lifecycle,Reported,Yes,No,Yes,Not reported
+R001,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,No,Yes,Not reported
+R001,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT06,Human approval gate,Runtime safeguard,Explicitly absent,No,Not applicable,No,Not reported
+R001,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Yes,Not reported
+R001,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R001,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,GV01,Audit logging,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV02,Evidence or version provenance,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV03,Responsibility assignment,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV04,Incident reporting,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV05,Release approval,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,GV07,Drift monitoring,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV08,Post-update regression testing,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,GV10,Post-deployment surveillance,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,GV12,Institutional governance,Governance and lifecycle,Reported,No,Not reported,Not reported,Not reported
+R010,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT03,Enforced scope restriction,Runtime safeguard,Reported,No,Not reported,Not reported,Not reported
+R010,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R010,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT06,Human approval gate,Runtime safeguard,Reported,No,Not reported,Not reported,Not reported
+R010,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R010,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R030,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R030,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R030,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R033,GV01,Audit logging,Governance and lifecycle,Reported,Yes,No,Not reported,Not reported
+R033,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV04,Incident reporting,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV05,Release approval,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV06,Change control,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV11,Access review,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,GV12,Institutional governance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT02,Output blocking,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT05,Access control,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT06,Human approval gate,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT07,Escalation trigger,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT08,Override or interruption,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT10,Runtime rollback,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R033,RT11,Leakage interception,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R041,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R041,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R041,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,No,Not reported,No
+R068,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R068,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT06,Human approval gate,Runtime safeguard,Reported,No,Not applicable,Not reported,No
+R068,RT07,Escalation trigger,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R068,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R068,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R074,GV01,Audit logging,Governance and lifecycle,Reported,No,No,Not reported,Not reported
+R074,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV04,Incident reporting,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV05,Release approval,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV06,Change control,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV11,Access review,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,GV12,Institutional governance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT02,Output blocking,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT05,Access control,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R074,RT06,Human approval gate,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT07,Escalation trigger,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT08,Override or interruption,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT10,Runtime rollback,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R074,RT11,Leakage interception,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R081,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R081,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R081,GV03,Responsibility assignment,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R081,GV04,Incident reporting,Governance and lifecycle,Reported,No,No,Not reported,Not reported
+R081,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,GV07,Drift monitoring,Governance and lifecycle,Reported,No,No,Not reported,Not reported
+R081,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,GV10,Post-deployment surveillance,Governance and lifecycle,Reported,No,No,Not reported,Not reported
+R081,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT01,Abstention or refusal,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R081,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R081,RT07,Escalation trigger,Runtime safeguard,Reported,Yes,Not reported,Not reported,Not reported
+R081,RT08,Override or interruption,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R081,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R081,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not applicable,Not reported,Not reported
+R096,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R096,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV05,Release approval,Governance and lifecycle,Reported,Yes,Not applicable,Yes,Not reported
+R138,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV09,Periodic revalidation,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R138,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,GV12,Institutional governance,Governance and lifecycle,Reported,Yes,Not applicable,Yes,Unclear
+R138,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Not reported,Yes,Unclear
+R138,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT03,Enforced scope restriction,Runtime safeguard,Reported,Yes,Not reported,Yes,Unclear
+R138,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT07,Escalation trigger,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R138,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R138,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R141,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R141,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R141,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R141,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Unclear,Not reported
+R142,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Not reported,Yes,Not reported
+R142,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Unclear,Not reported
+R142,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT05,Access control,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R142,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R142,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R142,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R231,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R231,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,No,Not reported
+R231,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT02,Output blocking,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R231,RT03,Enforced scope restriction,Runtime safeguard,Reported,Yes,Unclear,Yes,Not reported
+R231,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R231,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R231,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Yes,Not reported
+R271,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R271,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Not reported,Not reported
+R279,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT01,Abstention or refusal,Runtime safeguard,Reported,Unclear,Not reported,Not reported,Not reported
+R279,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R279,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R300,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R300,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R325,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Yes,Not reported
+R325,RT06,Human approval gate,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R325,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R325,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R358,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Not reported,No
+R358,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV10,Post-deployment surveillance,Governance and lifecycle,Reported,No,No,Not reported,No
+R358,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R358,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT03,Enforced scope restriction,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R358,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R358,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,No
+R358,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Yes,No
+R358,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R358,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R365,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R365,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R369,GV01,Audit logging,Governance and lifecycle,Reported,Yes,No,Not reported,Not reported
+R369,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV04,Incident reporting,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV05,Release approval,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV06,Change control,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV11,Access review,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,GV12,Institutional governance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT02,Output blocking,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT05,Access control,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT06,Human approval gate,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT07,Escalation trigger,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT08,Override or interruption,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT10,Runtime rollback,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R369,RT11,Leakage interception,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R371,GV01,Audit logging,Governance and lifecycle,Reported,Yes,No,Not reported,No
+R371,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R371,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R371,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R375,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R375,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R377,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R377,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R378,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R378,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R381,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R381,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R381,RT11,Leakage interception,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R397,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,No
+R397,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV10,Post-deployment surveillance,Governance and lifecycle,Explicitly absent,No,Not applicable,Not reported,No
+R397,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R397,GV12,Institutional governance,Governance and lifecycle,Reported,Unclear,Not reported,Not reported,No
+R397,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R397,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R406,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Yes,Not reported
+R406,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R406,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R406,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R407,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV03,Responsibility assignment,Governance and lifecycle,Reported,No,Not applicable,Not reported,Not reported
+R418,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Yes,Not reported
+R418,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R418,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT04,Tool or action permissions,Runtime safeguard,Explicitly absent,No,Not applicable,No,Not reported
+R418,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R418,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R418,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R447,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Yes,No
+R447,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Not reported,No
+R447,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R447,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R447,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R451,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R451,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT06,Human approval gate,Runtime safeguard,Explicitly absent,No,Not applicable,Not reported,Not reported
+R451,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R451,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Not reported,Not reported
+R452,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,GV12,Institutional governance,Governance and lifecycle,Reported,Yes,Not applicable,Yes,Not reported
+R452,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R452,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R452,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R452,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R453,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Not applicable,Not reported,Not reported
+R454,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV08,Post-update regression testing,Governance and lifecycle,Reported,Yes,Yes,Not reported,Not reported
+R454,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R454,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R454,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R454,RT10,Runtime rollback,Runtime safeguard,Reported,Yes,Yes,Not reported,Not reported
+R454,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R455,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT02,Output blocking,Runtime safeguard,Reported,Yes,Yes,Unclear,Not reported
+R458,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT07,Escalation trigger,Runtime safeguard,Unclear,Unclear,Not reported,Not reported,Not reported
+R458,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R458,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R458,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R460,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R461,GV01,Audit logging,Governance and lifecycle,Explicitly absent,No,No,No,No
+R461,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R461,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT04,Tool or action permissions,Runtime safeguard,Explicitly absent,No,Not reported,No,Not reported
+R461,RT05,Access control,Runtime safeguard,Explicitly absent,No,No,Not reported,No
+R461,RT06,Human approval gate,Runtime safeguard,Reported,No,No,Not reported,No
+R461,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R461,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R467,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,No,Not reported
+R467,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R467,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV01,Audit logging,Governance and lifecycle,Reported,Yes,No,Yes,Not reported
+R469,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT08,Override or interruption,Runtime safeguard,Reported,Yes,No,Yes,Not reported
+R469,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,No,Yes,Not reported
+R469,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R469,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R475,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Yes,No
+R475,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,No
+R475,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R475,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R475,RT02,Output blocking,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R475,RT03,Enforced scope restriction,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R475,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R475,RT05,Access control,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R475,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R475,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R475,RT08,Override or interruption,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R475,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R475,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R475,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Not reported,No
+R476,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Not reported,Not reported,No
+R476,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R476,GV12,Institutional governance,Governance and lifecycle,Reported,Yes,Not reported,Not reported,No
+R476,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT03,Enforced scope restriction,Runtime safeguard,Reported,Yes,Not reported,Not reported,No
+R476,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT07,Escalation trigger,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R476,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R476,RT11,Leakage interception,Runtime safeguard,Explicitly absent,No,Not applicable,Not reported,No
+R484,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R484,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R484,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Yes,Not reported
+R491,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV02,Evidence or version provenance,Governance and lifecycle,Explicitly absent,No,Not applicable,Not reported,Not reported
+R491,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Not reported,Not reported,Not reported
+R491,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R491,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT06,Human approval gate,Runtime safeguard,Explicitly absent,No,Not applicable,Not reported,Not reported
+R493,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R493,RT11,Leakage interception,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R499,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Yes,Not reported
+R499,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Yes,Not reported
+R499,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT08,Override or interruption,Runtime safeguard,Reported,No,No,Not reported,Not reported
+R499,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R499,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Not reported,Yes,Not reported
+R501,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R501,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R503,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R509,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R509,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Not reported,Not reported
+R509,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV04,Incident reporting,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV05,Release approval,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV06,Change control,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV11,Access review,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,GV12,Institutional governance,Governance and lifecycle,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT02,Output blocking,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT03,Enforced scope restriction,Runtime safeguard,Reported,Not reported,Not reported,Not reported,Not reported
+R509,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT05,Access control,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT06,Human approval gate,Runtime safeguard,Reported,Yes,Not reported,Not reported,Not reported
+R509,RT07,Escalation trigger,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT08,Override or interruption,Runtime safeguard,Reported,Yes,Not reported,Not reported,Not reported
+R509,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT10,Runtime rollback,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R509,RT11,Leakage interception,Runtime safeguard,Not reported,Not applicable,Not applicable,Not reported,Not reported
+R511,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R511,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Yes,Not reported,No
+R511,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R511,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,No,No
+R511,RT07,Escalation trigger,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R511,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R511,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R514,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT01,Abstention or refusal,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R514,RT02,Output blocking,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R514,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R514,RT05,Access control,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R514,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT09,Failure or retry limit,Runtime safeguard,Reported,Yes,Yes,Yes,Not reported
+R514,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R514,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV01,Audit logging,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Yes,Yes,Not reported
+R524,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R524,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R529,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Yes,Yes,No
+R529,GV02,Evidence or version provenance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,No
+R529,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT04,Tool or action permissions,Runtime safeguard,Reported,Yes,Yes,Yes,No
+R529,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R529,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,No
+R543,GV01,Audit logging,Governance and lifecycle,Reported,Yes,Not reported,Not reported,Not reported
+R543,GV02,Evidence or version provenance,Governance and lifecycle,Reported,Yes,Not reported,Yes,Not reported
+R543,GV03,Responsibility assignment,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV04,Incident reporting,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV05,Release approval,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV06,Change control,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV07,Drift monitoring,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV08,Post-update regression testing,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV09,Periodic revalidation,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV10,Post-deployment surveillance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV11,Access review,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,GV12,Institutional governance,Governance and lifecycle,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT01,Abstention or refusal,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT02,Output blocking,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT03,Enforced scope restriction,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT04,Tool or action permissions,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT05,Access control,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT06,Human approval gate,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT07,Escalation trigger,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT08,Override or interruption,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT09,Failure or retry limit,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT10,Runtime rollback,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported
+R543,RT11,Leakage interception,Runtime safeguard,Not reported,Not reported,Not reported,Not reported,Not reported

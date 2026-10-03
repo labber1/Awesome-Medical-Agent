@@ -1,0 +1,6 @@
+﻿Analysis_set,Variable_or_field,Description,Status,Reason_not_computable
+Data charting,interaction_mode,Free-text report-level descriptions,Not computed,A/B wording is open text and semantically non-identical even when describing the same workflow; exact-string agreement would be misleading.
+Data charting,model_type,Free-text model/system descriptions,Not computed,A/B descriptions use different levels of abstraction; no frozen nominal recoding was available for this raw comparison.
+Data charting,evaluation-unit/result rows,Metric result-level values and outcomes,Not computed,A/B local evaluation IDs and row/result granularity differ; no stable one-to-one pairing rule was available.
+Data charting,individual safeguard mechanism fields,23 mechanism-level status fields,Not computed,A/B mechanism IDs and split granularity differ; only a coarse report-level presence audit is available and is not a mechanism-level reliability estimate.
+Screening,free-text rationales/evidence strength,Narrative source evidence and annotations,Not computed,Free text and evidence-strength annotations are not the prespecified categorical eligibility variables; they are excluded from κ.

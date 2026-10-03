@@ -1,0 +1,32 @@
+﻿Variable_ID,Variable_name,Total_n,Yes,No,Not_reported,Unclear,Not_applicable,Other_values,Source_verified,Consensus,Valid_n,Notes,Derived
+DO_Completeness,Source_completeness,54,0,0,0,34,0,"complete(11), partial(9)",46,8,54,Updated after 21 documented corrections and exclusion of R255; 34 remain Unclear.,0
+DO_Nature,Origin_nature,54,0,0,0,1,0,"mixed(20), biomedical_non_patient(1), clinical_derived(23), synthetic_or_simulated(9)",12,42,54,,0
+DO_Resource,Resource_type,54,0,0,0,3,0,"institutional_dataset(4), public_benchmark_or_exam(46), other(1)",47,7,54,,0
+DO_Role,Data_role,54,0,0,0,0,0,evaluation_data(54),46,8,54,All evaluation_data: No training/retrieval data role observed in this sample,0
+EM01,Automated_quantitative,54,54,0,0,0,0,,2,52,54,,0
+EM02,Human_or_expert,54,51,0,3,0,0,,31,23,54,,0
+EM03,LLM_as_judge,54,9,0,45,0,0,,39,15,54,,0
+EM04,User_or_reader_study,54,0,14,40,0,0,,33,7,54,14 items recoded from Yes to No using documented cross-field inference; not direct source verification.,14
+EM05,Comparative_or_ablation,54,54,0,0,0,0,,47,7,54,,0
+EM06,Error_or_failure_analysis,54,25,0,29,0,0,,35,19,54,,0
+EM07,Dialogue_or_trajectory,54,21,0,33,0,0,,46,8,54,,0
+EM08,Stress_or_perturbation,54,27,0,27,0,0,,46,8,54,,0
+EM09,Citation_or_reference_verify,54,29,0,25,0,0,,46,8,54,,0
+ET01,Index_agent,54,54,0,0,0,0,,0,54,54,,0
+ET02,Agent_component,54,51,0,3,0,0,,24,30,54,,0
+ET03,Comparator_system,54,53,0,1,0,0,,5,49,54,,0
+ET04,Non_agent_baseline,54,38,0,16,0,0,,46,8,54,,0
+ET_Scope,Evaluation_scope,54,0,0,0,0,0,Full(54),1,53,54,All studies met Full scope per inclusion criteria,0
+SD_Control,Study_control,54,0,0,0,0,0,"Non_randomized_controlled(52), Randomized_controlled(2)",11,43,54,,0
+SD_Human,Human_participants,54,9,44,1,0,0,,47,7,54,,0
+SD_Patient_impact,Impact_on_patient_care,54,10,44,0,0,0,,47,7,54,,0
+SD_Rand_unit,Randomization_unit,54,0,0,2,0,52,,0,54,2,"2 RCTs (R231, R484) have Not_reported randomization units; 52 non-randomized studies have Not_applicable. Valid denominator = 2.",0
+SD_Randomization,Study_randomization,54,0,0,54,0,0,,1,53,54,,0
+SD_Setting,Study_setting,54,0,0,0,0,0,"research_environment(22), clinical_operational(31), Not applicable(1)",5,49,54,,0
+SD_Temporality,Study_temporality,54,0,0,0,29,5,"Retrospective(4), Prospective(16)",38,16,49,5 Not_applicable cases excluded from valid denominator,0
+WF_Controlled,Workflow_Controlled_study,54,13,40,1,0,0,,47,7,54,,0
+WF_Multi,Workflow_multiple_contexts,54,0,53,0,1,0,,46,8,54,,0
+WF_Offline,Workflow_Offline,54,48,5,1,0,0,,32,22,54,,0
+WF_Operational,Workflow_Operational,54,24,29,1,0,0,,47,7,54,,0
+WF_Simulated,Workflow_Simulated,54,37,17,0,0,0,,32,22,54,,0
+WF_Unclear,Workflow_Unclear,54,0,54,0,0,0,,46,8,54,,0

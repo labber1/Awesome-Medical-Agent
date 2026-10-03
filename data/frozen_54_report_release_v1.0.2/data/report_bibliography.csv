@@ -1,0 +1,55 @@
+﻿report_id,report_title,doi_or_source_identifier,source_url,publication_or_posting_year,publication_type
+R001,Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology.,10.1038/s43018-025-00991-6,https://doi.org/10.1038/s43018-025-00991-6,2025,Journal article
+R010,MedAgentBench v2: Improving Medical LLM Agent Design.,10.1142/9789819824755_0025,https://doi.org/10.1142/9789819824755_0025,2026,Conference proceedings
+R030,Agentic memory-augmented retrieval and evidence grounding for medical question-answering tasks.,10.1016/j.ijmedinf.2026.106339,https://doi.org/10.1016/j.ijmedinf.2026.106339,2026,Journal article
+R033,A neural-symbolic AI agent system for biomedical concept mapping.,10.1038/s41746-026-02594-6,https://doi.org/10.1038/s41746-026-02594-6,2026,Journal article
+R041,AgentClinic: a multimodal benchmark for tool-using clinical AI agents.,10.1038/s41746-026-02674-7,https://doi.org/10.1038/s41746-026-02674-7,2026,Journal article
+R068,MARTP: a multi-agent simulation framework for automated radiation therapy planning based on LLMs.,10.1088/1361-6560/ae6af6,https://doi.org/10.1088/1361-6560/ae6af6,2026,Journal article
+R074,EC2Seq2Sql: Patient-trial matching with LLM agents.,10.1371/journal.pone.0341827,https://doi.org/10.1371/journal.pone.0341827,2026,Journal article
+R081,AI Agent for Delirium Screening among Patients in Oncology and Cardiac Intensive Care Units: A Proof-of-Concept Study.,10.1093/eurjcn/zvag029,https://doi.org/10.1093/eurjcn/zvag029,2026,Journal article
+R096,AutoMedic: An Automated Evaluation Framework for Clinical Conversational Agents with Medical Dataset Grounding,10.1109/jbhi.2026.3703097,https://doi.org/10.1109/jbhi.2026.3703097,2026,Journal article
+R138,Large Language Model Agent for Managing Patients With Suspected Hypertension,10.1161/hypertensionaha.125.25305,https://doi.org/10.1161/hypertensionaha.125.25305,2026,Journal article
+R141,Large language model agents can use tools to perform clinical calculations,10.1038/s41746-025-01475-8,https://doi.org/10.1038/s41746-025-01475-8,2025,Journal article
+R142,An Adaptive Multi-Agent LLM-Based Clinical Decision Support System Integrating Biomedical RAG and Web Intelligence,10.1109/access.2025.3613340,https://doi.org/10.1109/access.2025.3613340,2025,Journal article
+R231,Pharmacokinetics-Informed Agentic Architecture for Drug Dynamics with LLM-Driven In Silico Patients,10.3390/math14101627,https://doi.org/10.3390/math14101627,2026,Journal article
+R271,DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue,10.1109/icassp55912.2026.11460976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11460976&isnumber=11460314,2026,Conference paper
+R279,Towards the Reliability of Agentic Artificial Intelligence Models in Healthcare,10.1109/rams50514.2026.11424519,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11424519&isnumber=11424426,2026,Conference paper
+R300,Multi-Planners in Plan-and-Solve Prompting for Medical Reasoning,10.1109/bigdata66926.2025.11402280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11402280&isnumber=11400712,2025,Conference paper
+R325,Exploring the Future of AI in Clinical Collaboration: A Study on Tumor Board Case Preparation,10.1145/3772318.3790448,https://doi.org/10.1145/3772318.3790448,2026,Conference paper
+R358,Towards autonomous medical artificial intelligence agents.,10.1038/s41586-026-10675-5,https://doi.org/10.1038/s41586-026-10675-5,2026,Journal article
+R365,DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning,,https://aclanthology.org/2026.eacl-long.253/,2026,Conference paper
+R369,Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes,,https://aclanthology.org/2026.eacl-demo.13/,2026,Conference paper
+R371,PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR,,https://aclanthology.org/2026.eacl-long.88/,2026,Conference paper
+R375,3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark,,https://aclanthology.org/2025.emnlp-main.1353/,2025,Conference paper
+R377,A Knowledge-driven Adaptive Collaboration of LLMs for Enhancing Medical Decision-making,,https://aclanthology.org/2025.emnlp-main.1699/,2025,Conference paper
+R378,A Multi-Agent Framework with Diagnostic Feedback for Iterative Plain Language Summary Generation from Cochrane Medical Abstracts,10.18653/v1/2025.tsar-1.6,https://aclanthology.org/2025.tsar-1.6/,2025,Conference paper
+R381,AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator,,https://aclanthology.org/2025.coling-main.680/,2025,Conference paper
+R397,EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety,,https://aclanthology.org/2025.emnlp-main.594/,2025,Conference paper
+R406,MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis,,https://aclanthology.org/2025.acl-long.677/,2025,Conference paper
+R407,MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling,,https://aclanthology.org/2025.naacl-long.263/,2025,Conference paper
+R418,ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents,,https://aclanthology.org/2025.acl-long.663/,2025,Conference paper
+R447,MedCTA: A Benchmark for Clinical Tool Agents,,http://arxiv.org/abs/2606.11702v1,2026,Preprint
+R451,DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents,,http://arxiv.org/abs/2603.00777v2,2026,Preprint
+R452,"MedScope: Incentivizing ""Think with Videos"" for Clinical Reasoning via Coarse-to-Fine Tool Calling",,http://arxiv.org/abs/2602.13332v1,2026,Preprint
+R453,ART: Action-based Reasoning Task Benchmarking for Medical AI Agents,,http://arxiv.org/abs/2601.08988v1,2026,Preprint
+R454,Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis,,http://arxiv.org/abs/2512.14157v1,2025,Preprint
+R455,CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment,,http://arxiv.org/abs/2512.10206v2,2025,Preprint
+R458,Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios,,http://arxiv.org/abs/2411.14461v1,2024,Preprint
+R460,Counterfactual Evaluation Reveals Hidden Capability Profiles in Clinical LLMs and Agents,,http://arxiv.org/abs/2605.30590v1,2026,Preprint
+R461,MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents,,http://arxiv.org/abs/2501.14654v2,2025,Preprint
+R467,A Machine-to-Machine Knowledge-Guided LLM Agent for Generalizable Radiotherapy Treatment Planning,,http://arxiv.org/abs/2606.00922v1,2026,Preprint
+R469,PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments,,http://arxiv.org/abs/2605.02240v1,2026,Preprint
+R475,Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases,,http://arxiv.org/abs/2603.22767v1,2026,Preprint
+R476,OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence,,http://arxiv.org/abs/2603.14771v3,2026,Preprint
+R484,Simulating Viva Voce Examinations to Evaluate Clinical Reasoning in Large Language Models,,http://arxiv.org/abs/2510.10278v1,2025,Preprint
+R491,Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation,,http://arxiv.org/abs/2507.10911v1,2025,Preprint
+R493,AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents,,http://arxiv.org/abs/2506.04293v1,2025,Preprint
+R499,"Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent",,http://arxiv.org/abs/2503.17553v1,2025,Preprint
+R501,Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System,,http://arxiv.org/abs/2412.06828v1,2024,Preprint
+R503,Adaptive Reasoning and Acting in Medical Language Agents,,http://arxiv.org/abs/2410.10020v1,2024,Preprint
+R509,MedicalOS: An LLM Agent based Operating System for Digital Healthcare,,http://arxiv.org/abs/2509.11507v1,2025,Preprint
+R511,Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation,,http://arxiv.org/abs/2508.04691v2,2025,Preprint
+R514,GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning,,http://arxiv.org/abs/2406.09187v3,2025,Conference proceedings
+R524,Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment,,http://arxiv.org/abs/2603.21597v2,2026,Preprint
+R529,A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series,,http://arxiv.org/abs/2603.04142v1,2026,Preprint
+R543,MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition,,http://arxiv.org/abs/2512.11682v2,2025,Preprint

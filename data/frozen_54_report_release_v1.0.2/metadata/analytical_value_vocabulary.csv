@@ -1,0 +1,17 @@
+﻿variable_type,allowed_values_or_note
+Variable Type,Allowed Values
+"Binary variables (EM01-09, ET01-04, WF_*, SD_Human)",Yes / No / Not reported / Unclear
+,"Note: First letter capitalized, space-separated"
+ET_Scope (Evaluation scope),Full / Partial / Component-only / Unclear
+DO_Nature (Data origin nature),clinical_derived / synthetic_or_simulated / biomedical_non_patient / mixed / Unclear
+,"Note: Lowercase, underscore-separated"
+DO_Resource (Resource type),public_benchmark_or_exam / institutional_dataset / registry / literature / knowledge_base / other / Unclear
+DO_Role (Data role),evaluation_data / retrieval_source / training_data / multiple_roles / Unclear
+DO_Completeness (Source completeness),complete / partial / Unclear / Not_applicable
+SD_Temporality (Study temporality),Retrospective / Prospective / Mixed / Not_applicable / Unclear
+,"Note: Capitalized, underscore for 'Not_applicable'"
+SD_Control (Study control),Randomized_controlled / Non_randomized_controlled / Single_arm / Unclear
+SD_Randomization (Randomization type),patient / case / sequence / cluster / other / Not reported / Unclear
+SD_Rand_unit (Randomization unit),Not reported / Not_applicable
+SD_Patient_impact (Patient care impact),Yes / No / Unclear
+SD_Setting (Study setting),research_environment / clinical_operational / hybrid / Not applicable / Unclear
