@@ -1,0 +1,433 @@
+﻿report_id,category_id,category_name,reporting_status
+R001,S01,Clinical harm and unsafe action,Reported
+R001,S02,Factuality and hallucination,Reported
+R001,S03,Privacy and confidentiality,Not reported
+R001,S04,Security and permission violations,Not reported
+R001,S05,Escalation or refusal performance,Not reported
+R001,S06,Equity and subgroup safety,Reported
+R001,S07,Audit and lifecycle performance,Not reported
+R001,S08,Robustness and failure severity,Reported
+R010,S01,Clinical harm and unsafe action,Reported
+R010,S02,Factuality and hallucination,Not reported
+R010,S03,Privacy and confidentiality,Not reported
+R010,S04,Security and permission violations,Not reported
+R010,S05,Escalation or refusal performance,Not reported
+R010,S06,Equity and subgroup safety,Not reported
+R010,S07,Audit and lifecycle performance,Not reported
+R010,S08,Robustness and failure severity,Not reported
+R030,S01,Clinical harm and unsafe action,Not reported
+R030,S02,Factuality and hallucination,Reported
+R030,S03,Privacy and confidentiality,Not reported
+R030,S04,Security and permission violations,Not reported
+R030,S05,Escalation or refusal performance,Not reported
+R030,S06,Equity and subgroup safety,Not reported
+R030,S07,Audit and lifecycle performance,Not reported
+R030,S08,Robustness and failure severity,Not reported
+R033,S01,Clinical harm and unsafe action,Not reported
+R033,S02,Factuality and hallucination,Not reported
+R033,S03,Privacy and confidentiality,Not reported
+R033,S04,Security and permission violations,Not reported
+R033,S05,Escalation or refusal performance,Not reported
+R033,S06,Equity and subgroup safety,Not reported
+R033,S07,Audit and lifecycle performance,Not reported
+R033,S08,Robustness and failure severity,Reported
+R041,S01,Clinical harm and unsafe action,Not reported
+R041,S02,Factuality and hallucination,Not reported
+R041,S03,Privacy and confidentiality,Not reported
+R041,S04,Security and permission violations,Not reported
+R041,S05,Escalation or refusal performance,Reported
+R041,S06,Equity and subgroup safety,Reported
+R041,S07,Audit and lifecycle performance,Not reported
+R041,S08,Robustness and failure severity,Reported
+R068,S01,Clinical harm and unsafe action,Reported
+R068,S02,Factuality and hallucination,Not reported
+R068,S03,Privacy and confidentiality,Not reported
+R068,S04,Security and permission violations,Not reported
+R068,S05,Escalation or refusal performance,Reported
+R068,S06,Equity and subgroup safety,Not reported
+R068,S07,Audit and lifecycle performance,Not reported
+R068,S08,Robustness and failure severity,Reported
+R074,S01,Clinical harm and unsafe action,Not reported
+R074,S02,Factuality and hallucination,Not reported
+R074,S03,Privacy and confidentiality,Not reported
+R074,S04,Security and permission violations,Not reported
+R074,S05,Escalation or refusal performance,Not reported
+R074,S06,Equity and subgroup safety,Not reported
+R074,S07,Audit and lifecycle performance,Not reported
+R074,S08,Robustness and failure severity,Not reported
+R081,S01,Clinical harm and unsafe action,Not reported
+R081,S02,Factuality and hallucination,Not reported
+R081,S03,Privacy and confidentiality,Not reported
+R081,S04,Security and permission violations,Not reported
+R081,S05,Escalation or refusal performance,Not reported
+R081,S06,Equity and subgroup safety,Not reported
+R081,S07,Audit and lifecycle performance,Not reported
+R081,S08,Robustness and failure severity,Not reported
+R096,S01,Clinical harm and unsafe action,Not reported
+R096,S02,Factuality and hallucination,Not reported
+R096,S03,Privacy and confidentiality,Not reported
+R096,S04,Security and permission violations,Not reported
+R096,S05,Escalation or refusal performance,Not reported
+R096,S06,Equity and subgroup safety,Not reported
+R096,S07,Audit and lifecycle performance,Not reported
+R096,S08,Robustness and failure severity,Reported
+R138,S01,Clinical harm and unsafe action,Not reported
+R138,S02,Factuality and hallucination,Reported
+R138,S03,Privacy and confidentiality,Not reported
+R138,S04,Security and permission violations,Not reported
+R138,S05,Escalation or refusal performance,Not reported
+R138,S06,Equity and subgroup safety,Not reported
+R138,S07,Audit and lifecycle performance,Not reported
+R138,S08,Robustness and failure severity,Not reported
+R141,S01,Clinical harm and unsafe action,Explicitly not evaluated
+R141,S02,Factuality and hallucination,Reported
+R141,S03,Privacy and confidentiality,Not reported
+R141,S04,Security and permission violations,Not reported
+R141,S05,Escalation or refusal performance,Not reported
+R141,S06,Equity and subgroup safety,Not reported
+R141,S07,Audit and lifecycle performance,Not reported
+R141,S08,Robustness and failure severity,Not reported
+R142,S01,Clinical harm and unsafe action,Not reported
+R142,S02,Factuality and hallucination,Not reported
+R142,S03,Privacy and confidentiality,Not reported
+R142,S04,Security and permission violations,Not reported
+R142,S05,Escalation or refusal performance,Not reported
+R142,S06,Equity and subgroup safety,Not reported
+R142,S07,Audit and lifecycle performance,Not reported
+R142,S08,Robustness and failure severity,Not reported
+R231,S01,Clinical harm and unsafe action,Reported
+R231,S02,Factuality and hallucination,Not reported
+R231,S03,Privacy and confidentiality,Not reported
+R231,S04,Security and permission violations,Not reported
+R231,S05,Escalation or refusal performance,Not reported
+R231,S06,Equity and subgroup safety,Not reported
+R231,S07,Audit and lifecycle performance,Not reported
+R231,S08,Robustness and failure severity,Reported
+R271,S01,Clinical harm and unsafe action,Not reported
+R271,S02,Factuality and hallucination,Not reported
+R271,S03,Privacy and confidentiality,Not reported
+R271,S04,Security and permission violations,Not reported
+R271,S05,Escalation or refusal performance,Not reported
+R271,S06,Equity and subgroup safety,Not reported
+R271,S07,Audit and lifecycle performance,Not reported
+R271,S08,Robustness and failure severity,Not reported
+R279,S01,Clinical harm and unsafe action,Not reported
+R279,S02,Factuality and hallucination,Not reported
+R279,S03,Privacy and confidentiality,Not reported
+R279,S04,Security and permission violations,Not reported
+R279,S05,Escalation or refusal performance,Not reported
+R279,S06,Equity and subgroup safety,Not reported
+R279,S07,Audit and lifecycle performance,Not reported
+R279,S08,Robustness and failure severity,Not reported
+R300,S01,Clinical harm and unsafe action,Not reported
+R300,S02,Factuality and hallucination,Not reported
+R300,S03,Privacy and confidentiality,Not reported
+R300,S04,Security and permission violations,Not reported
+R300,S05,Escalation or refusal performance,Not reported
+R300,S06,Equity and subgroup safety,Not reported
+R300,S07,Audit and lifecycle performance,Not reported
+R300,S08,Robustness and failure severity,Not reported
+R325,S01,Clinical harm and unsafe action,Unclear
+R325,S02,Factuality and hallucination,Reported
+R325,S03,Privacy and confidentiality,Not reported
+R325,S04,Security and permission violations,Not reported
+R325,S05,Escalation or refusal performance,Not reported
+R325,S06,Equity and subgroup safety,Not reported
+R325,S07,Audit and lifecycle performance,Not reported
+R325,S08,Robustness and failure severity,Not reported
+R358,S01,Clinical harm and unsafe action,Reported
+R358,S02,Factuality and hallucination,Not reported
+R358,S03,Privacy and confidentiality,Not reported
+R358,S04,Security and permission violations,Not reported
+R358,S05,Escalation or refusal performance,Not reported
+R358,S06,Equity and subgroup safety,Reported
+R358,S07,Audit and lifecycle performance,Not reported
+R358,S08,Robustness and failure severity,Reported
+R365,S01,Clinical harm and unsafe action,Not reported
+R365,S02,Factuality and hallucination,Not reported
+R365,S03,Privacy and confidentiality,Not reported
+R365,S04,Security and permission violations,Not reported
+R365,S05,Escalation or refusal performance,Not reported
+R365,S06,Equity and subgroup safety,Not reported
+R365,S07,Audit and lifecycle performance,Not reported
+R365,S08,Robustness and failure severity,Not reported
+R369,S01,Clinical harm and unsafe action,Not reported
+R369,S02,Factuality and hallucination,Reported
+R369,S03,Privacy and confidentiality,Not reported
+R369,S04,Security and permission violations,Not reported
+R369,S05,Escalation or refusal performance,Not reported
+R369,S06,Equity and subgroup safety,Not reported
+R369,S07,Audit and lifecycle performance,Not reported
+R369,S08,Robustness and failure severity,Not reported
+R371,S01,Clinical harm and unsafe action,Not reported
+R371,S02,Factuality and hallucination,Not reported
+R371,S03,Privacy and confidentiality,Not reported
+R371,S04,Security and permission violations,Not reported
+R371,S05,Escalation or refusal performance,Not reported
+R371,S06,Equity and subgroup safety,Not reported
+R371,S07,Audit and lifecycle performance,Not reported
+R371,S08,Robustness and failure severity,Reported
+R375,S01,Clinical harm and unsafe action,Not reported
+R375,S02,Factuality and hallucination,Reported
+R375,S03,Privacy and confidentiality,Not reported
+R375,S04,Security and permission violations,Not reported
+R375,S05,Escalation or refusal performance,Not reported
+R375,S06,Equity and subgroup safety,Not reported
+R375,S07,Audit and lifecycle performance,Not reported
+R375,S08,Robustness and failure severity,Not reported
+R377,S01,Clinical harm and unsafe action,Not reported
+R377,S02,Factuality and hallucination,Not reported
+R377,S03,Privacy and confidentiality,Not reported
+R377,S04,Security and permission violations,Not reported
+R377,S05,Escalation or refusal performance,Not reported
+R377,S06,Equity and subgroup safety,Not reported
+R377,S07,Audit and lifecycle performance,Not reported
+R377,S08,Robustness and failure severity,Not reported
+R378,S01,Clinical harm and unsafe action,Not reported
+R378,S02,Factuality and hallucination,Reported
+R378,S03,Privacy and confidentiality,Not reported
+R378,S04,Security and permission violations,Not reported
+R378,S05,Escalation or refusal performance,Not reported
+R378,S06,Equity and subgroup safety,Not reported
+R378,S07,Audit and lifecycle performance,Not reported
+R378,S08,Robustness and failure severity,Not reported
+R381,S01,Clinical harm and unsafe action,Not reported
+R381,S02,Factuality and hallucination,Reported
+R381,S03,Privacy and confidentiality,Not reported
+R381,S04,Security and permission violations,Not reported
+R381,S05,Escalation or refusal performance,Not reported
+R381,S06,Equity and subgroup safety,Not reported
+R381,S07,Audit and lifecycle performance,Not reported
+R381,S08,Robustness and failure severity,Reported
+R397,S01,Clinical harm and unsafe action,Reported
+R397,S02,Factuality and hallucination,Not reported
+R397,S03,Privacy and confidentiality,Not reported
+R397,S04,Security and permission violations,Not reported
+R397,S05,Escalation or refusal performance,Not reported
+R397,S06,Equity and subgroup safety,Not reported
+R397,S07,Audit and lifecycle performance,Not reported
+R397,S08,Robustness and failure severity,Reported
+R406,S01,Clinical harm and unsafe action,Not reported
+R406,S02,Factuality and hallucination,Not reported
+R406,S03,Privacy and confidentiality,Not reported
+R406,S04,Security and permission violations,Not reported
+R406,S05,Escalation or refusal performance,Not reported
+R406,S06,Equity and subgroup safety,Not reported
+R406,S07,Audit and lifecycle performance,Not reported
+R406,S08,Robustness and failure severity,Not reported
+R407,S01,Clinical harm and unsafe action,Not reported
+R407,S02,Factuality and hallucination,Not reported
+R407,S03,Privacy and confidentiality,Not reported
+R407,S04,Security and permission violations,Not reported
+R407,S05,Escalation or refusal performance,Not reported
+R407,S06,Equity and subgroup safety,Not reported
+R407,S07,Audit and lifecycle performance,Not reported
+R407,S08,Robustness and failure severity,Not reported
+R418,S01,Clinical harm and unsafe action,Not reported
+R418,S02,Factuality and hallucination,Reported
+R418,S03,Privacy and confidentiality,Not reported
+R418,S04,Security and permission violations,Not reported
+R418,S05,Escalation or refusal performance,Reported
+R418,S06,Equity and subgroup safety,Not reported
+R418,S07,Audit and lifecycle performance,Not reported
+R418,S08,Robustness and failure severity,Reported
+R447,S01,Clinical harm and unsafe action,Not reported
+R447,S02,Factuality and hallucination,Reported
+R447,S03,Privacy and confidentiality,Not reported
+R447,S04,Security and permission violations,Not reported
+R447,S05,Escalation or refusal performance,Not reported
+R447,S06,Equity and subgroup safety,Not reported
+R447,S07,Audit and lifecycle performance,Not reported
+R447,S08,Robustness and failure severity,Reported
+R451,S01,Clinical harm and unsafe action,Not reported
+R451,S02,Factuality and hallucination,Not reported
+R451,S03,Privacy and confidentiality,Not reported
+R451,S04,Security and permission violations,Not reported
+R451,S05,Escalation or refusal performance,Not reported
+R451,S06,Equity and subgroup safety,Reported
+R451,S07,Audit and lifecycle performance,Not reported
+R451,S08,Robustness and failure severity,Not reported
+R452,S01,Clinical harm and unsafe action,Not reported
+R452,S02,Factuality and hallucination,Not reported
+R452,S03,Privacy and confidentiality,Not reported
+R452,S04,Security and permission violations,Not reported
+R452,S05,Escalation or refusal performance,Not reported
+R452,S06,Equity and subgroup safety,Not reported
+R452,S07,Audit and lifecycle performance,Not reported
+R452,S08,Robustness and failure severity,Reported
+R453,S01,Clinical harm and unsafe action,Not reported
+R453,S02,Factuality and hallucination,Not reported
+R453,S03,Privacy and confidentiality,Not reported
+R453,S04,Security and permission violations,Not reported
+R453,S05,Escalation or refusal performance,Not reported
+R453,S06,Equity and subgroup safety,Not reported
+R453,S07,Audit and lifecycle performance,Not reported
+R453,S08,Robustness and failure severity,Not reported
+R454,S01,Clinical harm and unsafe action,Not reported
+R454,S02,Factuality and hallucination,Reported
+R454,S03,Privacy and confidentiality,Not reported
+R454,S04,Security and permission violations,Not reported
+R454,S05,Escalation or refusal performance,Not reported
+R454,S06,Equity and subgroup safety,Not reported
+R454,S07,Audit and lifecycle performance,Not reported
+R454,S08,Robustness and failure severity,Reported
+R455,S01,Clinical harm and unsafe action,Not reported
+R455,S02,Factuality and hallucination,Not reported
+R455,S03,Privacy and confidentiality,Reported
+R455,S04,Security and permission violations,Not reported
+R455,S05,Escalation or refusal performance,Not reported
+R455,S06,Equity and subgroup safety,Not reported
+R455,S07,Audit and lifecycle performance,Not reported
+R455,S08,Robustness and failure severity,Not reported
+R458,S01,Clinical harm and unsafe action,Not reported
+R458,S02,Factuality and hallucination,Not reported
+R458,S03,Privacy and confidentiality,Not reported
+R458,S04,Security and permission violations,Not reported
+R458,S05,Escalation or refusal performance,Not reported
+R458,S06,Equity and subgroup safety,Not reported
+R458,S07,Audit and lifecycle performance,Not reported
+R458,S08,Robustness and failure severity,Not reported
+R460,S01,Clinical harm and unsafe action,Reported
+R460,S02,Factuality and hallucination,Not reported
+R460,S03,Privacy and confidentiality,Not reported
+R460,S04,Security and permission violations,Not reported
+R460,S05,Escalation or refusal performance,Not reported
+R460,S06,Equity and subgroup safety,Not reported
+R460,S07,Audit and lifecycle performance,Not reported
+R460,S08,Robustness and failure severity,Reported
+R461,S01,Clinical harm and unsafe action,Not reported
+R461,S02,Factuality and hallucination,Not reported
+R461,S03,Privacy and confidentiality,Not reported
+R461,S04,Security and permission violations,Not reported
+R461,S05,Escalation or refusal performance,Not reported
+R461,S06,Equity and subgroup safety,Not reported
+R461,S07,Audit and lifecycle performance,Not reported
+R461,S08,Robustness and failure severity,Not reported
+R467,S01,Clinical harm and unsafe action,Reported
+R467,S02,Factuality and hallucination,Not reported
+R467,S03,Privacy and confidentiality,Not reported
+R467,S04,Security and permission violations,Not reported
+R467,S05,Escalation or refusal performance,Not reported
+R467,S06,Equity and subgroup safety,Not reported
+R467,S07,Audit and lifecycle performance,Not reported
+R467,S08,Robustness and failure severity,Reported
+R469,S01,Clinical harm and unsafe action,Not reported
+R469,S02,Factuality and hallucination,Not reported
+R469,S03,Privacy and confidentiality,Not reported
+R469,S04,Security and permission violations,Not reported
+R469,S05,Escalation or refusal performance,Not reported
+R469,S06,Equity and subgroup safety,Not reported
+R469,S07,Audit and lifecycle performance,Not reported
+R469,S08,Robustness and failure severity,Reported
+R475,S01,Clinical harm and unsafe action,Not reported
+R475,S02,Factuality and hallucination,Reported
+R475,S03,Privacy and confidentiality,Not reported
+R475,S04,Security and permission violations,Not reported
+R475,S05,Escalation or refusal performance,Not reported
+R475,S06,Equity and subgroup safety,Not reported
+R475,S07,Audit and lifecycle performance,Not reported
+R475,S08,Robustness and failure severity,Reported
+R476,S01,Clinical harm and unsafe action,Reported
+R476,S02,Factuality and hallucination,Reported
+R476,S03,Privacy and confidentiality,Not reported
+R476,S04,Security and permission violations,Not reported
+R476,S05,Escalation or refusal performance,Not reported
+R476,S06,Equity and subgroup safety,Not reported
+R476,S07,Audit and lifecycle performance,Not reported
+R476,S08,Robustness and failure severity,Not reported
+R484,S01,Clinical harm and unsafe action,Reported
+R484,S02,Factuality and hallucination,Not reported
+R484,S03,Privacy and confidentiality,Not reported
+R484,S04,Security and permission violations,Not reported
+R484,S05,Escalation or refusal performance,Not reported
+R484,S06,Equity and subgroup safety,Not reported
+R484,S07,Audit and lifecycle performance,Not reported
+R484,S08,Robustness and failure severity,Reported
+R491,S01,Clinical harm and unsafe action,Reported
+R491,S02,Factuality and hallucination,Not reported
+R491,S03,Privacy and confidentiality,Not reported
+R491,S04,Security and permission violations,Not reported
+R491,S05,Escalation or refusal performance,Not reported
+R491,S06,Equity and subgroup safety,Not reported
+R491,S07,Audit and lifecycle performance,Not reported
+R491,S08,Robustness and failure severity,Not reported
+R493,S01,Clinical harm and unsafe action,Not reported
+R493,S02,Factuality and hallucination,Not reported
+R493,S03,Privacy and confidentiality,Not reported
+R493,S04,Security and permission violations,Not reported
+R493,S05,Escalation or refusal performance,Not reported
+R493,S06,Equity and subgroup safety,Not reported
+R493,S07,Audit and lifecycle performance,Not reported
+R493,S08,Robustness and failure severity,Not reported
+R499,S01,Clinical harm and unsafe action,Reported
+R499,S02,Factuality and hallucination,Not reported
+R499,S03,Privacy and confidentiality,Not reported
+R499,S04,Security and permission violations,Not reported
+R499,S05,Escalation or refusal performance,Not reported
+R499,S06,Equity and subgroup safety,Not reported
+R499,S07,Audit and lifecycle performance,Not reported
+R499,S08,Robustness and failure severity,Not reported
+R501,S01,Clinical harm and unsafe action,Not reported
+R501,S02,Factuality and hallucination,Reported
+R501,S03,Privacy and confidentiality,Not reported
+R501,S04,Security and permission violations,Not reported
+R501,S05,Escalation or refusal performance,Not reported
+R501,S06,Equity and subgroup safety,Not reported
+R501,S07,Audit and lifecycle performance,Not reported
+R501,S08,Robustness and failure severity,Not reported
+R503,S01,Clinical harm and unsafe action,Not reported
+R503,S02,Factuality and hallucination,Not reported
+R503,S03,Privacy and confidentiality,Not reported
+R503,S04,Security and permission violations,Not reported
+R503,S05,Escalation or refusal performance,Not reported
+R503,S06,Equity and subgroup safety,Not reported
+R503,S07,Audit and lifecycle performance,Not reported
+R503,S08,Robustness and failure severity,Not reported
+R509,S01,Clinical harm and unsafe action,Not reported
+R509,S02,Factuality and hallucination,Not reported
+R509,S03,Privacy and confidentiality,Not reported
+R509,S04,Security and permission violations,Not reported
+R509,S05,Escalation or refusal performance,Not reported
+R509,S06,Equity and subgroup safety,Not reported
+R509,S07,Audit and lifecycle performance,Not reported
+R509,S08,Robustness and failure severity,Not reported
+R511,S01,Clinical harm and unsafe action,Not reported
+R511,S02,Factuality and hallucination,Reported
+R511,S03,Privacy and confidentiality,Not reported
+R511,S04,Security and permission violations,Reported
+R511,S05,Escalation or refusal performance,Reported
+R511,S06,Equity and subgroup safety,Not reported
+R511,S07,Audit and lifecycle performance,Not reported
+R511,S08,Robustness and failure severity,Reported
+R514,S01,Clinical harm and unsafe action,Not reported
+R514,S02,Factuality and hallucination,Not reported
+R514,S03,Privacy and confidentiality,Not reported
+R514,S04,Security and permission violations,Reported
+R514,S05,Escalation or refusal performance,Reported
+R514,S06,Equity and subgroup safety,Not reported
+R514,S07,Audit and lifecycle performance,Not reported
+R514,S08,Robustness and failure severity,Reported
+R524,S01,Clinical harm and unsafe action,Not reported
+R524,S02,Factuality and hallucination,Reported
+R524,S03,Privacy and confidentiality,Not reported
+R524,S04,Security and permission violations,Not reported
+R524,S05,Escalation or refusal performance,Not reported
+R524,S06,Equity and subgroup safety,Reported
+R524,S07,Audit and lifecycle performance,Reported
+R524,S08,Robustness and failure severity,Reported
+R529,S01,Clinical harm and unsafe action,Reported
+R529,S02,Factuality and hallucination,Reported
+R529,S03,Privacy and confidentiality,Not reported
+R529,S04,Security and permission violations,Not reported
+R529,S05,Escalation or refusal performance,Not reported
+R529,S06,Equity and subgroup safety,Not reported
+R529,S07,Audit and lifecycle performance,Not reported
+R529,S08,Robustness and failure severity,Reported
+R543,S01,Clinical harm and unsafe action,Not reported
+R543,S02,Factuality and hallucination,Not reported
+R543,S03,Privacy and confidentiality,Not reported
+R543,S04,Security and permission violations,Not reported
+R543,S05,Escalation or refusal performance,Not reported
+R543,S06,Equity and subgroup safety,Not reported
+R543,S07,Audit and lifecycle performance,Not reported
+R543,S08,Robustness and failure severity,Reported

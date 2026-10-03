@@ -1,0 +1,24 @@
+﻿mechanism_id,domain,mechanism_name,plain_language_description,interpretive_boundary
+RT01,Runtime safeguard,Abstention or refusal,A mechanism that declines to produce an answer or perform an action.,"Distinguish a described or proposed refusal from its implementation, use and evaluated performance."
+RT02,Runtime safeguard,Output blocking,A mechanism that blocks an output from being released.,Post hoc identification of a harmful output does not by itself establish blocking.
+RT03,Runtime safeguard,Enforced scope restriction,A mechanism that restricts the scope within which the agent may operate.,A listed task or predefined command set alone is not proof of an enforced safety boundary.
+RT04,Runtime safeguard,Tool or action permissions,Permissions governing which tools or actions the agent may execute.,"Tool availability, function schemas or a sandbox alone do not establish enforceable authorization."
+RT05,Runtime safeguard,Access control,"Controls on access using identity, role or execution authorization.","Local execution, de-identification and research-data access are not automatically agent access control."
+RT06,Runtime safeguard,Human approval gate,A human decision is required before an output or action proceeds.,Post hoc expert assessment is not a runtime approval gate.
+RT07,Runtime safeguard,Escalation trigger,A defined condition triggers escalation to another actor or process.,Record actual escalation functionality separately from recommendations to consult a clinician.
+RT08,Runtime safeguard,Override or interruption,A mechanism permits an ongoing agent action or workflow to be overridden or interrupted.,Human observation without an ability to affect the workflow is not sufficient.
+RT09,Runtime safeguard,Failure or retry limit,A limit or termination control with an explicit failure-loop or safety-protection purpose.,"Generic token, iteration or efficiency budgets are not sufficient. Retrying does not prove an upper limit."
+RT10,Runtime safeguard,Runtime rollback,An operational action restores or reverts a prior runtime state.,Rollback policy or approval belongs to governance; do not conflate policy with runtime execution.
+RT11,Runtime safeguard,Leakage interception,A mechanism intercepts potential information leakage during operation.,Privacy claims or local execution alone are not evidence of interception.
+GV01,Governance and lifecycle,Audit logging,Logging used to support governance audit or accountability for agent activity.,Experimental traces qualify only when their purpose and function support auditing; no additional tamper-proof requirement is imposed.
+GV02,Governance and lifecycle,Evidence or version provenance,Traceability of agent outputs to evidence sources or of artifacts to their versions.,Explicit output-to-source links may qualify without simultaneous version governance; arbitrary traces are not automatically provenance.
+GV03,Governance and lifecycle,Responsibility assignment,Assignment of responsibility for the agent or its lifecycle activities.,Authorship alone does not establish an operational responsibility assignment.
+GV04,Governance and lifecycle,Incident reporting,A process for reporting incidents involving the agent.,Distinguish a proposed process from implemented reporting.
+GV05,Governance and lifecycle,Release approval,An approval process governing release of an agent or system version.,A publication or code release alone does not establish a release-approval control.
+GV06,Governance and lifecycle,Change control,A process governing changes to the agent or its relevant artifacts.,Describe approval or control separately from merely observing that a version changed.
+GV07,Governance and lifecycle,Drift monitoring,"Monitoring for changes in data, operation or performance over time.",A one-time robustness test is not automatically ongoing drift monitoring.
+GV08,Governance and lifecycle,Post-update regression testing,Testing after an update to detect deterioration or unintended changes.,A baseline comparison alone is not evidence of a post-update testing process.
+GV09,Governance and lifecycle,Periodic revalidation,Repeated validation according to a periodic lifecycle process.,Initial validation does not establish periodic revalidation.
+GV10,Governance and lifecycle,Post-deployment surveillance,Monitoring of the agent after deployment.,Proposed monitoring and offline experiments are not evidence of deployed surveillance.
+GV11,Governance and lifecycle,Access review,Governance review of access rights or authorization.,Distinguish review of permissions from runtime enforcement of permissions.
+GV12,Governance and lifecycle,Institutional governance,"Institutional oversight of relevant agent responsibilities, authorization or lifecycle controls.",Research ethics approval qualifies only when its scope supports the agent-governance claim; a dedicated committee is not required.

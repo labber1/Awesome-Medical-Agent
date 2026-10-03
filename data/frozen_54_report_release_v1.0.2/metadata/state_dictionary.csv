@@ -1,0 +1,17 @@
+﻿field_id,value_or_status,meaning_and_boundary
+reporting_status,Reported,The mechanism is reported within the coded source scope. A proposal can be Reported without being implemented.
+reporting_status,Explicitly absent,The source explicitly states absence of the mechanism within the relevant scope.
+implemented,Yes,Concrete construction or execution evidence supports implementation of this mechanism.
+empirically_evaluated,Yes,"Mechanism-specific testing, trigger/error analysis or systematic qualitative investigation supports empirical evaluation; a with/without comparison is not mandatory."
+used_in_evaluated_setting,Yes,The mechanism was explicitly enabled in the evaluated configuration. Triggering on a particular occasion is not required.
+used_in_real_world_operation,Yes,Evidence links the mechanism to actual clinical or business operation. Clinical data or simulation alone do not establish this.
+Four Yes/No status fields,No,Explicit negative evidence for the particular field and scope; absence of affirmative evidence alone is insufficient.
+All five status fields,Not reported,"The registered source review did not establish affirmative evidence for this field. This is not proof of absence, particularly outside the reviewed source scope."
+All five status fields,Unclear,"A retained ambiguous judgment, distinct from an uncompleted extraction. Exporting it does not independently validate the historical adjudication."
+All five status fields,Not applicable,"The field is inapplicable with an explicit rationale. It is not inferred from a prototype, a missing mechanism description or another field."
+All five status fields,(blank),"An unavailable coding value, not a negative or zero. There are no blank status values in this export."
+Safety outcomes: reporting_status,Reported,The source coding records a safety-related result in this category. Reporting a control or discussing a risk alone does not establish an evaluated safety outcome.
+Safety outcomes: reporting_status,Explicitly not evaluated,The source explicitly states that this outcome category was not evaluated. This is distinct from Not reported.
+Safety outcomes: reporting_status,Not reported,No qualifying evaluated outcome was identified within the registered reviewed source domain. This does not prove absence beyond that source domain.
+Safety outcomes: reporting_status,Unclear,The retained outcome-coverage classification is ambiguous.
+Safety outcomes: reporting_status,Not applicable,The outcome category is inapplicable with a documented rationale. No such value occurs in the exported safety-outcome matrix.

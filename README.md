@@ -13,7 +13,7 @@ Unlike broad AI-in-medicine repositories, this project focuses specifically on *
 
 ## Dataset
 
-The main table is available at [`data/included_studies.csv`](data/included_studies.csv).
+The historical curated study-level table is available at [`data/included_studies.csv`](data/included_studies.csv). It is retained for backward compatibility with the repository's earlier release.
 
 The public table includes only DOI/URL links and structured coding fields:
 
@@ -24,9 +24,26 @@ The public table includes only DOI/URL links and structured coding fields:
 - evidence maturity level and evidence gap
 - DOI and URL
 
-Current included records: **41**.
+The historical curated map contains **41 study-level records**.
 
-## Included Studies
+## Frozen 54-report analysis release
+
+The current scoping-review analysis is distributed separately as a frozen **54-report, report-level** release. It uses the final analysis scope, excludes R255 after the final eligibility audit, and uses a search cutoff of **June 18, 2026**. This release is not a replacement for the historical 41-study table: the two datasets use different record units and should not be combined without following their accompanying documentation.
+
+The release package is available at [`data/frozen_54_report_release_v1.0.2/`](data/frozen_54_report_release_v1.0.2/). Its package-level documentation is in [`data/frozen_54_report_release_v1.0.2/README.md`](data/frozen_54_report_release_v1.0.2/README.md).
+
+The package includes:
+
+- report bibliography and report-level analytical coding
+- safeguard, governance, and safety-outcome coding
+- analytical value vocabulary, state definitions, mechanism definitions, and denominator rules
+- aggregate inter-rater reliability results and harmonization rules
+- retained structured search strategies and search counts
+- SHA-256 checksums for the release files
+
+Reviewer-specific raw A/B coding, source excerpts, internal workbook locators, full-text articles, and copyrighted article content are not included.
+
+## Historical Included Studies
 
 The complete included-record table is listed below for quick browsing and sorted by publication year from newest to oldest. The machine-readable version with additional structured fields is available at [`data/included_studies.csv`](data/included_studies.csv).
 
@@ -131,7 +148,7 @@ Full definitions are in [`data/evidence_maturity_levels.csv`](data/evidence_matu
 
 Full definitions are in [`data/safety_oversight_reporting_scale.csv`](data/safety_oversight_reporting_scale.csv).
 
-## Current Evidence Map
+## Historical 41-record Evidence Map
 
 ### Evidence maturity distribution
 
@@ -180,4 +197,4 @@ This repository stores bibliographic links, DOI/URL metadata, and original codin
 
 ## Citation
 
-If you use this resource, please cite the associated scoping review and this repository. Citation metadata for version 1.0.0 are provided in [`CITATION.cff`](CITATION.cff). The manuscript has been submitted; its DOI and the public repository URL will be added when available.
+If you use this resource, please cite the associated scoping review and this repository. Citation metadata for the current repository release are provided in [`CITATION.cff`](CITATION.cff). For the frozen analysis, identify the `v1.0.2` report-level release in addition to citing the repository.

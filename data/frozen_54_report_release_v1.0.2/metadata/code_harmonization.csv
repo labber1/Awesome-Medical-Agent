@@ -1,0 +1,9 @@
+﻿Variable,Raw reviewer-specific label,Analysis category,Basis
+funding_status,Funding reported; Declared funding; Declared; Reported,Funding reported,Semantically equivalent affirmative funding-reporting labels
+funding_status,No external funding declared; explicitly_none,No external funding,Semantically equivalent negative funding-reporting labels
+funding_status,Not reported,Not reported,Retained as a distinct missingness/reporting category
+coi_status,Conflicts declared; Declared conflicts; Declared conflict of interest; Declared conflict,Conflicts declared,Semantically equivalent conflict-declared labels
+coi_status,No conflicts declared; Explicit none; Declared none; explicitly_none,No conflicts declared,Semantically equivalent no-conflict labels
+coi_status,Not reported,Not reported,Retained as a distinct missingness/reporting category
+metric_reporting_status,Reported; Explicitly not evaluated; Not reported; Unclear; Not applicable,Same codebook category,"Frozen metric-coverage status vocabulary; no collapsing of NR, Unclear, or NA"
+data_source_completeness,Complete; Partial; Not reported; Not applicable,Same codebook category,Frozen completeness vocabulary; Unclear is not a category in this field and no recoding was applied
