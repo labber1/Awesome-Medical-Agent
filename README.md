@@ -1,5 +1,4 @@
 # Awesome Medical Agent Evaluation
-[![DOI](https://zenodo.org/badge/1287962753.svg)](https://doi.org/10.5281/zenodo.21341662)
 
 A curated evidence map of medical AI agents powered by large language models, vision-language models, and multimodal foundation models, with a focus on evaluation methods, safety oversight, governance controls, and clinical translation readiness.
 
@@ -13,7 +12,7 @@ Unlike broad AI-in-medicine repositories, this project focuses specifically on *
 
 ## Included Reports
 
-The current frozen analysis contains **54 included reports**. The search cutoff was June 18, 2026; report R255 was excluded after the final eligibility audit. The machine-readable master table combines bibliographic metadata with report-level analytical coding: [`data/included_reports.csv`](data/included_reports.csv). The complete coding package, definitions, denominator rules, and reliability summaries are in [`data/frozen_54_report_release_v1.0.2/`](data/frozen_54_report_release_v1.0.2/).
+The current frozen analysis contains **54 included reports**. The search cutoff was June 18, 2026; report R255 was excluded after the final eligibility audit. The machine-readable master table combines bibliographic metadata with report-level analytical coding: [`data/included_reports.csv`](data/included_reports.csv). The complete coding package, definitions, denominator rules, and reliability summaries are in [`data/frozen_54_report_release_v1.0.3/`](data/frozen_54_report_release_v1.0.3/).
 
 Each row represents one report. DOI/source identifiers link to the corresponding public source; a blank DOI/source identifier means no DOI was recorded, while the source URL remains available. The report-level dimensions are descriptive and are not combined into a single maturity or safety score.
 
@@ -37,17 +36,17 @@ Each row represents one report. DOI/source identifiers link to the corresponding
 | R365 | DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning | 2026 | Conference paper | Biomedical discovery / analysis | Clinical-derived | Prospective | [Source](https://aclanthology.org/2026.eacl-long.253/) |
 | R369 | Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes | 2026 | Conference paper | Health-system workflow | Clinical-derived | Prospective | [Source](https://aclanthology.org/2026.eacl-demo.13/) |
 | R371 | PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR | 2026 | Conference paper | Biomedical discovery / analysis | Synthetic or simulated | Unclear | [Source](https://aclanthology.org/2026.eacl-long.88/) |
-| R447 | MedCTA: A Benchmark for Clinical Tool Agents | 2026 | Preprint | Evaluation infrastructure | mixed | Retrospective | [Source](http://arxiv.org/abs/2606.11702v1) |
-| R451 | DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents | 2026 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2603.00777v2) |
-| R452 | MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling | 2026 | Preprint | Biomedical discovery / analysis | Clinical-derived | Prospective | [Source](http://arxiv.org/abs/2602.13332v1) |
-| R453 | ART: Action-based Reasoning Task Benchmarking for Medical AI Agents | 2026 | Preprint | Evaluation infrastructure | mixed | Unclear | [Source](http://arxiv.org/abs/2601.08988v1) |
-| R460 | Counterfactual Evaluation Reveals Hidden Capability Profiles in Clinical LLMs and Agents | 2026 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2605.30590v1) |
-| R467 | A Machine-to-Machine Knowledge-Guided LLM Agent for Generalizable Radiotherapy Treatment Planning | 2026 | Preprint | Clinical decision support | mixed | Prospective | [Source](http://arxiv.org/abs/2606.00922v1) |
-| R469 | PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments | 2026 | Preprint | Evaluation infrastructure | mixed | Prospective | [Source](http://arxiv.org/abs/2605.02240v1) |
-| R475 | Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases | 2026 | Preprint | Clinical research | Clinical-derived | Retrospective | [Source](http://arxiv.org/abs/2603.22767v1) |
-| R476 | OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence | 2026 | Preprint | Evaluation infrastructure | Synthetic or simulated | Unclear | [Source](http://arxiv.org/abs/2603.14771v3) |
-| R524 | Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment | 2026 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](http://arxiv.org/abs/2603.21597v2) |
-| R529 | A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series | 2026 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](http://arxiv.org/abs/2603.04142v1) |
+| R447 | MedCTA: A Benchmark for Clinical Tool Agents | 2026 | Preprint | Evaluation infrastructure | mixed | Retrospective | [Source](https://arxiv.org/abs/2606.11702v1) |
+| R451 | DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents | 2026 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2603.00777v2) |
+| R452 | MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling | 2026 | Preprint | Biomedical discovery / analysis | Clinical-derived | Prospective | [Source](https://arxiv.org/abs/2602.13332v1) |
+| R453 | ART: Action-based Reasoning Task Benchmarking for Medical AI Agents | 2026 | Preprint | Evaluation infrastructure | mixed | Unclear | [Source](https://arxiv.org/abs/2601.08988v1) |
+| R460 | Counterfactual Evaluation Reveals Hidden Capability Profiles in Clinical LLMs and Agents | 2026 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2605.30590v1) |
+| R467 | A Machine-to-Machine Knowledge-Guided LLM Agent for Generalizable Radiotherapy Treatment Planning | 2026 | Preprint | Clinical decision support | mixed | Prospective | [Source](https://arxiv.org/abs/2606.00922v1) |
+| R469 | PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments | 2026 | Preprint | Evaluation infrastructure | mixed | Prospective | [Source](https://arxiv.org/abs/2605.02240v1) |
+| R475 | Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases | 2026 | Preprint | Clinical research | Clinical-derived | Retrospective | [Source](https://arxiv.org/abs/2603.22767v1) |
+| R476 | OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence | 2026 | Preprint | Evaluation infrastructure | Synthetic or simulated | Unclear | [Source](https://arxiv.org/abs/2603.14771v3) |
+| R524 | Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment | 2026 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](https://arxiv.org/abs/2603.21597v2) |
+| R529 | A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series | 2026 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](https://arxiv.org/abs/2603.04142v1) |
 | R001 | Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology. | 2025 | Journal article | Clinical decision support | mixed | Not applicable | [10.1038/s43018-025-00991-6](https://doi.org/10.1038/s43018-025-00991-6) |
 | R141 | Large language model agents can use tools to perform clinical calculations | 2025 | Journal article | Clinical decision support | Synthetic or simulated | Unclear | [10.1038/s41746-025-01475-8](https://doi.org/10.1038/s41746-025-01475-8) |
 | R142 | An Adaptive Multi-Agent LLM-Based Clinical Decision Support System Integrating Biomedical RAG and Web Intelligence | 2025 | Journal article | Clinical decision support | mixed | Unclear | [10.1109/access.2025.3613340](https://doi.org/10.1109/access.2025.3613340) |
@@ -60,26 +59,26 @@ Each row represents one report. DOI/source identifiers link to the corresponding
 | R406 | MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis | 2025 | Conference paper | Clinical decision support | mixed | Unclear | [Source](https://aclanthology.org/2025.acl-long.677/) |
 | R407 | MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling | 2025 | Conference paper | Clinical decision support | mixed | Unclear | [Source](https://aclanthology.org/2025.naacl-long.263/) |
 | R418 | ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents | 2025 | Conference paper | Evaluation infrastructure | Clinical-derived | Unclear | [Source](https://aclanthology.org/2025.acl-long.663/) |
-| R454 | Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis | 2025 | Preprint | Clinical decision support | mixed | Unclear | [Source](http://arxiv.org/abs/2512.14157v1) |
-| R455 | CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment | 2025 | Preprint | Evaluation infrastructure | mixed | Unclear | [Source](http://arxiv.org/abs/2512.10206v2) |
-| R461 | MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents | 2025 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2501.14654v2) |
-| R484 | Simulating Viva Voce Examinations to Evaluate Clinical Reasoning in Large Language Models | 2025 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2510.10278v1) |
-| R491 | Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation | 2025 | Preprint | Clinical decision support | Clinical-derived | Retrospective | [Source](http://arxiv.org/abs/2507.10911v1) |
-| R493 | AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents | 2025 | Preprint | Clinical research | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2506.04293v1) |
-| R499 | Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent | 2025 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](http://arxiv.org/abs/2503.17553v1) |
-| R509 | MedicalOS: An LLM Agent based Operating System for Digital Healthcare | 2025 | Preprint | Health-system workflow | Synthetic or simulated | Unclear | [Source](http://arxiv.org/abs/2509.11507v1) |
-| R511 | Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation | 2025 | Preprint | Evaluation infrastructure | Synthetic or simulated | Unclear | [Source](http://arxiv.org/abs/2508.04691v2) |
-| R514 | GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning | 2025 | Conference proceedings | Safety infrastructure | mixed | Unclear | [Source](http://arxiv.org/abs/2406.09187v3) |
-| R543 | MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition | 2025 | Preprint | Clinical decision support | mixed | Unclear | [Source](http://arxiv.org/abs/2512.11682v2) |
-| R458 | Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios | 2024 | Preprint | Clinical decision support | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2411.14461v1) |
-| R501 | Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System | 2024 | Preprint | Clinical decision support | Clinical-derived | Unclear | [Source](http://arxiv.org/abs/2412.06828v1) |
-| R503 | Adaptive Reasoning and Acting in Medical Language Agents | 2024 | Preprint | Clinical decision support | mixed | Unclear | [Source](http://arxiv.org/abs/2410.10020v1) |
+| R454 | Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis | 2025 | Preprint | Clinical decision support | mixed | Unclear | [Source](https://arxiv.org/abs/2512.14157v1) |
+| R455 | CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment | 2025 | Preprint | Evaluation infrastructure | mixed | Unclear | [Source](https://arxiv.org/abs/2512.10206v2) |
+| R461 | MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents | 2025 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2501.14654v2) |
+| R484 | Simulating Viva Voce Examinations to Evaluate Clinical Reasoning in Large Language Models | 2025 | Preprint | Evaluation infrastructure | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2510.10278v1) |
+| R491 | Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation | 2025 | Preprint | Clinical decision support | Clinical-derived | Retrospective | [Source](https://arxiv.org/abs/2507.10911v1) |
+| R493 | AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents | 2025 | Preprint | Clinical research | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2506.04293v1) |
+| R499 | Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent | 2025 | Preprint | Clinical decision support | Clinical-derived | Prospective | [Source](https://arxiv.org/abs/2503.17553v1) |
+| R509 | MedicalOS: An LLM Agent based Operating System for Digital Healthcare | 2025 | Preprint | Health-system workflow | Synthetic or simulated | Unclear | [Source](https://arxiv.org/abs/2509.11507v1) |
+| R511 | Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation | 2025 | Preprint | Evaluation infrastructure | Synthetic or simulated | Unclear | [Source](https://arxiv.org/abs/2508.04691v2) |
+| R514 | GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning | 2025 | Conference proceedings | Safety infrastructure | mixed | Unclear | [Source](https://arxiv.org/abs/2406.09187v3) |
+| R543 | MedAI: Evaluating TxAgent's Therapeutic Agentic Reasoning in the NeurIPS CURE-Bench Competition | 2025 | Preprint | Clinical decision support | mixed | Unclear | [Source](https://arxiv.org/abs/2512.11682v2) |
+| R458 | Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios | 2024 | Preprint | Clinical decision support | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2411.14461v1) |
+| R501 | Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System | 2024 | Preprint | Clinical decision support | Clinical-derived | Unclear | [Source](https://arxiv.org/abs/2412.06828v1) |
+| R503 | Adaptive Reasoning and Acting in Medical Language Agents | 2024 | Preprint | Clinical decision support | mixed | Unclear | [Source](https://arxiv.org/abs/2410.10020v1) |
 
 ## Related Reviews
 
 Related reviews of medical AI agents, agentic AI in healthcare, biomedical agents, and domain-specific medical-agent systems. These contextual sources are not part of the 54 reports included in the scoping review. A machine-readable version is available at [`data/related_reviews.csv`](data/related_reviews.csv).
 
-| Study                                                                                                                                                                               | Year | DOI/URL                                                                                |
+| Related review                                                                                                                                                                     | Year | DOI/URL                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---: | -------------------------------------------------------------------------------------- |
 | Alhazba SA, Ali MH, Alawi DA, et al. From Reactive AI to Agentic Systems: A Review of Autonomous medical AI Agents in Healthcare.                                                   | 2026 | [10.1007/s11831-026-10655-y](https://doi.org/10.1007/s11831-026-10655-y)               |
 | Branda F, Ahmed MM, Ciccozzi M, et al. The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery.            | 2026 | [10.1093/bib/bbag245](https://doi.org/10.1093/bib/bbag245)                             |

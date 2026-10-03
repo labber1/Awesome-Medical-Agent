@@ -1,6 +1,6 @@
 # Medical AI Agents Evaluation and Safety Oversight Data
 
-Version: 1.0.2
+Version: 1.0.3
 Frozen analysis scope: 54 included reports; R255 excluded after the final eligibility audit.
 Search cutoff: June 18, 2026.
 
@@ -20,6 +20,23 @@ Search cutoff: June 18, 2026.
 - `metadata/reliability_not_computable.csv`: fields excluded from reliability estimation and reasons.
 - `metadata/code_harmonization.csv`: reviewer-label harmonization rules used before reliability calculation.
 - `metadata/search_strategy.csv`: retained structured search strategies and search counts.
+
+## Metadata conventions
+
+`metadata/analytical_value_vocabulary.csv` contains one data row per coded variable. Explanatory notes are provided here rather than as extra CSV rows so that the file can be read directly as a variable-to-vocabulary table. Values are case-sensitive and should be interpreted exactly as listed.
+
+`metadata/variable_summary.csv` uses the following quality-control fields:
+
+- `Total_n`: total number of report-level observations in the 54-report release.
+- `Yes`, `No`, `Not_reported`, `Unclear`, and `Not_applicable`: counts for those standardized states when applicable; these columns are zero for variables summarized with other categorical vocabularies.
+- `Other_values`: counts for categories that do not belong to the fixed state columns.
+- `Source_verified`: observations checked against the underlying public source during quality control.
+- `Consensus`: observations retained from the final reviewer consensus coding without an additional source-verification event.
+- `Valid_n`: analysis-specific denominator after excluding structurally `Not_applicable` observations where required.
+- `Notes`: variable-specific denominator or coding notes.
+- `Derived`: observations assigned through prespecified normalization or cross-field derivation rather than direct single-field coding.
+
+These quality-control fields describe the provenance of the released analytical values; they are not additional study outcomes or reliability statistics.
 
 ## Data protection and scope
 
