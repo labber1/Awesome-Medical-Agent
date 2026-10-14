@@ -138,3 +138,7 @@ The repository provides bibliographic links and structured review data. It does 
 ## Citation
 
 Please cite the associated scoping review and this repository. Repository citation metadata are provided in [`CITATION.cff`](CITATION.cff). For the current report-level analysis, identify dataset version `1.0.4` and the repository commit used. No separate DOI is asserted for this version; the earlier Zenodo archive is not the current analytical dataset.
+
+## Public Excel Workbook
+
+[Download the public analytical workbook](data/public_workbooks/Medical_AI_Agents_Public_Analytical_Workbook_v1.0.4_20261014.xlsx) containing the v1.0.4 analytical values, coding definitions, screening decisions and aggregate reliability summaries. [Workbook scope and checksum](data/public_workbooks/README.md) are provided alongside the file. This Excel export was added after the v1.0.4 release and is not automatically included in its existing Zenodo archive. Original reviewer-specific A/B coding and private source material are not redistributed.
