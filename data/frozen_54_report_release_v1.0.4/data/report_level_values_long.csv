@@ -1,0 +1,1783 @@
+report_id,variable_id,variable_name,value
+R001,DO_Completeness,Source_completeness,partial
+R001,DO_Nature,Origin_nature,mixed
+R001,DO_Resource,Resource_type,institutional_dataset
+R001,DO_Role,Data_role,evaluation_data
+R001,EM01,Automated_quantitative,Yes
+R001,EM02,Human_or_expert,Yes
+R001,EM03,LLM_as_judge,Not reported
+R001,EM04,User_or_reader_study,Not reported
+R001,EM05,Comparative_or_ablation,Yes
+R001,EM06,Error_or_failure_analysis,Not reported
+R001,EM07,Dialogue_or_trajectory,Not reported
+R001,EM08,Stress_or_perturbation,Yes
+R001,EM09,Citation_or_reference_verify,Yes
+R001,ET01,Index_agent,Yes
+R001,ET02,Agent_component,Yes
+R001,ET03,Comparator_system,Yes
+R001,ET04,Non_agent_baseline,Not reported
+R001,ET_Scope,Evaluation_scope,Full
+R001,SD_Human,Human_participants,Yes
+R001,SD_Patient_impact,Impact_on_patient_care,No
+R001,SD_Setting,Study_setting,research_environment
+R001,SD_Temporality,Study_temporality,Not_applicable
+R001,WF_Controlled,Workflow_Controlled_study,Not reported
+R001,WF_Multi,Workflow_multiple_contexts,No
+R001,WF_Offline,Workflow_Offline,Not reported
+R001,WF_Operational,Workflow_Operational,Not reported
+R001,WF_Simulated,Workflow_Simulated,Yes
+R001,WF_Unclear,Workflow_Unclear,No
+R001,evaluation_design_labels,evaluation design labels,Clinical case evaluation; Expert output assessment
+R001,patient_randomized_trial,patient randomized trial,No
+R001,random_allocation_reported,random allocation reported,Explicitly not randomized
+R001,randomization_method_description,randomization method description,Authors explicitly state experiments were not randomized because only one test group existed.
+R001,randomization_unit_description,randomization unit description,Not applicable
+R010,DO_Completeness,Source_completeness,Unclear
+R010,DO_Nature,Origin_nature,Unclear
+R010,DO_Resource,Resource_type,Unclear
+R010,DO_Role,Data_role,evaluation_data
+R010,EM01,Automated_quantitative,Yes
+R010,EM02,Human_or_expert,Not reported
+R010,EM03,LLM_as_judge,Not reported
+R010,EM04,User_or_reader_study,Not reported
+R010,EM05,Comparative_or_ablation,Yes
+R010,EM06,Error_or_failure_analysis,Yes
+R010,EM07,Dialogue_or_trajectory,Not reported
+R010,EM08,Stress_or_perturbation,Not reported
+R010,EM09,Citation_or_reference_verify,Not reported
+R010,ET01,Index_agent,Yes
+R010,ET02,Agent_component,Yes
+R010,ET03,Comparator_system,Yes
+R010,ET04,Non_agent_baseline,Not reported
+R010,ET_Scope,Evaluation_scope,Full
+R010,SD_Human,Human_participants,Not reported
+R010,SD_Patient_impact,Impact_on_patient_care,No
+R010,SD_Setting,Study_setting,research_environment
+R010,SD_Temporality,Study_temporality,Not_applicable
+R010,WF_Controlled,Workflow_Controlled_study,No
+R010,WF_Multi,Workflow_multiple_contexts,No
+R010,WF_Offline,Workflow_Offline,No
+R010,WF_Operational,Workflow_Operational,No
+R010,WF_Simulated,Workflow_Simulated,Yes
+R010,WF_Unclear,Workflow_Unclear,No
+R010,evaluation_design_labels,evaluation design labels,Technical benchmark
+R010,patient_randomized_trial,patient randomized trial,No
+R010,random_allocation_reported,random allocation reported,Not applicable
+R010,randomization_method_description,randomization method description,Technical prompt/tool/memory configurations tested on benchmark tasks; no patient/user condition-allocation unit in this evaluation.
+R010,randomization_unit_description,randomization unit description,Not applicable
+R030,DO_Completeness,Source_completeness,Unclear
+R030,DO_Nature,Origin_nature,biomedical_non_patient
+R030,DO_Resource,Resource_type,public_benchmark_or_exam
+R030,DO_Role,Data_role,evaluation_data
+R030,EM01,Automated_quantitative,Yes
+R030,EM02,Human_or_expert,Yes
+R030,EM03,LLM_as_judge,Not reported
+R030,EM04,User_or_reader_study,Not reported
+R030,EM05,Comparative_or_ablation,Yes
+R030,EM06,Error_or_failure_analysis,Yes
+R030,EM07,Dialogue_or_trajectory,Not reported
+R030,EM08,Stress_or_perturbation,Not reported
+R030,EM09,Citation_or_reference_verify,Not reported
+R030,ET01,Index_agent,Yes
+R030,ET02,Agent_component,Not reported
+R030,ET03,Comparator_system,Yes
+R030,ET04,Non_agent_baseline,Not reported
+R030,ET_Scope,Evaluation_scope,Full
+R030,SD_Human,Human_participants,Yes
+R030,SD_Patient_impact,Impact_on_patient_care,No
+R030,SD_Setting,Study_setting,research_environment
+R030,SD_Temporality,Study_temporality,Not_applicable
+R030,WF_Controlled,Workflow_Controlled_study,No
+R030,WF_Multi,Workflow_multiple_contexts,No
+R030,WF_Offline,Workflow_Offline,Yes
+R030,WF_Operational,Workflow_Operational,No
+R030,WF_Simulated,Workflow_Simulated,No
+R030,WF_Unclear,Workflow_Unclear,No
+R030,evaluation_design_labels,evaluation design labels,Technical benchmark
+R030,patient_randomized_trial,patient randomized trial,No
+R030,random_allocation_reported,random allocation reported,Not applicable
+R030,randomization_method_description,randomization method description,Fixed medical-QA benchmark and model/agent ablation comparisons; no patient/user allocation in described evaluation.
+R030,randomization_unit_description,randomization unit description,Not applicable
+R033,DO_Completeness,Source_completeness,partial
+R033,DO_Nature,Origin_nature,clinical_derived
+R033,DO_Resource,Resource_type,public_benchmark_or_exam
+R033,DO_Role,Data_role,evaluation_data
+R033,EM01,Automated_quantitative,Yes
+R033,EM02,Human_or_expert,Yes
+R033,EM03,LLM_as_judge,Not reported
+R033,EM04,User_or_reader_study,Not reported
+R033,EM05,Comparative_or_ablation,Yes
+R033,EM06,Error_or_failure_analysis,Yes
+R033,EM07,Dialogue_or_trajectory,Not reported
+R033,EM08,Stress_or_perturbation,Yes
+R033,EM09,Citation_or_reference_verify,Not reported
+R033,ET01,Index_agent,Yes
+R033,ET02,Agent_component,Yes
+R033,ET03,Comparator_system,Yes
+R033,ET04,Non_agent_baseline,Yes
+R033,ET_Scope,Evaluation_scope,Full
+R033,SD_Human,Human_participants,Yes
+R033,SD_Patient_impact,Impact_on_patient_care,No
+R033,SD_Setting,Study_setting,clinical_operational
+R033,SD_Temporality,Study_temporality,Unclear
+R033,WF_Controlled,Workflow_Controlled_study,Yes
+R033,WF_Multi,Workflow_multiple_contexts,No
+R033,WF_Offline,Workflow_Offline,Yes
+R033,WF_Operational,Workflow_Operational,No
+R033,WF_Simulated,Workflow_Simulated,No
+R033,WF_Unclear,Workflow_Unclear,No
+R033,evaluation_design_labels,evaluation design labels,Technical benchmark; Expert output assessment
+R033,patient_randomized_trial,patient randomized trial,No
+R033,random_allocation_reported,random allocation reported,Not reported
+R033,randomization_method_description,randomization method description,Human expansion ratings described; condition allocation or presentation randomization is not specified.
+R033,randomization_unit_description,randomization unit description,Not reported
+R041,DO_Completeness,Source_completeness,partial
+R041,DO_Nature,Origin_nature,mixed
+R041,DO_Resource,Resource_type,public_benchmark_or_exam
+R041,DO_Role,Data_role,evaluation_data
+R041,EM01,Automated_quantitative,Yes
+R041,EM02,Human_or_expert,Yes
+R041,EM03,LLM_as_judge,Yes
+R041,EM04,User_or_reader_study,Not reported
+R041,EM05,Comparative_or_ablation,Yes
+R041,EM06,Error_or_failure_analysis,Not reported
+R041,EM07,Dialogue_or_trajectory,Yes
+R041,EM08,Stress_or_perturbation,Yes
+R041,EM09,Citation_or_reference_verify,Not reported
+R041,ET01,Index_agent,Yes
+R041,ET02,Agent_component,Yes
+R041,ET03,Comparator_system,Yes
+R041,ET04,Non_agent_baseline,Not reported
+R041,ET_Scope,Evaluation_scope,Full
+R041,SD_Human,Human_participants,Yes
+R041,SD_Patient_impact,Impact_on_patient_care,No
+R041,SD_Setting,Study_setting,research_environment
+R041,SD_Temporality,Study_temporality,Not_applicable
+R041,WF_Controlled,Workflow_Controlled_study,No
+R041,WF_Multi,Workflow_multiple_contexts,No
+R041,WF_Offline,Workflow_Offline,No
+R041,WF_Operational,Workflow_Operational,No
+R041,WF_Simulated,Workflow_Simulated,Yes
+R041,WF_Unclear,Workflow_Unclear,No
+R041,evaluation_design_labels,evaluation design labels,Technical benchmark
+R041,patient_randomized_trial,patient randomized trial,No
+R041,random_allocation_reported,random allocation reported,Not reported
+R041,randomization_method_description,randomization method description,Simulated agents plus real clinician dialogue ratings; no participant/condition allocation procedure established.
+R041,randomization_unit_description,randomization unit description,Not reported
+R068,DO_Completeness,Source_completeness,Unclear
+R068,DO_Nature,Origin_nature,mixed
+R068,DO_Resource,Resource_type,institutional_dataset
+R068,DO_Role,Data_role,evaluation_data
+R068,EM01,Automated_quantitative,Yes
+R068,EM02,Human_or_expert,Yes
+R068,EM03,LLM_as_judge,Not reported
+R068,EM04,User_or_reader_study,Not reported
+R068,EM05,Comparative_or_ablation,Yes
+R068,EM06,Error_or_failure_analysis,Not reported
+R068,EM07,Dialogue_or_trajectory,Yes
+R068,EM08,Stress_or_perturbation,Yes
+R068,EM09,Citation_or_reference_verify,Not reported
+R068,ET01,Index_agent,Yes
+R068,ET02,Agent_component,Yes
+R068,ET03,Comparator_system,Yes
+R068,ET04,Non_agent_baseline,Not reported
+R068,ET_Scope,Evaluation_scope,Full
+R068,SD_Human,Human_participants,Yes
+R068,SD_Patient_impact,Impact_on_patient_care,No
+R068,SD_Setting,Study_setting,research_environment
+R068,SD_Temporality,Study_temporality,Retrospective
+R068,WF_Controlled,Workflow_Controlled_study,No
+R068,WF_Multi,Workflow_multiple_contexts,No
+R068,WF_Offline,Workflow_Offline,Yes
+R068,WF_Operational,Workflow_Operational,No
+R068,WF_Simulated,Workflow_Simulated,No
+R068,WF_Unclear,Workflow_Unclear,No
+R068,evaluation_design_labels,evaluation design labels,Technical planning comparison; Simulation evaluation; Randomized paired expert-rating evaluation
+R068,patient_randomized_trial,patient randomized trial,No
+R068,random_allocation_reported,random allocation reported,Reported
+R068,randomization_method_description,randomization method description,"Authors describe blinded randomized paired expert ratings and random sampling of 10/100 cases. The randomized presentation/assignment object, sequence-generation method and allocation concealment are not reported in the inspected AppendixA; do not infer them from case sampling."
+R068,randomization_unit_description,randomization unit description,Not reported
+R074,DO_Completeness,Source_completeness,Unclear
+R074,DO_Nature,Origin_nature,clinical_derived
+R074,DO_Resource,Resource_type,public_benchmark_or_exam
+R074,DO_Role,Data_role,evaluation_data
+R074,EM01,Automated_quantitative,Yes
+R074,EM02,Human_or_expert,Yes
+R074,EM03,LLM_as_judge,Not reported
+R074,EM04,User_or_reader_study,Not reported
+R074,EM05,Comparative_or_ablation,Yes
+R074,EM06,Error_or_failure_analysis,Yes
+R074,EM07,Dialogue_or_trajectory,Not reported
+R074,EM08,Stress_or_perturbation,Yes
+R074,EM09,Citation_or_reference_verify,Yes
+R074,ET01,Index_agent,Yes
+R074,ET02,Agent_component,Yes
+R074,ET03,Comparator_system,Yes
+R074,ET04,Non_agent_baseline,Yes
+R074,ET_Scope,Evaluation_scope,Full
+R074,SD_Human,Human_participants,Yes
+R074,SD_Patient_impact,Impact_on_patient_care,No
+R074,SD_Setting,Study_setting,clinical_operational
+R074,SD_Temporality,Study_temporality,Retrospective
+R074,WF_Controlled,Workflow_Controlled_study,No
+R074,WF_Multi,Workflow_multiple_contexts,No
+R074,WF_Offline,Workflow_Offline,Yes
+R074,WF_Operational,Workflow_Operational,No
+R074,WF_Simulated,Workflow_Simulated,No
+R074,WF_Unclear,Workflow_Unclear,No
+R074,evaluation_design_labels,evaluation design labels,Technical benchmark; Retrospective clinical-data evaluation
+R074,patient_randomized_trial,patient randomized trial,No
+R074,random_allocation_reported,random allocation reported,Not reported
+R074,randomization_method_description,randomization method description,Not reported
+R074,randomization_unit_description,randomization unit description,Not applicable
+R081,DO_Completeness,Source_completeness,partial
+R081,DO_Nature,Origin_nature,clinical_derived
+R081,DO_Resource,Resource_type,public_benchmark_or_exam
+R081,DO_Role,Data_role,evaluation_data
+R081,EM01,Automated_quantitative,Yes
+R081,EM02,Human_or_expert,Yes
+R081,EM03,LLM_as_judge,Not reported
+R081,EM04,User_or_reader_study,Not reported
+R081,EM05,Comparative_or_ablation,Yes
+R081,EM06,Error_or_failure_analysis,Not reported
+R081,EM07,Dialogue_or_trajectory,Not reported
+R081,EM08,Stress_or_perturbation,Not reported
+R081,EM09,Citation_or_reference_verify,Yes
+R081,ET01,Index_agent,Yes
+R081,ET02,Agent_component,Yes
+R081,ET03,Comparator_system,Yes
+R081,ET04,Non_agent_baseline,Not reported
+R081,ET_Scope,Evaluation_scope,Full
+R081,SD_Human,Human_participants,Yes
+R081,SD_Patient_impact,Impact_on_patient_care,No
+R081,SD_Setting,Study_setting,clinical_operational
+R081,SD_Temporality,Study_temporality,Retrospective
+R081,WF_Controlled,Workflow_Controlled_study,No
+R081,WF_Multi,Workflow_multiple_contexts,No
+R081,WF_Offline,Workflow_Offline,Yes
+R081,WF_Operational,Workflow_Operational,No
+R081,WF_Simulated,Workflow_Simulated,Yes
+R081,WF_Unclear,Workflow_Unclear,No
+R081,evaluation_design_labels,evaluation design labels,Retrospective clinical-data evaluation; Expert output assessment
+R081,patient_randomized_trial,patient randomized trial,No
+R081,random_allocation_reported,random allocation reported,Not reported
+R081,randomization_method_description,randomization method description,Not reported
+R081,randomization_unit_description,randomization unit description,Not applicable
+R096,DO_Completeness,Source_completeness,partial
+R096,DO_Nature,Origin_nature,synthetic_or_simulated
+R096,DO_Resource,Resource_type,public_benchmark_or_exam
+R096,DO_Role,Data_role,evaluation_data
+R096,EM01,Automated_quantitative,Yes
+R096,EM02,Human_or_expert,Yes
+R096,EM03,LLM_as_judge,Not reported
+R096,EM04,User_or_reader_study,Not reported
+R096,EM05,Comparative_or_ablation,Yes
+R096,EM06,Error_or_failure_analysis,Not reported
+R096,EM07,Dialogue_or_trajectory,Not reported
+R096,EM08,Stress_or_perturbation,Not reported
+R096,EM09,Citation_or_reference_verify,Not reported
+R096,ET01,Index_agent,Yes
+R096,ET02,Agent_component,Yes
+R096,ET03,Comparator_system,Yes
+R096,ET04,Non_agent_baseline,Yes
+R096,ET_Scope,Evaluation_scope,Full
+R096,SD_Human,Human_participants,Yes
+R096,SD_Patient_impact,Impact_on_patient_care,No
+R096,SD_Setting,Study_setting,research_environment
+R096,SD_Temporality,Study_temporality,Not_applicable
+R096,WF_Controlled,Workflow_Controlled_study,No
+R096,WF_Multi,Workflow_multiple_contexts,No
+R096,WF_Offline,Workflow_Offline,No
+R096,WF_Operational,Workflow_Operational,No
+R096,WF_Simulated,Workflow_Simulated,Yes
+R096,WF_Unclear,Workflow_Unclear,No
+R096,evaluation_design_labels,evaluation design labels,Simulation evaluation; Expert output assessment
+R096,patient_randomized_trial,patient randomized trial,No
+R096,random_allocation_reported,random allocation reported,Not reported
+R096,randomization_method_description,randomization method description,Four medical experts rate profiles/simulation results in blinded setups; random condition allocation not specified.
+R096,randomization_unit_description,randomization unit description,Not reported
+R138,DO_Completeness,Source_completeness,Unclear
+R138,DO_Nature,Origin_nature,clinical_derived
+R138,DO_Resource,Resource_type,public_benchmark_or_exam
+R138,DO_Role,Data_role,evaluation_data
+R138,EM01,Automated_quantitative,Yes
+R138,EM02,Human_or_expert,Yes
+R138,EM03,LLM_as_judge,Not reported
+R138,EM04,User_or_reader_study,Yes
+R138,EM05,Comparative_or_ablation,Yes
+R138,EM06,Error_or_failure_analysis,Not reported
+R138,EM07,Dialogue_or_trajectory,Not reported
+R138,EM08,Stress_or_perturbation,Not reported
+R138,EM09,Citation_or_reference_verify,Yes
+R138,ET01,Index_agent,Yes
+R138,ET02,Agent_component,Yes
+R138,ET03,Comparator_system,Yes
+R138,ET04,Non_agent_baseline,Yes
+R138,ET_Scope,Evaluation_scope,Full
+R138,SD_Human,Human_participants,Yes
+R138,SD_Patient_impact,Impact_on_patient_care,Unclear
+R138,SD_Setting,Study_setting,clinical_operational
+R138,SD_Temporality,Study_temporality,Mixed
+R138,WF_Controlled,Workflow_Controlled_study,Yes
+R138,WF_Multi,Workflow_multiple_contexts,No
+R138,WF_Offline,Workflow_Offline,Yes
+R138,WF_Operational,Workflow_Operational,Unclear
+R138,WF_Simulated,Workflow_Simulated,Yes
+R138,WF_Unclear,Workflow_Unclear,No
+R138,evaluation_design_labels,evaluation design labels,Retrospective clinical-data evaluation; Prospective patient-interaction evaluation
+R138,patient_randomized_trial,patient randomized trial,No
+R138,random_allocation_reported,random allocation reported,Not reported
+R138,randomization_method_description,randomization method description,"Matched base/enhanced systems used by the same patients; anonymized model IDs, no random participant allocation described in inspected protocol"
+R138,randomization_unit_description,randomization unit description,Not applicable
+R141,DO_Completeness,Source_completeness,Unclear
+R141,DO_Nature,Origin_nature,synthetic_or_simulated
+R141,DO_Resource,Resource_type,public_benchmark_or_exam
+R141,DO_Role,Data_role,evaluation_data
+R141,EM01,Automated_quantitative,Yes
+R141,EM02,Human_or_expert,Yes
+R141,EM03,LLM_as_judge,Not reported
+R141,EM04,User_or_reader_study,Not reported
+R141,EM05,Comparative_or_ablation,Yes
+R141,EM06,Error_or_failure_analysis,Yes
+R141,EM07,Dialogue_or_trajectory,Not reported
+R141,EM08,Stress_or_perturbation,Yes
+R141,EM09,Citation_or_reference_verify,Yes
+R141,ET01,Index_agent,Yes
+R141,ET02,Agent_component,Yes
+R141,ET03,Comparator_system,Yes
+R141,ET04,Non_agent_baseline,Yes
+R141,ET_Scope,Evaluation_scope,Full
+R141,SD_Human,Human_participants,Yes
+R141,SD_Patient_impact,Impact_on_patient_care,No
+R141,SD_Setting,Study_setting,research_environment
+R141,SD_Temporality,Study_temporality,Unclear
+R141,WF_Controlled,Workflow_Controlled_study,No
+R141,WF_Multi,Workflow_multiple_contexts,No
+R141,WF_Offline,Workflow_Offline,Yes
+R141,WF_Operational,Workflow_Operational,No
+R141,WF_Simulated,Workflow_Simulated,Yes
+R141,WF_Unclear,Workflow_Unclear,No
+R141,evaluation_design_labels,evaluation design labels,Technical calculation benchmark; Exploratory physician-assessed chatbot comparison
+R141,patient_randomized_trial,patient randomized trial,No
+R141,random_allocation_reported,random allocation reported,Not applicable
+R141,randomization_method_description,randomization method description,"Generated calculation-vignette and tool-augmentation trials with physician exploratory scoring, not patient/user intervention allocation."
+R141,randomization_unit_description,randomization unit description,Not applicable
+R142,DO_Completeness,Source_completeness,Unclear
+R142,DO_Nature,Origin_nature,mixed
+R142,DO_Resource,Resource_type,public_benchmark_or_exam
+R142,DO_Role,Data_role,evaluation_data
+R142,EM01,Automated_quantitative,Yes
+R142,EM02,Human_or_expert,Yes
+R142,EM03,LLM_as_judge,Not reported
+R142,EM04,User_or_reader_study,Not reported
+R142,EM05,Comparative_or_ablation,Yes
+R142,EM06,Error_or_failure_analysis,Not reported
+R142,EM07,Dialogue_or_trajectory,Not reported
+R142,EM08,Stress_or_perturbation,Yes
+R142,EM09,Citation_or_reference_verify,Yes
+R142,ET01,Index_agent,Yes
+R142,ET02,Agent_component,Yes
+R142,ET03,Comparator_system,Yes
+R142,ET04,Non_agent_baseline,Yes
+R142,ET_Scope,Evaluation_scope,Full
+R142,SD_Human,Human_participants,Not reported
+R142,SD_Patient_impact,Impact_on_patient_care,No
+R142,SD_Setting,Study_setting,clinical_operational
+R142,SD_Temporality,Study_temporality,Unclear
+R142,WF_Controlled,Workflow_Controlled_study,No
+R142,WF_Multi,Workflow_multiple_contexts,No
+R142,WF_Offline,Workflow_Offline,Yes
+R142,WF_Operational,Workflow_Operational,No
+R142,WF_Simulated,Workflow_Simulated,Yes
+R142,WF_Unclear,Workflow_Unclear,No
+R142,evaluation_design_labels,evaluation design labels,Technical benchmark
+R142,patient_randomized_trial,patient randomized trial,No
+R142,random_allocation_reported,random allocation reported,Not applicable
+R142,randomization_method_description,randomization method description,Computational CDSS configuration evaluation on fixed biomedical datasets; no patient/user condition allocation.
+R142,randomization_unit_description,randomization unit description,Not applicable
+R231,DO_Completeness,Source_completeness,Unclear
+R231,DO_Nature,Origin_nature,synthetic_or_simulated
+R231,DO_Resource,Resource_type,public_benchmark_or_exam
+R231,DO_Role,Data_role,evaluation_data
+R231,EM01,Automated_quantitative,Yes
+R231,EM02,Human_or_expert,Yes
+R231,EM03,LLM_as_judge,Not reported
+R231,EM04,User_or_reader_study,Not reported
+R231,EM05,Comparative_or_ablation,Yes
+R231,EM06,Error_or_failure_analysis,Yes
+R231,EM07,Dialogue_or_trajectory,Yes
+R231,EM08,Stress_or_perturbation,Yes
+R231,EM09,Citation_or_reference_verify,Yes
+R231,ET01,Index_agent,Yes
+R231,ET02,Agent_component,Yes
+R231,ET03,Comparator_system,Yes
+R231,ET04,Non_agent_baseline,Yes
+R231,ET_Scope,Evaluation_scope,Full
+R231,SD_Human,Human_participants,Not reported
+R231,SD_Patient_impact,Impact_on_patient_care,No
+R231,SD_Setting,Study_setting,clinical_operational
+R231,SD_Temporality,Study_temporality,Not_applicable
+R231,WF_Controlled,Workflow_Controlled_study,No
+R231,WF_Multi,Workflow_multiple_contexts,No
+R231,WF_Offline,Workflow_Offline,Yes
+R231,WF_Operational,Workflow_Operational,No
+R231,WF_Simulated,Workflow_Simulated,Yes
+R231,WF_Unclear,Workflow_Unclear,No
+R231,evaluation_design_labels,evaluation design labels,Simulation evaluation
+R231,patient_randomized_trial,patient randomized trial,No
+R231,random_allocation_reported,random allocation reported,Not applicable
+R231,randomization_method_description,randomization method description,Not applicable
+R231,randomization_unit_description,randomization unit description,Not applicable
+R271,DO_Completeness,Source_completeness,Unclear
+R271,DO_Nature,Origin_nature,mixed
+R271,DO_Resource,Resource_type,public_benchmark_or_exam
+R271,DO_Role,Data_role,evaluation_data
+R271,EM01,Automated_quantitative,Yes
+R271,EM02,Human_or_expert,Yes
+R271,EM03,LLM_as_judge,Yes
+R271,EM04,User_or_reader_study,Not reported
+R271,EM05,Comparative_or_ablation,Yes
+R271,EM06,Error_or_failure_analysis,Not reported
+R271,EM07,Dialogue_or_trajectory,Yes
+R271,EM08,Stress_or_perturbation,Yes
+R271,EM09,Citation_or_reference_verify,Not reported
+R271,ET01,Index_agent,Yes
+R271,ET02,Agent_component,Yes
+R271,ET03,Comparator_system,Yes
+R271,ET04,Non_agent_baseline,Yes
+R271,ET_Scope,Evaluation_scope,Full
+R271,SD_Human,Human_participants,Not reported
+R271,SD_Patient_impact,Impact_on_patient_care,No
+R271,SD_Setting,Study_setting,clinical_operational
+R271,SD_Temporality,Study_temporality,Unclear
+R271,WF_Controlled,Workflow_Controlled_study,No
+R271,WF_Multi,Workflow_multiple_contexts,No
+R271,WF_Offline,Workflow_Offline,Yes
+R271,WF_Operational,Workflow_Operational,No
+R271,WF_Simulated,Workflow_Simulated,Yes
+R271,WF_Unclear,Workflow_Unclear,No
+R271,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical benchmark
+R271,patient_randomized_trial,patient randomized trial,No
+R271,random_allocation_reported,random allocation reported,Not applicable
+R271,randomization_method_description,randomization method description,"Agent training/dialogue benchmark, not allocation of actual patients or users."
+R271,randomization_unit_description,randomization unit description,Not applicable
+R279,DO_Completeness,Source_completeness,Unclear
+R279,DO_Nature,Origin_nature,mixed
+R279,DO_Resource,Resource_type,Unclear
+R279,DO_Role,Data_role,evaluation_data
+R279,EM01,Automated_quantitative,Yes
+R279,EM02,Human_or_expert,Yes
+R279,EM03,LLM_as_judge,Not reported
+R279,EM04,User_or_reader_study,Not reported
+R279,EM05,Comparative_or_ablation,Yes
+R279,EM06,Error_or_failure_analysis,Yes
+R279,EM07,Dialogue_or_trajectory,Not reported
+R279,EM08,Stress_or_perturbation,Not reported
+R279,EM09,Citation_or_reference_verify,Not reported
+R279,ET01,Index_agent,Yes
+R279,ET02,Agent_component,Yes
+R279,ET03,Comparator_system,Yes
+R279,ET04,Non_agent_baseline,Yes
+R279,ET_Scope,Evaluation_scope,Full
+R279,SD_Human,Human_participants,Not reported
+R279,SD_Patient_impact,Impact_on_patient_care,No
+R279,SD_Setting,Study_setting,clinical_operational
+R279,SD_Temporality,Study_temporality,Unclear
+R279,WF_Controlled,Workflow_Controlled_study,No
+R279,WF_Multi,Workflow_multiple_contexts,No
+R279,WF_Offline,Workflow_Offline,No
+R279,WF_Operational,Workflow_Operational,No
+R279,WF_Simulated,Workflow_Simulated,No
+R279,WF_Unclear,Workflow_Unclear,No
+R279,evaluation_design_labels,evaluation design labels,Device-event data analysis demonstration; Technical configuration comparison
+R279,patient_randomized_trial,patient randomized trial,No
+R279,random_allocation_reported,random allocation reported,Not applicable
+R279,randomization_method_description,randomization method description,Baseline then optimized configuration executed on three event-record tasks; no participant condition allocation.
+R279,randomization_unit_description,randomization unit description,Not applicable
+R300,DO_Completeness,Source_completeness,Unclear
+R300,DO_Nature,Origin_nature,synthetic_or_simulated
+R300,DO_Resource,Resource_type,public_benchmark_or_exam
+R300,DO_Role,Data_role,evaluation_data
+R300,EM01,Automated_quantitative,Yes
+R300,EM02,Human_or_expert,Yes
+R300,EM03,LLM_as_judge,Not reported
+R300,EM04,User_or_reader_study,Not reported
+R300,EM05,Comparative_or_ablation,Yes
+R300,EM06,Error_or_failure_analysis,Yes
+R300,EM07,Dialogue_or_trajectory,Not reported
+R300,EM08,Stress_or_perturbation,Yes
+R300,EM09,Citation_or_reference_verify,Yes
+R300,ET01,Index_agent,Yes
+R300,ET02,Agent_component,Yes
+R300,ET03,Comparator_system,Yes
+R300,ET04,Non_agent_baseline,Yes
+R300,ET_Scope,Evaluation_scope,Full
+R300,SD_Human,Human_participants,Not reported
+R300,SD_Patient_impact,Impact_on_patient_care,No
+R300,SD_Setting,Study_setting,clinical_operational
+R300,SD_Temporality,Study_temporality,Not_applicable
+R300,WF_Controlled,Workflow_Controlled_study,No
+R300,WF_Multi,Workflow_multiple_contexts,No
+R300,WF_Offline,Workflow_Offline,Yes
+R300,WF_Operational,Workflow_Operational,No
+R300,WF_Simulated,Workflow_Simulated,Yes
+R300,WF_Unclear,Workflow_Unclear,No
+R300,evaluation_design_labels,evaluation design labels,Technical benchmark
+R300,patient_randomized_trial,patient randomized trial,No
+R300,random_allocation_reported,random allocation reported,Not reported
+R300,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R300,randomization_unit_description,randomization unit description,Not applicable
+R325,DO_Completeness,Source_completeness,Unclear
+R325,DO_Nature,Origin_nature,clinical_derived
+R325,DO_Resource,Resource_type,public_benchmark_or_exam
+R325,DO_Role,Data_role,evaluation_data
+R325,EM01,Automated_quantitative,Yes
+R325,EM02,Human_or_expert,Yes
+R325,EM03,LLM_as_judge,Not reported
+R325,EM04,User_or_reader_study,Yes
+R325,EM05,Comparative_or_ablation,Yes
+R325,EM06,Error_or_failure_analysis,Not reported
+R325,EM07,Dialogue_or_trajectory,Yes
+R325,EM08,Stress_or_perturbation,Not reported
+R325,EM09,Citation_or_reference_verify,Yes
+R325,ET01,Index_agent,Yes
+R325,ET02,Agent_component,Yes
+R325,ET03,Comparator_system,Yes
+R325,ET04,Non_agent_baseline,Yes
+R325,ET_Scope,Evaluation_scope,Full
+R325,SD_Human,Human_participants,Yes
+R325,SD_Patient_impact,Impact_on_patient_care,No
+R325,SD_Setting,Study_setting,clinical_operational
+R325,SD_Temporality,Study_temporality,Prospective
+R325,WF_Controlled,Workflow_Controlled_study,Yes
+R325,WF_Multi,Workflow_multiple_contexts,No
+R325,WF_Offline,Workflow_Offline,Yes
+R325,WF_Operational,Workflow_Operational,No
+R325,WF_Simulated,Workflow_Simulated,Yes
+R325,WF_Unclear,Workflow_Unclear,No
+R325,evaluation_design_labels,evaluation design labels,Randomized user study
+R325,patient_randomized_trial,patient randomized trial,No
+R325,random_allocation_reported,random allocation reported,Reported
+R325,randomization_method_description,randomization method description,Condition order A/B or B/A and patient cases randomly assigned; sequence-generation algorithm Not reported
+R325,randomization_unit_description,randomization unit description,Clinician/participant assigned condition sequence and mock patient cases
+R358,DO_Completeness,Source_completeness,partial
+R358,DO_Nature,Origin_nature,clinical_derived
+R358,DO_Resource,Resource_type,public_benchmark_or_exam
+R358,DO_Role,Data_role,evaluation_data
+R358,EM01,Automated_quantitative,Yes
+R358,EM02,Human_or_expert,Yes
+R358,EM03,LLM_as_judge,Not reported
+R358,EM04,User_or_reader_study,No
+R358,EM05,Comparative_or_ablation,Yes
+R358,EM06,Error_or_failure_analysis,Not reported
+R358,EM07,Dialogue_or_trajectory,Not reported
+R358,EM08,Stress_or_perturbation,Yes
+R358,EM09,Citation_or_reference_verify,Yes
+R358,ET01,Index_agent,Yes
+R358,ET02,Agent_component,Yes
+R358,ET03,Comparator_system,Yes
+R358,ET04,Non_agent_baseline,Yes
+R358,ET_Scope,Evaluation_scope,Full
+R358,SD_Human,Human_participants,Yes
+R358,SD_Patient_impact,Impact_on_patient_care,No
+R358,SD_Setting,Study_setting,clinical_operational
+R358,SD_Temporality,Study_temporality,Retrospective
+R358,WF_Controlled,Workflow_Controlled_study,Yes
+R358,WF_Multi,Workflow_multiple_contexts,No
+R358,WF_Offline,Workflow_Offline,Yes
+R358,WF_Operational,Workflow_Operational,No
+R358,WF_Simulated,Workflow_Simulated,Yes
+R358,WF_Unclear,Workflow_Unclear,No
+R358,evaluation_design_labels,evaluation design labels,Simulation evaluation; Retrospective clinical-data evaluation; Human comparator evaluation
+R358,patient_randomized_trial,patient randomized trial,No
+R358,random_allocation_reported,random allocation reported,Not reported
+R358,randomization_method_description,randomization method description,Not reported
+R358,randomization_unit_description,randomization unit description,Not applicable
+R365,DO_Completeness,Source_completeness,Unclear
+R365,DO_Nature,Origin_nature,clinical_derived
+R365,DO_Resource,Resource_type,public_benchmark_or_exam
+R365,DO_Role,Data_role,evaluation_data
+R365,EM01,Automated_quantitative,Yes
+R365,EM02,Human_or_expert,Yes
+R365,EM03,LLM_as_judge,Not reported
+R365,EM04,User_or_reader_study,Not reported
+R365,EM05,Comparative_or_ablation,Yes
+R365,EM06,Error_or_failure_analysis,Not reported
+R365,EM07,Dialogue_or_trajectory,Not reported
+R365,EM08,Stress_or_perturbation,Yes
+R365,EM09,Citation_or_reference_verify,Yes
+R365,ET01,Index_agent,Yes
+R365,ET02,Agent_component,Yes
+R365,ET03,Comparator_system,Yes
+R365,ET04,Non_agent_baseline,Not reported
+R365,ET_Scope,Evaluation_scope,Full
+R365,SD_Human,Human_participants,Not reported
+R365,SD_Patient_impact,Impact_on_patient_care,No
+R365,SD_Setting,Study_setting,clinical_operational
+R365,SD_Temporality,Study_temporality,Unclear
+R365,WF_Controlled,Workflow_Controlled_study,No
+R365,WF_Multi,Workflow_multiple_contexts,No
+R365,WF_Offline,Workflow_Offline,Yes
+R365,WF_Operational,Workflow_Operational,No
+R365,WF_Simulated,Workflow_Simulated,No
+R365,WF_Unclear,Workflow_Unclear,No
+R365,evaluation_design_labels,evaluation design labels,Technical benchmark
+R365,patient_randomized_trial,patient randomized trial,No
+R365,random_allocation_reported,random allocation reported,Not reported
+R365,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R365,randomization_unit_description,randomization unit description,Not applicable
+R369,DO_Completeness,Source_completeness,Unclear
+R369,DO_Nature,Origin_nature,clinical_derived
+R369,DO_Resource,Resource_type,public_benchmark_or_exam
+R369,DO_Role,Data_role,evaluation_data
+R369,EM01,Automated_quantitative,Yes
+R369,EM02,Human_or_expert,Yes
+R369,EM03,LLM_as_judge,Not reported
+R369,EM04,User_or_reader_study,Not reported
+R369,EM05,Comparative_or_ablation,Yes
+R369,EM06,Error_or_failure_analysis,Yes
+R369,EM07,Dialogue_or_trajectory,Not reported
+R369,EM08,Stress_or_perturbation,Yes
+R369,EM09,Citation_or_reference_verify,Yes
+R369,ET01,Index_agent,Yes
+R369,ET02,Agent_component,Yes
+R369,ET03,Comparator_system,Yes
+R369,ET04,Non_agent_baseline,Yes
+R369,ET_Scope,Evaluation_scope,Full
+R369,SD_Human,Human_participants,Yes
+R369,SD_Patient_impact,Impact_on_patient_care,No
+R369,SD_Setting,Study_setting,clinical_operational
+R369,SD_Temporality,Study_temporality,Retrospective
+R369,WF_Controlled,Workflow_Controlled_study,No
+R369,WF_Multi,Workflow_multiple_contexts,No
+R369,WF_Offline,Workflow_Offline,Yes
+R369,WF_Operational,Workflow_Operational,No
+R369,WF_Simulated,Workflow_Simulated,No
+R369,WF_Unclear,Workflow_Unclear,No
+R369,evaluation_design_labels,evaluation design labels,Technical benchmark; Retrospective clinical-data evaluation; Synthetic-data evaluation; Human output assessment
+R369,patient_randomized_trial,patient randomized trial,No
+R369,random_allocation_reported,random allocation reported,Not reported
+R369,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R369,randomization_unit_description,randomization unit description,Not applicable
+R371,DO_Completeness,Source_completeness,Unclear
+R371,DO_Nature,Origin_nature,synthetic_or_simulated
+R371,DO_Resource,Resource_type,public_benchmark_or_exam
+R371,DO_Role,Data_role,evaluation_data
+R371,EM01,Automated_quantitative,Yes
+R371,EM02,Human_or_expert,Yes
+R371,EM03,LLM_as_judge,Not reported
+R371,EM04,User_or_reader_study,Not reported
+R371,EM05,Comparative_or_ablation,Yes
+R371,EM06,Error_or_failure_analysis,Not reported
+R371,EM07,Dialogue_or_trajectory,Yes
+R371,EM08,Stress_or_perturbation,Not reported
+R371,EM09,Citation_or_reference_verify,Yes
+R371,ET01,Index_agent,Yes
+R371,ET02,Agent_component,Yes
+R371,ET03,Comparator_system,Yes
+R371,ET04,Non_agent_baseline,Not reported
+R371,ET_Scope,Evaluation_scope,Full
+R371,SD_Human,Human_participants,Yes
+R371,SD_Patient_impact,Impact_on_patient_care,No
+R371,SD_Setting,Study_setting,clinical_operational
+R371,SD_Temporality,Study_temporality,Unclear
+R371,WF_Controlled,Workflow_Controlled_study,Yes
+R371,WF_Multi,Workflow_multiple_contexts,No
+R371,WF_Offline,Workflow_Offline,Yes
+R371,WF_Operational,Workflow_Operational,No
+R371,WF_Simulated,Workflow_Simulated,No
+R371,WF_Unclear,Workflow_Unclear,No
+R371,evaluation_design_labels,evaluation design labels,Technical benchmark
+R371,patient_randomized_trial,patient randomized trial,No
+R371,random_allocation_reported,random allocation reported,Not applicable
+R371,randomization_method_description,randomization method description,Search-agent training and fixed QA tests; author trace analysis is not a randomized user intervention.
+R371,randomization_unit_description,randomization unit description,Not applicable
+R375,DO_Completeness,Source_completeness,partial
+R375,DO_Nature,Origin_nature,mixed
+R375,DO_Resource,Resource_type,public_benchmark_or_exam
+R375,DO_Role,Data_role,evaluation_data
+R375,EM01,Automated_quantitative,Yes
+R375,EM02,Human_or_expert,Yes
+R375,EM03,LLM_as_judge,Yes
+R375,EM04,User_or_reader_study,No
+R375,EM05,Comparative_or_ablation,Yes
+R375,EM06,Error_or_failure_analysis,Not reported
+R375,EM07,Dialogue_or_trajectory,Not reported
+R375,EM08,Stress_or_perturbation,Not reported
+R375,EM09,Citation_or_reference_verify,Not reported
+R375,ET01,Index_agent,Yes
+R375,ET02,Agent_component,Yes
+R375,ET03,Comparator_system,Yes
+R375,ET04,Non_agent_baseline,Not reported
+R375,ET_Scope,Evaluation_scope,Full
+R375,SD_Human,Human_participants,Yes
+R375,SD_Patient_impact,Impact_on_patient_care,No
+R375,SD_Setting,Study_setting,clinical_operational
+R375,SD_Temporality,Study_temporality,Unclear
+R375,WF_Controlled,Workflow_Controlled_study,No
+R375,WF_Multi,Workflow_multiple_contexts,No
+R375,WF_Offline,Workflow_Offline,Yes
+R375,WF_Operational,Workflow_Operational,No
+R375,WF_Simulated,Workflow_Simulated,Yes
+R375,WF_Unclear,Workflow_Unclear,No
+R375,evaluation_design_labels,evaluation design labels,Simulation evaluation; Human comparator evaluation
+R375,patient_randomized_trial,patient randomized trial,No
+R375,random_allocation_reported,random allocation reported,Not reported
+R375,randomization_method_description,randomization method description,Two physician comparator groups receive different information conditions; the selection/assignment method is not specified as random.
+R375,randomization_unit_description,randomization unit description,Physician group for information condition; randomization not established
+R377,DO_Completeness,Source_completeness,complete
+R377,DO_Nature,Origin_nature,clinical_derived
+R377,DO_Resource,Resource_type,public_benchmark_or_exam
+R377,DO_Role,Data_role,evaluation_data
+R377,EM01,Automated_quantitative,Yes
+R377,EM02,Human_or_expert,Yes
+R377,EM03,LLM_as_judge,Not reported
+R377,EM04,User_or_reader_study,Not reported
+R377,EM05,Comparative_or_ablation,Yes
+R377,EM06,Error_or_failure_analysis,Not reported
+R377,EM07,Dialogue_or_trajectory,Not reported
+R377,EM08,Stress_or_perturbation,Not reported
+R377,EM09,Citation_or_reference_verify,Not reported
+R377,ET01,Index_agent,Yes
+R377,ET02,Agent_component,Yes
+R377,ET03,Comparator_system,Yes
+R377,ET04,Non_agent_baseline,Yes
+R377,ET_Scope,Evaluation_scope,Full
+R377,SD_Human,Human_participants,Not reported
+R377,SD_Patient_impact,Impact_on_patient_care,No
+R377,SD_Setting,Study_setting,research_environment
+R377,SD_Temporality,Study_temporality,Unclear
+R377,WF_Controlled,Workflow_Controlled_study,No
+R377,WF_Multi,Workflow_multiple_contexts,No
+R377,WF_Offline,Workflow_Offline,Yes
+R377,WF_Operational,Workflow_Operational,No
+R377,WF_Simulated,Workflow_Simulated,No
+R377,WF_Unclear,Workflow_Unclear,No
+R377,evaluation_design_labels,evaluation design labels,Technical benchmark
+R377,patient_randomized_trial,patient randomized trial,No
+R377,random_allocation_reported,random allocation reported,Not applicable
+R377,randomization_method_description,randomization method description,KAMAC models/agent settings tested on MedQA and Progn-VQA; no human condition allocation.
+R377,randomization_unit_description,randomization unit description,Not applicable
+R378,DO_Completeness,Source_completeness,partial
+R378,DO_Nature,Origin_nature,mixed
+R378,DO_Resource,Resource_type,institutional_dataset
+R378,DO_Role,Data_role,evaluation_data
+R378,EM01,Automated_quantitative,Yes
+R378,EM02,Human_or_expert,Yes
+R378,EM03,LLM_as_judge,Not reported
+R378,EM04,User_or_reader_study,Not reported
+R378,EM05,Comparative_or_ablation,Yes
+R378,EM06,Error_or_failure_analysis,Not reported
+R378,EM07,Dialogue_or_trajectory,Not reported
+R378,EM08,Stress_or_perturbation,Not reported
+R378,EM09,Citation_or_reference_verify,Yes
+R378,ET01,Index_agent,Yes
+R378,ET02,Agent_component,Yes
+R378,ET03,Comparator_system,Yes
+R378,ET04,Non_agent_baseline,Yes
+R378,ET_Scope,Evaluation_scope,Full
+R378,SD_Human,Human_participants,Not reported
+R378,SD_Patient_impact,Impact_on_patient_care,No
+R378,SD_Setting,Study_setting,clinical_operational
+R378,SD_Temporality,Study_temporality,Unclear
+R378,WF_Controlled,Workflow_Controlled_study,No
+R378,WF_Multi,Workflow_multiple_contexts,No
+R378,WF_Offline,Workflow_Offline,No
+R378,WF_Operational,Workflow_Operational,No
+R378,WF_Simulated,Workflow_Simulated,No
+R378,WF_Unclear,Workflow_Unclear,No
+R378,evaluation_design_labels,evaluation design labels,Technical benchmark
+R378,patient_randomized_trial,patient randomized trial,No
+R378,random_allocation_reported,random allocation reported,Not applicable
+R378,randomization_method_description,randomization method description,Summary-generation architectures compared on 100 abstract-PLS pairs with automated metrics; no patient/user allocation.
+R378,randomization_unit_description,randomization unit description,Not applicable
+R381,DO_Completeness,Source_completeness,Unclear
+R381,DO_Nature,Origin_nature,mixed
+R381,DO_Resource,Resource_type,public_benchmark_or_exam
+R381,DO_Role,Data_role,evaluation_data
+R381,EM01,Automated_quantitative,Yes
+R381,EM02,Human_or_expert,Yes
+R381,EM03,LLM_as_judge,Yes
+R381,EM04,User_or_reader_study,Not reported
+R381,EM05,Comparative_or_ablation,Yes
+R381,EM06,Error_or_failure_analysis,Not reported
+R381,EM07,Dialogue_or_trajectory,Not reported
+R381,EM08,Stress_or_perturbation,Yes
+R381,EM09,Citation_or_reference_verify,Not reported
+R381,ET01,Index_agent,Yes
+R381,ET02,Agent_component,Yes
+R381,ET03,Comparator_system,Yes
+R381,ET04,Non_agent_baseline,Yes
+R381,ET_Scope,Evaluation_scope,Full
+R381,SD_Human,Human_participants,Yes
+R381,SD_Patient_impact,Impact_on_patient_care,No
+R381,SD_Setting,Study_setting,research_environment
+R381,SD_Temporality,Study_temporality,Unclear
+R381,WF_Controlled,Workflow_Controlled_study,No
+R381,WF_Multi,Workflow_multiple_contexts,No
+R381,WF_Offline,Workflow_Offline,Yes
+R381,WF_Operational,Workflow_Operational,No
+R381,WF_Simulated,Workflow_Simulated,Yes
+R381,WF_Unclear,Workflow_Unclear,No
+R381,evaluation_design_labels,evaluation design labels,Simulation evaluation; Human output assessment
+R381,patient_randomized_trial,patient randomized trial,No
+R381,random_allocation_reported,random allocation reported,Not reported
+R381,randomization_method_description,randomization method description,"Manual dialogue behavior ratings are described, but evaluator/condition allocation is not specified."
+R381,randomization_unit_description,randomization unit description,Not reported
+R397,DO_Completeness,Source_completeness,Unclear
+R397,DO_Nature,Origin_nature,synthetic_or_simulated
+R397,DO_Resource,Resource_type,other
+R397,DO_Role,Data_role,evaluation_data
+R397,EM01,Automated_quantitative,Yes
+R397,EM02,Human_or_expert,Not reported
+R397,EM03,LLM_as_judge,Not reported
+R397,EM04,User_or_reader_study,Not reported
+R397,EM05,Comparative_or_ablation,Yes
+R397,EM06,Error_or_failure_analysis,Not reported
+R397,EM07,Dialogue_or_trajectory,Not reported
+R397,EM08,Stress_or_perturbation,Not reported
+R397,EM09,Citation_or_reference_verify,Not reported
+R397,ET01,Index_agent,Yes
+R397,ET02,Agent_component,Yes
+R397,ET03,Comparator_system,Yes
+R397,ET04,Non_agent_baseline,Not reported
+R397,ET_Scope,Evaluation_scope,Full
+R397,SD_Human,Human_participants,No
+R397,SD_Patient_impact,Impact_on_patient_care,No
+R397,SD_Setting,Study_setting,Not applicable
+R397,SD_Temporality,Study_temporality,Not_applicable
+R397,WF_Controlled,Workflow_Controlled_study,No
+R397,WF_Multi,Workflow_multiple_contexts,Unclear
+R397,WF_Offline,Workflow_Offline,Yes
+R397,WF_Operational,Workflow_Operational,No
+R397,WF_Simulated,Workflow_Simulated,Yes
+R397,WF_Unclear,Workflow_Unclear,No
+R397,evaluation_design_labels,evaluation design labels,Simulation evaluation
+R397,patient_randomized_trial,patient randomized trial,No
+R397,random_allocation_reported,random allocation reported,Not applicable
+R397,randomization_method_description,randomization method description,Not applicable
+R397,randomization_unit_description,randomization unit description,Not applicable
+R406,DO_Completeness,Source_completeness,Unclear
+R406,DO_Nature,Origin_nature,mixed
+R406,DO_Resource,Resource_type,public_benchmark_or_exam
+R406,DO_Role,Data_role,evaluation_data
+R406,EM01,Automated_quantitative,Yes
+R406,EM02,Human_or_expert,Yes
+R406,EM03,LLM_as_judge,Not reported
+R406,EM04,User_or_reader_study,Not reported
+R406,EM05,Comparative_or_ablation,Yes
+R406,EM06,Error_or_failure_analysis,Yes
+R406,EM07,Dialogue_or_trajectory,Not reported
+R406,EM08,Stress_or_perturbation,Not reported
+R406,EM09,Citation_or_reference_verify,Yes
+R406,ET01,Index_agent,Yes
+R406,ET02,Agent_component,Yes
+R406,ET03,Comparator_system,Yes
+R406,ET04,Non_agent_baseline,Not reported
+R406,ET_Scope,Evaluation_scope,Full
+R406,SD_Human,Human_participants,Not reported
+R406,SD_Patient_impact,Impact_on_patient_care,No
+R406,SD_Setting,Study_setting,clinical_operational
+R406,SD_Temporality,Study_temporality,Unclear
+R406,WF_Controlled,Workflow_Controlled_study,Yes
+R406,WF_Multi,Workflow_multiple_contexts,No
+R406,WF_Offline,Workflow_Offline,Yes
+R406,WF_Operational,Workflow_Operational,No
+R406,WF_Simulated,Workflow_Simulated,Yes
+R406,WF_Unclear,Workflow_Unclear,No
+R406,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical benchmark
+R406,patient_randomized_trial,patient randomized trial,No
+R406,random_allocation_reported,random allocation reported,Not applicable
+R406,randomization_method_description,randomization method description,Computational differential-diagnosis framework and model/iteration settings on shared datasets.
+R406,randomization_unit_description,randomization unit description,Not applicable
+R407,DO_Completeness,Source_completeness,Unclear
+R407,DO_Nature,Origin_nature,mixed
+R407,DO_Resource,Resource_type,public_benchmark_or_exam
+R407,DO_Role,Data_role,evaluation_data
+R407,EM01,Automated_quantitative,Yes
+R407,EM02,Human_or_expert,Yes
+R407,EM03,LLM_as_judge,Not reported
+R407,EM04,User_or_reader_study,Not reported
+R407,EM05,Comparative_or_ablation,Yes
+R407,EM06,Error_or_failure_analysis,Not reported
+R407,EM07,Dialogue_or_trajectory,Not reported
+R407,EM08,Stress_or_perturbation,Not reported
+R407,EM09,Citation_or_reference_verify,Yes
+R407,ET01,Index_agent,Yes
+R407,ET02,Agent_component,Yes
+R407,ET03,Comparator_system,Yes
+R407,ET04,Non_agent_baseline,Yes
+R407,ET_Scope,Evaluation_scope,Full
+R407,SD_Human,Human_participants,Not reported
+R407,SD_Patient_impact,Impact_on_patient_care,No
+R407,SD_Setting,Study_setting,clinical_operational
+R407,SD_Temporality,Study_temporality,Unclear
+R407,WF_Controlled,Workflow_Controlled_study,No
+R407,WF_Multi,Workflow_multiple_contexts,No
+R407,WF_Offline,Workflow_Offline,Yes
+R407,WF_Operational,Workflow_Operational,No
+R407,WF_Simulated,Workflow_Simulated,Yes
+R407,WF_Unclear,Workflow_Unclear,No
+R407,evaluation_design_labels,evaluation design labels,Technical benchmark
+R407,patient_randomized_trial,patient randomized trial,No
+R407,random_allocation_reported,random allocation reported,Not applicable
+R407,randomization_method_description,randomization method description,CalcQA/tool experiments score agent outputs; physician activity described as dataset annotation/review.
+R407,randomization_unit_description,randomization unit description,Not applicable
+R418,DO_Completeness,Source_completeness,Unclear
+R418,DO_Nature,Origin_nature,clinical_derived
+R418,DO_Resource,Resource_type,public_benchmark_or_exam
+R418,DO_Role,Data_role,evaluation_data
+R418,EM01,Automated_quantitative,Yes
+R418,EM02,Human_or_expert,Yes
+R418,EM03,LLM_as_judge,Not reported
+R418,EM04,User_or_reader_study,Not reported
+R418,EM05,Comparative_or_ablation,Yes
+R418,EM06,Error_or_failure_analysis,Not reported
+R418,EM07,Dialogue_or_trajectory,Yes
+R418,EM08,Stress_or_perturbation,Yes
+R418,EM09,Citation_or_reference_verify,Yes
+R418,ET01,Index_agent,Yes
+R418,ET02,Agent_component,Yes
+R418,ET03,Comparator_system,Yes
+R418,ET04,Non_agent_baseline,Yes
+R418,ET_Scope,Evaluation_scope,Full
+R418,SD_Human,Human_participants,Not reported
+R418,SD_Patient_impact,Impact_on_patient_care,No
+R418,SD_Setting,Study_setting,clinical_operational
+R418,SD_Temporality,Study_temporality,Unclear
+R418,WF_Controlled,Workflow_Controlled_study,Yes
+R418,WF_Multi,Workflow_multiple_contexts,No
+R418,WF_Offline,Workflow_Offline,Yes
+R418,WF_Operational,Workflow_Operational,No
+R418,WF_Simulated,Workflow_Simulated,Yes
+R418,WF_Unclear,Workflow_Unclear,No
+R418,evaluation_design_labels,evaluation design labels,Technical benchmark
+R418,patient_randomized_trial,patient randomized trial,No
+R418,random_allocation_reported,random allocation reported,Not applicable
+R418,randomization_method_description,randomization method description,CAB task and agent-configuration comparisons without human condition allocation.
+R418,randomization_unit_description,randomization unit description,Not applicable
+R447,DO_Completeness,Source_completeness,partial
+R447,DO_Nature,Origin_nature,mixed
+R447,DO_Resource,Resource_type,public_benchmark_or_exam
+R447,DO_Role,Data_role,evaluation_data
+R447,EM01,Automated_quantitative,Yes
+R447,EM02,Human_or_expert,Yes
+R447,EM03,LLM_as_judge,Yes
+R447,EM04,User_or_reader_study,Not reported
+R447,EM05,Comparative_or_ablation,Yes
+R447,EM06,Error_or_failure_analysis,Yes
+R447,EM07,Dialogue_or_trajectory,Yes
+R447,EM08,Stress_or_perturbation,Yes
+R447,EM09,Citation_or_reference_verify,Not reported
+R447,ET01,Index_agent,Yes
+R447,ET02,Agent_component,Yes
+R447,ET03,Comparator_system,Yes
+R447,ET04,Non_agent_baseline,Yes
+R447,ET_Scope,Evaluation_scope,Full
+R447,SD_Human,Human_participants,Yes
+R447,SD_Patient_impact,Impact_on_patient_care,No
+R447,SD_Setting,Study_setting,research_environment
+R447,SD_Temporality,Study_temporality,Retrospective
+R447,WF_Controlled,Workflow_Controlled_study,No
+R447,WF_Multi,Workflow_multiple_contexts,No
+R447,WF_Offline,Workflow_Offline,Yes
+R447,WF_Operational,Workflow_Operational,No
+R447,WF_Simulated,Workflow_Simulated,Yes
+R447,WF_Unclear,Workflow_Unclear,No
+R447,evaluation_design_labels,evaluation design labels,Technical benchmark; Clinician rollout audit
+R447,patient_randomized_trial,patient randomized trial,No
+R447,random_allocation_reported,random allocation reported,Not reported
+R447,randomization_method_description,randomization method description,Clinician scores 144 rollouts across 36 tasks/four models; allocation/order randomization is not specified.
+R447,randomization_unit_description,randomization unit description,Not reported
+R451,DO_Completeness,Source_completeness,Unclear
+R451,DO_Nature,Origin_nature,clinical_derived
+R451,DO_Resource,Resource_type,public_benchmark_or_exam
+R451,DO_Role,Data_role,evaluation_data
+R451,EM01,Automated_quantitative,Yes
+R451,EM02,Human_or_expert,Yes
+R451,EM03,LLM_as_judge,Not reported
+R451,EM04,User_or_reader_study,Not reported
+R451,EM05,Comparative_or_ablation,Yes
+R451,EM06,Error_or_failure_analysis,Yes
+R451,EM07,Dialogue_or_trajectory,Yes
+R451,EM08,Stress_or_perturbation,Not reported
+R451,EM09,Citation_or_reference_verify,Not reported
+R451,ET01,Index_agent,Yes
+R451,ET02,Agent_component,Yes
+R451,ET03,Comparator_system,Not reported
+R451,ET04,Non_agent_baseline,Yes
+R451,ET_Scope,Evaluation_scope,Full
+R451,SD_Human,Human_participants,Not reported
+R451,SD_Patient_impact,Impact_on_patient_care,No
+R451,SD_Setting,Study_setting,research_environment
+R451,SD_Temporality,Study_temporality,Unclear
+R451,WF_Controlled,Workflow_Controlled_study,No
+R451,WF_Multi,Workflow_multiple_contexts,No
+R451,WF_Offline,Workflow_Offline,Yes
+R451,WF_Operational,Workflow_Operational,No
+R451,WF_Simulated,Workflow_Simulated,No
+R451,WF_Unclear,Workflow_Unclear,No
+R451,evaluation_design_labels,evaluation design labels,Technical benchmark
+R451,patient_randomized_trial,patient randomized trial,No
+R451,random_allocation_reported,random allocation reported,Not applicable
+R451,randomization_method_description,randomization method description,"Computational stage-wise fairness evaluation across agents, demographic subgroups and datasets."
+R451,randomization_unit_description,randomization unit description,Not applicable
+R452,DO_Completeness,Source_completeness,Unclear
+R452,DO_Nature,Origin_nature,clinical_derived
+R452,DO_Resource,Resource_type,public_benchmark_or_exam
+R452,DO_Role,Data_role,evaluation_data
+R452,EM01,Automated_quantitative,Yes
+R452,EM02,Human_or_expert,Yes
+R452,EM03,LLM_as_judge,Not reported
+R452,EM04,User_or_reader_study,Not reported
+R452,EM05,Comparative_or_ablation,Yes
+R452,EM06,Error_or_failure_analysis,Not reported
+R452,EM07,Dialogue_or_trajectory,Yes
+R452,EM08,Stress_or_perturbation,Yes
+R452,EM09,Citation_or_reference_verify,Yes
+R452,ET01,Index_agent,Yes
+R452,ET02,Agent_component,Yes
+R452,ET03,Comparator_system,Yes
+R452,ET04,Non_agent_baseline,Yes
+R452,ET_Scope,Evaluation_scope,Full
+R452,SD_Human,Human_participants,Unclear
+R452,SD_Patient_impact,Impact_on_patient_care,No
+R452,SD_Setting,Study_setting,clinical_operational
+R452,SD_Temporality,Study_temporality,Unclear
+R452,WF_Controlled,Workflow_Controlled_study,Yes
+R452,WF_Multi,Workflow_multiple_contexts,No
+R452,WF_Offline,Workflow_Offline,Yes
+R452,WF_Operational,Workflow_Operational,No
+R452,WF_Simulated,Workflow_Simulated,No
+R452,WF_Unclear,Workflow_Unclear,No
+R452,evaluation_design_labels,evaluation design labels,Technical benchmark
+R452,patient_randomized_trial,patient randomized trial,No
+R452,random_allocation_reported,random allocation reported,Not reported
+R452,randomization_method_description,randomization method description,Not reported
+R452,randomization_unit_description,randomization unit description,Not applicable
+R453,DO_Completeness,Source_completeness,Unclear
+R453,DO_Nature,Origin_nature,mixed
+R453,DO_Resource,Resource_type,public_benchmark_or_exam
+R453,DO_Role,Data_role,evaluation_data
+R453,EM01,Automated_quantitative,Yes
+R453,EM02,Human_or_expert,Yes
+R453,EM03,LLM_as_judge,Not reported
+R453,EM04,User_or_reader_study,Not reported
+R453,EM05,Comparative_or_ablation,Yes
+R453,EM06,Error_or_failure_analysis,Yes
+R453,EM07,Dialogue_or_trajectory,Not reported
+R453,EM08,Stress_or_perturbation,Yes
+R453,EM09,Citation_or_reference_verify,Not reported
+R453,ET01,Index_agent,Yes
+R453,ET02,Agent_component,Yes
+R453,ET03,Comparator_system,Yes
+R453,ET04,Non_agent_baseline,Not reported
+R453,ET_Scope,Evaluation_scope,Full
+R453,SD_Human,Human_participants,Not reported
+R453,SD_Patient_impact,Impact_on_patient_care,No
+R453,SD_Setting,Study_setting,clinical_operational
+R453,SD_Temporality,Study_temporality,Unclear
+R453,WF_Controlled,Workflow_Controlled_study,No
+R453,WF_Multi,Workflow_multiple_contexts,No
+R453,WF_Offline,Workflow_Offline,Yes
+R453,WF_Operational,Workflow_Operational,No
+R453,WF_Simulated,Workflow_Simulated,Yes
+R453,WF_Unclear,Workflow_Unclear,No
+R453,evaluation_design_labels,evaluation design labels,Technical benchmark
+R453,patient_randomized_trial,patient randomized trial,No
+R453,random_allocation_reported,random allocation reported,Not applicable
+R453,randomization_method_description,randomization method description,Task-generation/benchmark quality audit and model tests; no allocated patient/user conditions established.
+R453,randomization_unit_description,randomization unit description,Not applicable
+R454,DO_Completeness,Source_completeness,Unclear
+R454,DO_Nature,Origin_nature,mixed
+R454,DO_Resource,Resource_type,public_benchmark_or_exam
+R454,DO_Role,Data_role,evaluation_data
+R454,EM01,Automated_quantitative,Yes
+R454,EM02,Human_or_expert,Yes
+R454,EM03,LLM_as_judge,Not reported
+R454,EM04,User_or_reader_study,Not reported
+R454,EM05,Comparative_or_ablation,Yes
+R454,EM06,Error_or_failure_analysis,Not reported
+R454,EM07,Dialogue_or_trajectory,Yes
+R454,EM08,Stress_or_perturbation,Yes
+R454,EM09,Citation_or_reference_verify,Yes
+R454,ET01,Index_agent,Yes
+R454,ET02,Agent_component,Yes
+R454,ET03,Comparator_system,Yes
+R454,ET04,Non_agent_baseline,Yes
+R454,ET_Scope,Evaluation_scope,Full
+R454,SD_Human,Human_participants,Not reported
+R454,SD_Patient_impact,Impact_on_patient_care,No
+R454,SD_Setting,Study_setting,research_environment
+R454,SD_Temporality,Study_temporality,Unclear
+R454,WF_Controlled,Workflow_Controlled_study,No
+R454,WF_Multi,Workflow_multiple_contexts,No
+R454,WF_Offline,Workflow_Offline,Yes
+R454,WF_Operational,Workflow_Operational,No
+R454,WF_Simulated,Workflow_Simulated,No
+R454,WF_Unclear,Workflow_Unclear,No
+R454,evaluation_design_labels,evaluation design labels,Technical benchmark
+R454,patient_randomized_trial,patient randomized trial,No
+R454,random_allocation_reported,random allocation reported,Not applicable
+R454,randomization_method_description,randomization method description,"Training/medical VQA/model/tool substitution benchmarks, not human condition allocation."
+R454,randomization_unit_description,randomization unit description,Not applicable
+R455,DO_Completeness,Source_completeness,Unclear
+R455,DO_Nature,Origin_nature,mixed
+R455,DO_Resource,Resource_type,public_benchmark_or_exam
+R455,DO_Role,Data_role,evaluation_data
+R455,EM01,Automated_quantitative,Yes
+R455,EM02,Human_or_expert,Yes
+R455,EM03,LLM_as_judge,Yes
+R455,EM04,User_or_reader_study,Not reported
+R455,EM05,Comparative_or_ablation,Yes
+R455,EM06,Error_or_failure_analysis,Yes
+R455,EM07,Dialogue_or_trajectory,Yes
+R455,EM08,Stress_or_perturbation,Not reported
+R455,EM09,Citation_or_reference_verify,Yes
+R455,ET01,Index_agent,Yes
+R455,ET02,Agent_component,Yes
+R455,ET03,Comparator_system,Yes
+R455,ET04,Non_agent_baseline,Yes
+R455,ET_Scope,Evaluation_scope,Full
+R455,SD_Human,Human_participants,Not reported
+R455,SD_Patient_impact,Impact_on_patient_care,No
+R455,SD_Setting,Study_setting,research_environment
+R455,SD_Temporality,Study_temporality,Unclear
+R455,WF_Controlled,Workflow_Controlled_study,Yes
+R455,WF_Multi,Workflow_multiple_contexts,No
+R455,WF_Offline,Workflow_Offline,Yes
+R455,WF_Operational,Workflow_Operational,No
+R455,WF_Simulated,Workflow_Simulated,Yes
+R455,WF_Unclear,Workflow_Unclear,No
+R455,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical benchmark
+R455,patient_randomized_trial,patient randomized trial,No
+R455,random_allocation_reported,random allocation reported,Not applicable
+R455,randomization_method_description,randomization method description,Model physician/patient agents evaluated in CP-Env; no actual patient/user condition allocation.
+R455,randomization_unit_description,randomization unit description,Not applicable
+R458,DO_Completeness,Source_completeness,partial
+R458,DO_Nature,Origin_nature,clinical_derived
+R458,DO_Resource,Resource_type,public_benchmark_or_exam
+R458,DO_Role,Data_role,evaluation_data
+R458,EM01,Automated_quantitative,Yes
+R458,EM02,Human_or_expert,Yes
+R458,EM03,LLM_as_judge,Not reported
+R458,EM04,User_or_reader_study,Not reported
+R458,EM05,Comparative_or_ablation,Yes
+R458,EM06,Error_or_failure_analysis,Not reported
+R458,EM07,Dialogue_or_trajectory,Not reported
+R458,EM08,Stress_or_perturbation,Not reported
+R458,EM09,Citation_or_reference_verify,Not reported
+R458,ET01,Index_agent,Yes
+R458,ET02,Agent_component,Yes
+R458,ET03,Comparator_system,Yes
+R458,ET04,Non_agent_baseline,Yes
+R458,ET_Scope,Evaluation_scope,Full
+R458,SD_Human,Human_participants,Not reported
+R458,SD_Patient_impact,Impact_on_patient_care,No
+R458,SD_Setting,Study_setting,clinical_operational
+R458,SD_Temporality,Study_temporality,Unclear
+R458,WF_Controlled,Workflow_Controlled_study,Yes
+R458,WF_Multi,Workflow_multiple_contexts,No
+R458,WF_Offline,Workflow_Offline,Yes
+R458,WF_Operational,Workflow_Operational,No
+R458,WF_Simulated,Workflow_Simulated,Yes
+R458,WF_Unclear,Workflow_Unclear,No
+R458,evaluation_design_labels,evaluation design labels,Technical benchmark
+R458,patient_randomized_trial,patient randomized trial,No
+R458,random_allocation_reported,random allocation reported,Not applicable
+R458,randomization_method_description,randomization method description,Backbone replacements in diagnostic/QA/AgentClinic simulations use fixed or sampled task inputs.
+R458,randomization_unit_description,randomization unit description,Not applicable
+R460,DO_Completeness,Source_completeness,Unclear
+R460,DO_Nature,Origin_nature,clinical_derived
+R460,DO_Resource,Resource_type,public_benchmark_or_exam
+R460,DO_Role,Data_role,evaluation_data
+R460,EM01,Automated_quantitative,Yes
+R460,EM02,Human_or_expert,Yes
+R460,EM03,LLM_as_judge,Yes
+R460,EM04,User_or_reader_study,Not reported
+R460,EM05,Comparative_or_ablation,Yes
+R460,EM06,Error_or_failure_analysis,Yes
+R460,EM07,Dialogue_or_trajectory,Not reported
+R460,EM08,Stress_or_perturbation,Yes
+R460,EM09,Citation_or_reference_verify,Not reported
+R460,ET01,Index_agent,Yes
+R460,ET02,Agent_component,Yes
+R460,ET03,Comparator_system,Yes
+R460,ET04,Non_agent_baseline,Not reported
+R460,ET_Scope,Evaluation_scope,Full
+R460,SD_Human,Human_participants,Yes
+R460,SD_Patient_impact,Impact_on_patient_care,No
+R460,SD_Setting,Study_setting,research_environment
+R460,SD_Temporality,Study_temporality,Unclear
+R460,WF_Controlled,Workflow_Controlled_study,No
+R460,WF_Multi,Workflow_multiple_contexts,No
+R460,WF_Offline,Workflow_Offline,Yes
+R460,WF_Operational,Workflow_Operational,No
+R460,WF_Simulated,Workflow_Simulated,No
+R460,WF_Unclear,Workflow_Unclear,No
+R460,evaluation_design_labels,evaluation design labels,Clinical case counterfactual evaluation; Technical benchmark
+R460,patient_randomized_trial,patient randomized trial,No
+R460,random_allocation_reported,random allocation reported,Not reported
+R460,randomization_method_description,randomization method description,Blinded medical-professional validation of counterfactual outputs; random participant/condition allocation is not specified.
+R460,randomization_unit_description,randomization unit description,Not reported
+R461,DO_Completeness,Source_completeness,Unclear
+R461,DO_Nature,Origin_nature,clinical_derived
+R461,DO_Resource,Resource_type,public_benchmark_or_exam
+R461,DO_Role,Data_role,evaluation_data
+R461,EM01,Automated_quantitative,Yes
+R461,EM02,Human_or_expert,Yes
+R461,EM03,LLM_as_judge,Not reported
+R461,EM04,User_or_reader_study,Not reported
+R461,EM05,Comparative_or_ablation,Yes
+R461,EM06,Error_or_failure_analysis,Yes
+R461,EM07,Dialogue_or_trajectory,Yes
+R461,EM08,Stress_or_perturbation,Not reported
+R461,EM09,Citation_or_reference_verify,Not reported
+R461,ET01,Index_agent,Yes
+R461,ET02,Agent_component,Yes
+R461,ET03,Comparator_system,Yes
+R461,ET04,Non_agent_baseline,Yes
+R461,ET_Scope,Evaluation_scope,Full
+R461,SD_Human,Human_participants,Not reported
+R461,SD_Patient_impact,Impact_on_patient_care,No
+R461,SD_Setting,Study_setting,clinical_operational
+R461,SD_Temporality,Study_temporality,Unclear
+R461,WF_Controlled,Workflow_Controlled_study,No
+R461,WF_Multi,Workflow_multiple_contexts,No
+R461,WF_Offline,Workflow_Offline,Yes
+R461,WF_Operational,Workflow_Operational,No
+R461,WF_Simulated,Workflow_Simulated,Yes
+R461,WF_Unclear,Workflow_Unclear,No
+R461,evaluation_design_labels,evaluation design labels,Technical benchmark
+R461,patient_randomized_trial,patient randomized trial,No
+R461,random_allocation_reported,random allocation reported,Not applicable
+R461,randomization_method_description,randomization method description,Virtual EHR benchmark task-success evaluation with automated/reference checks; no human condition allocation.
+R461,randomization_unit_description,randomization unit description,Not applicable
+R467,DO_Completeness,Source_completeness,partial
+R467,DO_Nature,Origin_nature,mixed
+R467,DO_Resource,Resource_type,Unclear
+R467,DO_Role,Data_role,evaluation_data
+R467,EM01,Automated_quantitative,Yes
+R467,EM02,Human_or_expert,Yes
+R467,EM03,LLM_as_judge,Not reported
+R467,EM04,User_or_reader_study,Not reported
+R467,EM05,Comparative_or_ablation,Yes
+R467,EM06,Error_or_failure_analysis,Yes
+R467,EM07,Dialogue_or_trajectory,Not reported
+R467,EM08,Stress_or_perturbation,Yes
+R467,EM09,Citation_or_reference_verify,Not reported
+R467,ET01,Index_agent,Yes
+R467,ET02,Agent_component,Yes
+R467,ET03,Comparator_system,Yes
+R467,ET04,Non_agent_baseline,Yes
+R467,ET_Scope,Evaluation_scope,Full
+R467,SD_Human,Human_participants,No
+R467,SD_Patient_impact,Impact_on_patient_care,No
+R467,SD_Setting,Study_setting,research_environment
+R467,SD_Temporality,Study_temporality,Retrospective
+R467,WF_Controlled,Workflow_Controlled_study,No
+R467,WF_Multi,Workflow_multiple_contexts,No
+R467,WF_Offline,Workflow_Offline,Yes
+R467,WF_Operational,Workflow_Operational,No
+R467,WF_Simulated,Workflow_Simulated,Yes
+R467,WF_Unclear,Workflow_Unclear,No
+R467,evaluation_design_labels,evaluation design labels,Retrospective clinical-data evaluation; Technical planning comparison
+R467,patient_randomized_trial,patient randomized trial,No
+R467,random_allocation_reported,random allocation reported,Not reported
+R467,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R467,randomization_unit_description,randomization unit description,Not applicable
+R469,DO_Completeness,Source_completeness,partial
+R469,DO_Nature,Origin_nature,mixed
+R469,DO_Resource,Resource_type,public_benchmark_or_exam
+R469,DO_Role,Data_role,evaluation_data
+R469,EM01,Automated_quantitative,Yes
+R469,EM02,Human_or_expert,Yes
+R469,EM03,LLM_as_judge,Not reported
+R469,EM04,User_or_reader_study,Not reported
+R469,EM05,Comparative_or_ablation,Yes
+R469,EM06,Error_or_failure_analysis,Yes
+R469,EM07,Dialogue_or_trajectory,Yes
+R469,EM08,Stress_or_perturbation,Yes
+R469,EM09,Citation_or_reference_verify,Not reported
+R469,ET01,Index_agent,Yes
+R469,ET02,Agent_component,Yes
+R469,ET03,Comparator_system,Yes
+R469,ET04,Non_agent_baseline,Yes
+R469,ET_Scope,Evaluation_scope,Full
+R469,SD_Human,Human_participants,Not reported
+R469,SD_Patient_impact,Impact_on_patient_care,No
+R469,SD_Setting,Study_setting,research_environment
+R469,SD_Temporality,Study_temporality,Retrospective
+R469,WF_Controlled,Workflow_Controlled_study,No
+R469,WF_Multi,Workflow_multiple_contexts,No
+R469,WF_Offline,Workflow_Offline,Yes
+R469,WF_Operational,Workflow_Operational,No
+R469,WF_Simulated,Workflow_Simulated,Yes
+R469,WF_Unclear,Workflow_Unclear,No
+R469,evaluation_design_labels,evaluation design labels,Technical benchmark; Retrospective clinical-data reconstruction
+R469,patient_randomized_trial,patient randomized trial,No
+R469,random_allocation_reported,random allocation reported,Not reported
+R469,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R469,randomization_unit_description,randomization unit description,Not applicable
+R475,DO_Completeness,Source_completeness,partial
+R475,DO_Nature,Origin_nature,clinical_derived
+R475,DO_Resource,Resource_type,institutional_dataset
+R475,DO_Role,Data_role,evaluation_data
+R475,EM01,Automated_quantitative,Yes
+R475,EM02,Human_or_expert,Yes
+R475,EM03,LLM_as_judge,Not reported
+R475,EM04,User_or_reader_study,Not reported
+R475,EM05,Comparative_or_ablation,Yes
+R475,EM06,Error_or_failure_analysis,Not reported
+R475,EM07,Dialogue_or_trajectory,Not reported
+R475,EM08,Stress_or_perturbation,Not reported
+R475,EM09,Citation_or_reference_verify,Not reported
+R475,ET01,Index_agent,Yes
+R475,ET02,Agent_component,Not reported
+R475,ET03,Comparator_system,Yes
+R475,ET04,Non_agent_baseline,Not reported
+R475,ET_Scope,Evaluation_scope,Full
+R475,SD_Human,Human_participants,Yes
+R475,SD_Patient_impact,Impact_on_patient_care,No
+R475,SD_Setting,Study_setting,research_environment
+R475,SD_Temporality,Study_temporality,Retrospective
+R475,WF_Controlled,Workflow_Controlled_study,No
+R475,WF_Multi,Workflow_multiple_contexts,No
+R475,WF_Offline,Workflow_Offline,Yes
+R475,WF_Operational,Workflow_Operational,No
+R475,WF_Simulated,Workflow_Simulated,No
+R475,WF_Unclear,Workflow_Unclear,No
+R475,evaluation_design_labels,evaluation design labels,Observational-study reproduction benchmark
+R475,patient_randomized_trial,patient randomized trial,No
+R475,random_allocation_reported,random allocation reported,Not applicable
+R475,randomization_method_description,randomization method description,Agents reproduce observational research in medical databases; technical cohort-judge screening is not patient intervention allocation.
+R475,randomization_unit_description,randomization unit description,Not applicable
+R476,DO_Completeness,Source_completeness,Unclear
+R476,DO_Nature,Origin_nature,synthetic_or_simulated
+R476,DO_Resource,Resource_type,public_benchmark_or_exam
+R476,DO_Role,Data_role,evaluation_data
+R476,EM01,Automated_quantitative,Yes
+R476,EM02,Human_or_expert,Yes
+R476,EM03,LLM_as_judge,Yes
+R476,EM04,User_or_reader_study,Not reported
+R476,EM05,Comparative_or_ablation,Yes
+R476,EM06,Error_or_failure_analysis,Not reported
+R476,EM07,Dialogue_or_trajectory,Yes
+R476,EM08,Stress_or_perturbation,Not reported
+R476,EM09,Citation_or_reference_verify,Yes
+R476,ET01,Index_agent,Yes
+R476,ET02,Agent_component,Yes
+R476,ET03,Comparator_system,Yes
+R476,ET04,Non_agent_baseline,Not reported
+R476,ET_Scope,Evaluation_scope,Full
+R476,SD_Human,Human_participants,Not reported
+R476,SD_Patient_impact,Impact_on_patient_care,No
+R476,SD_Setting,Study_setting,clinical_operational
+R476,SD_Temporality,Study_temporality,Unclear
+R476,WF_Controlled,Workflow_Controlled_study,No
+R476,WF_Multi,Workflow_multiple_contexts,No
+R476,WF_Offline,Workflow_Offline,Yes
+R476,WF_Operational,Workflow_Operational,No
+R476,WF_Simulated,Workflow_Simulated,Yes
+R476,WF_Unclear,Workflow_Unclear,No
+R476,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical benchmark
+R476,patient_randomized_trial,patient randomized trial,No
+R476,random_allocation_reported,random allocation reported,Not applicable
+R476,randomization_method_description,randomization method description,Qwen physician/patient agents evolve across training batches in a simulated arena.
+R476,randomization_unit_description,randomization unit description,Not applicable
+R484,DO_Completeness,Source_completeness,Unclear
+R484,DO_Nature,Origin_nature,clinical_derived
+R484,DO_Resource,Resource_type,public_benchmark_or_exam
+R484,DO_Role,Data_role,evaluation_data
+R484,EM01,Automated_quantitative,Yes
+R484,EM02,Human_or_expert,Yes
+R484,EM03,LLM_as_judge,Not reported
+R484,EM04,User_or_reader_study,Not reported
+R484,EM05,Comparative_or_ablation,Yes
+R484,EM06,Error_or_failure_analysis,Yes
+R484,EM07,Dialogue_or_trajectory,Yes
+R484,EM08,Stress_or_perturbation,Yes
+R484,EM09,Citation_or_reference_verify,Yes
+R484,ET01,Index_agent,Yes
+R484,ET02,Agent_component,Yes
+R484,ET03,Comparator_system,Yes
+R484,ET04,Non_agent_baseline,Yes
+R484,ET_Scope,Evaluation_scope,Full
+R484,SD_Human,Human_participants,Yes
+R484,SD_Patient_impact,Impact_on_patient_care,No
+R484,SD_Setting,Study_setting,clinical_operational
+R484,SD_Temporality,Study_temporality,Unclear
+R484,WF_Controlled,Workflow_Controlled_study,No
+R484,WF_Multi,Workflow_multiple_contexts,No
+R484,WF_Offline,Workflow_Offline,Yes
+R484,WF_Operational,Workflow_Operational,No
+R484,WF_Simulated,Workflow_Simulated,Yes
+R484,WF_Unclear,Workflow_Unclear,No
+R484,evaluation_design_labels,evaluation design labels,Technical benchmark; Human comparator evaluation
+R484,patient_randomized_trial,patient randomized trial,No
+R484,random_allocation_reported,random allocation reported,Not reported
+R484,randomization_method_description,randomization method description,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation
+R484,randomization_unit_description,randomization unit description,Not applicable
+R491,DO_Completeness,Source_completeness,Unclear
+R491,DO_Nature,Origin_nature,clinical_derived
+R491,DO_Resource,Resource_type,public_benchmark_or_exam
+R491,DO_Role,Data_role,evaluation_data
+R491,EM01,Automated_quantitative,Yes
+R491,EM02,Human_or_expert,Yes
+R491,EM03,LLM_as_judge,Not reported
+R491,EM04,User_or_reader_study,Not reported
+R491,EM05,Comparative_or_ablation,Yes
+R491,EM06,Error_or_failure_analysis,Not reported
+R491,EM07,Dialogue_or_trajectory,Not reported
+R491,EM08,Stress_or_perturbation,Not reported
+R491,EM09,Citation_or_reference_verify,Yes
+R491,ET01,Index_agent,Yes
+R491,ET02,Agent_component,Yes
+R491,ET03,Comparator_system,Yes
+R491,ET04,Non_agent_baseline,Yes
+R491,ET_Scope,Evaluation_scope,Full
+R491,SD_Human,Human_participants,Yes
+R491,SD_Patient_impact,Impact_on_patient_care,No
+R491,SD_Setting,Study_setting,research_environment
+R491,SD_Temporality,Study_temporality,Retrospective
+R491,WF_Controlled,Workflow_Controlled_study,No
+R491,WF_Multi,Workflow_multiple_contexts,No
+R491,WF_Offline,Workflow_Offline,Yes
+R491,WF_Operational,Workflow_Operational,No
+R491,WF_Simulated,Workflow_Simulated,Yes
+R491,WF_Unclear,Workflow_Unclear,No
+R491,evaluation_design_labels,evaluation design labels,Clinical case evaluation; Expert output assessment
+R491,patient_randomized_trial,patient randomized trial,No
+R491,random_allocation_reported,random allocation reported,Not reported
+R491,randomization_method_description,randomization method description,Clinicians score treatment/explanation outputs for shared cases; random assignment or presentation order not specified.
+R491,randomization_unit_description,randomization unit description,Not reported
+R493,DO_Completeness,Source_completeness,partial
+R493,DO_Nature,Origin_nature,clinical_derived
+R493,DO_Resource,Resource_type,public_benchmark_or_exam
+R493,DO_Role,Data_role,evaluation_data
+R493,EM01,Automated_quantitative,Yes
+R493,EM02,Human_or_expert,Yes
+R493,EM03,LLM_as_judge,Not reported
+R493,EM04,User_or_reader_study,Not reported
+R493,EM05,Comparative_or_ablation,Yes
+R493,EM06,Error_or_failure_analysis,Yes
+R493,EM07,Dialogue_or_trajectory,Not reported
+R493,EM08,Stress_or_perturbation,Yes
+R493,EM09,Citation_or_reference_verify,Yes
+R493,ET01,Index_agent,Yes
+R493,ET02,Agent_component,Yes
+R493,ET03,Comparator_system,Yes
+R493,ET04,Non_agent_baseline,Yes
+R493,ET_Scope,Evaluation_scope,Full
+R493,SD_Human,Human_participants,Not reported
+R493,SD_Patient_impact,Impact_on_patient_care,No
+R493,SD_Setting,Study_setting,research_environment
+R493,SD_Temporality,Study_temporality,Unclear
+R493,WF_Controlled,Workflow_Controlled_study,No
+R493,WF_Multi,Workflow_multiple_contexts,No
+R493,WF_Offline,Workflow_Offline,Yes
+R493,WF_Operational,Workflow_Operational,No
+R493,WF_Simulated,Workflow_Simulated,Yes
+R493,WF_Unclear,Workflow_Unclear,No
+R493,evaluation_design_labels,evaluation design labels,Technical benchmark
+R493,patient_randomized_trial,patient randomized trial,No
+R493,random_allocation_reported,random allocation reported,Not applicable
+R493,randomization_method_description,randomization method description,Trial-outcome prediction models tested on historical datasets; source trial participants are not allocated in this agent study.
+R493,randomization_unit_description,randomization unit description,Not applicable
+R499,DO_Completeness,Source_completeness,Unclear
+R499,DO_Nature,Origin_nature,clinical_derived
+R499,DO_Resource,Resource_type,public_benchmark_or_exam
+R499,DO_Role,Data_role,evaluation_data
+R499,EM01,Automated_quantitative,Yes
+R499,EM02,Human_or_expert,Yes
+R499,EM03,LLM_as_judge,Not reported
+R499,EM04,User_or_reader_study,Not reported
+R499,EM05,Comparative_or_ablation,Yes
+R499,EM06,Error_or_failure_analysis,Not reported
+R499,EM07,Dialogue_or_trajectory,Yes
+R499,EM08,Stress_or_perturbation,Not reported
+R499,EM09,Citation_or_reference_verify,Not reported
+R499,ET01,Index_agent,Yes
+R499,ET02,Agent_component,Yes
+R499,ET03,Comparator_system,Yes
+R499,ET04,Non_agent_baseline,Yes
+R499,ET_Scope,Evaluation_scope,Full
+R499,SD_Human,Human_participants,Not reported
+R499,SD_Patient_impact,Impact_on_patient_care,Unclear
+R499,SD_Setting,Study_setting,clinical_operational
+R499,SD_Temporality,Study_temporality,Retrospective
+R499,WF_Controlled,Workflow_Controlled_study,Yes
+R499,WF_Multi,Workflow_multiple_contexts,No
+R499,WF_Offline,Workflow_Offline,Yes
+R499,WF_Operational,Workflow_Operational,Unclear
+R499,WF_Simulated,Workflow_Simulated,Yes
+R499,WF_Unclear,Workflow_Unclear,No
+R499,evaluation_design_labels,evaluation design labels,Retrospective clinical-data evaluation; Technical planning comparison
+R499,patient_randomized_trial,patient randomized trial,No
+R499,random_allocation_reported,random allocation reported,Not reported
+R499,randomization_method_description,randomization method description,Not reported
+R499,randomization_unit_description,randomization unit description,Not applicable
+R501,DO_Completeness,Source_completeness,Unclear
+R501,DO_Nature,Origin_nature,clinical_derived
+R501,DO_Resource,Resource_type,public_benchmark_or_exam
+R501,DO_Role,Data_role,evaluation_data
+R501,EM01,Automated_quantitative,Yes
+R501,EM02,Human_or_expert,Yes
+R501,EM03,LLM_as_judge,Yes
+R501,EM04,User_or_reader_study,Not reported
+R501,EM05,Comparative_or_ablation,Yes
+R501,EM06,Error_or_failure_analysis,Yes
+R501,EM07,Dialogue_or_trajectory,Not reported
+R501,EM08,Stress_or_perturbation,Not reported
+R501,EM09,Citation_or_reference_verify,Yes
+R501,ET01,Index_agent,Yes
+R501,ET02,Agent_component,Yes
+R501,ET03,Comparator_system,Yes
+R501,ET04,Non_agent_baseline,Yes
+R501,ET_Scope,Evaluation_scope,Full
+R501,SD_Human,Human_participants,Yes
+R501,SD_Patient_impact,Impact_on_patient_care,No
+R501,SD_Setting,Study_setting,clinical_operational
+R501,SD_Temporality,Study_temporality,Unclear
+R501,WF_Controlled,Workflow_Controlled_study,No
+R501,WF_Multi,Workflow_multiple_contexts,No
+R501,WF_Offline,Workflow_Offline,Yes
+R501,WF_Operational,Workflow_Operational,No
+R501,WF_Simulated,Workflow_Simulated,No
+R501,WF_Unclear,Workflow_Unclear,No
+R501,evaluation_design_labels,evaluation design labels,Technical benchmark; Human output assessment
+R501,patient_randomized_trial,patient randomized trial,No
+R501,random_allocation_reported,random allocation reported,Not applicable
+R501,randomization_method_description,randomization method description,Radiology impression configurations tested on 100 report cases with automatic scores and manual inconsistency review.
+R501,randomization_unit_description,randomization unit description,Not applicable
+R503,DO_Completeness,Source_completeness,Unclear
+R503,DO_Nature,Origin_nature,mixed
+R503,DO_Resource,Resource_type,public_benchmark_or_exam
+R503,DO_Role,Data_role,evaluation_data
+R503,EM01,Automated_quantitative,Yes
+R503,EM02,Human_or_expert,Not reported
+R503,EM03,LLM_as_judge,Not reported
+R503,EM04,User_or_reader_study,Not reported
+R503,EM05,Comparative_or_ablation,Yes
+R503,EM06,Error_or_failure_analysis,Not reported
+R503,EM07,Dialogue_or_trajectory,Yes
+R503,EM08,Stress_or_perturbation,Not reported
+R503,EM09,Citation_or_reference_verify,Not reported
+R503,ET01,Index_agent,Yes
+R503,ET02,Agent_component,Not reported
+R503,ET03,Comparator_system,Yes
+R503,ET04,Non_agent_baseline,Yes
+R503,ET_Scope,Evaluation_scope,Full
+R503,SD_Human,Human_participants,Not reported
+R503,SD_Patient_impact,Impact_on_patient_care,No
+R503,SD_Setting,Study_setting,clinical_operational
+R503,SD_Temporality,Study_temporality,Unclear
+R503,WF_Controlled,Workflow_Controlled_study,No
+R503,WF_Multi,Workflow_multiple_contexts,No
+R503,WF_Offline,Workflow_Offline,Yes
+R503,WF_Operational,Workflow_Operational,No
+R503,WF_Simulated,Workflow_Simulated,Yes
+R503,WF_Unclear,Workflow_Unclear,No
+R503,evaluation_design_labels,evaluation design labels,Simulation evaluation
+R503,patient_randomized_trial,patient randomized trial,No
+R503,random_allocation_reported,random allocation reported,Not applicable
+R503,randomization_method_description,randomization method description,"Doctor-model policies tested in 15 all-model AgentClinic scenarios, without patient/user condition allocation."
+R503,randomization_unit_description,randomization unit description,Not applicable
+R509,DO_Completeness,Source_completeness,Unclear
+R509,DO_Nature,Origin_nature,synthetic_or_simulated
+R509,DO_Resource,Resource_type,public_benchmark_or_exam
+R509,DO_Role,Data_role,evaluation_data
+R509,EM01,Automated_quantitative,Yes
+R509,EM02,Human_or_expert,Yes
+R509,EM03,LLM_as_judge,Not reported
+R509,EM04,User_or_reader_study,Not reported
+R509,EM05,Comparative_or_ablation,Yes
+R509,EM06,Error_or_failure_analysis,Not reported
+R509,EM07,Dialogue_or_trajectory,Not reported
+R509,EM08,Stress_or_perturbation,Not reported
+R509,EM09,Citation_or_reference_verify,Yes
+R509,ET01,Index_agent,Yes
+R509,ET02,Agent_component,Yes
+R509,ET03,Comparator_system,Yes
+R509,ET04,Non_agent_baseline,Yes
+R509,ET_Scope,Evaluation_scope,Full
+R509,SD_Human,Human_participants,Not reported
+R509,SD_Patient_impact,Impact_on_patient_care,No
+R509,SD_Setting,Study_setting,clinical_operational
+R509,SD_Temporality,Study_temporality,Unclear
+R509,WF_Controlled,Workflow_Controlled_study,Yes
+R509,WF_Multi,Workflow_multiple_contexts,No
+R509,WF_Offline,Workflow_Offline,Yes
+R509,WF_Operational,Workflow_Operational,No
+R509,WF_Simulated,Workflow_Simulated,Yes
+R509,WF_Unclear,Workflow_Unclear,No
+R509,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical benchmark
+R509,patient_randomized_trial,patient randomized trial,No
+R509,random_allocation_reported,random allocation reported,Not applicable
+R509,randomization_method_description,randomization method description,CLI/MedicalOS settings evaluated against diagnoses in AgentClinic-MedQA simulation.
+R509,randomization_unit_description,randomization unit description,Not applicable
+R511,DO_Completeness,Source_completeness,Unclear
+R511,DO_Nature,Origin_nature,synthetic_or_simulated
+R511,DO_Resource,Resource_type,public_benchmark_or_exam
+R511,DO_Role,Data_role,evaluation_data
+R511,EM01,Automated_quantitative,Yes
+R511,EM02,Human_or_expert,Yes
+R511,EM03,LLM_as_judge,Not reported
+R511,EM04,User_or_reader_study,Not reported
+R511,EM05,Comparative_or_ablation,Yes
+R511,EM06,Error_or_failure_analysis,Yes
+R511,EM07,Dialogue_or_trajectory,Not reported
+R511,EM08,Stress_or_perturbation,Yes
+R511,EM09,Citation_or_reference_verify,Not reported
+R511,ET01,Index_agent,Yes
+R511,ET02,Agent_component,Yes
+R511,ET03,Comparator_system,Yes
+R511,ET04,Non_agent_baseline,Yes
+R511,ET_Scope,Evaluation_scope,Full
+R511,SD_Human,Human_participants,Yes
+R511,SD_Patient_impact,Impact_on_patient_care,No
+R511,SD_Setting,Study_setting,research_environment
+R511,SD_Temporality,Study_temporality,Unclear
+R511,WF_Controlled,Workflow_Controlled_study,No
+R511,WF_Multi,Workflow_multiple_contexts,No
+R511,WF_Offline,Workflow_Offline,Yes
+R511,WF_Operational,Workflow_Operational,No
+R511,WF_Simulated,Workflow_Simulated,Yes
+R511,WF_Unclear,Workflow_Unclear,No
+R511,evaluation_design_labels,evaluation design labels,Simulation evaluation; Technical configuration comparison; Human output assessment
+R511,patient_randomized_trial,patient randomized trial,No
+R511,random_allocation_reported,random allocation reported,Not applicable
+R511,randomization_method_description,randomization method description,All robot/manager team roles are LLMs; hierarchical simulation configurations compared before humans join.
+R511,randomization_unit_description,randomization unit description,Not applicable
+R514,DO_Completeness,Source_completeness,partial
+R514,DO_Nature,Origin_nature,mixed
+R514,DO_Resource,Resource_type,public_benchmark_or_exam
+R514,DO_Role,Data_role,evaluation_data
+R514,EM01,Automated_quantitative,Yes
+R514,EM02,Human_or_expert,Yes
+R514,EM03,LLM_as_judge,Not reported
+R514,EM04,User_or_reader_study,Not reported
+R514,EM05,Comparative_or_ablation,Yes
+R514,EM06,Error_or_failure_analysis,Yes
+R514,EM07,Dialogue_or_trajectory,Yes
+R514,EM08,Stress_or_perturbation,Not reported
+R514,EM09,Citation_or_reference_verify,Not reported
+R514,ET01,Index_agent,Yes
+R514,ET02,Agent_component,Yes
+R514,ET03,Comparator_system,Yes
+R514,ET04,Non_agent_baseline,Yes
+R514,ET_Scope,Evaluation_scope,Full
+R514,SD_Human,Human_participants,Yes
+R514,SD_Patient_impact,Impact_on_patient_care,No
+R514,SD_Setting,Study_setting,research_environment
+R514,SD_Temporality,Study_temporality,Unclear
+R514,WF_Controlled,Workflow_Controlled_study,Yes
+R514,WF_Multi,Workflow_multiple_contexts,No
+R514,WF_Offline,Workflow_Offline,Yes
+R514,WF_Operational,Workflow_Operational,No
+R514,WF_Simulated,Workflow_Simulated,Yes
+R514,WF_Unclear,Workflow_Unclear,No
+R514,evaluation_design_labels,evaluation design labels,Mechanism-specific technical benchmark
+R514,patient_randomized_trial,patient randomized trial,No
+R514,random_allocation_reported,random allocation reported,Not applicable
+R514,randomization_method_description,randomization method description,EHRAgent/GuardAgent benchmark tests synthetic role/task access restrictions.
+R514,randomization_unit_description,randomization unit description,Not applicable
+R524,DO_Completeness,Source_completeness,partial
+R524,DO_Nature,Origin_nature,clinical_derived
+R524,DO_Resource,Resource_type,public_benchmark_or_exam
+R524,DO_Role,Data_role,evaluation_data
+R524,EM01,Automated_quantitative,Yes
+R524,EM02,Human_or_expert,Yes
+R524,EM03,LLM_as_judge,Not reported
+R524,EM04,User_or_reader_study,Yes
+R524,EM05,Comparative_or_ablation,Yes
+R524,EM06,Error_or_failure_analysis,Not reported
+R524,EM07,Dialogue_or_trajectory,Yes
+R524,EM08,Stress_or_perturbation,Yes
+R524,EM09,Citation_or_reference_verify,Yes
+R524,ET01,Index_agent,Yes
+R524,ET02,Agent_component,Yes
+R524,ET03,Comparator_system,Yes
+R524,ET04,Non_agent_baseline,Yes
+R524,ET_Scope,Evaluation_scope,Full
+R524,SD_Human,Human_participants,Yes
+R524,SD_Patient_impact,Impact_on_patient_care,No
+R524,SD_Setting,Study_setting,clinical_operational
+R524,SD_Temporality,Study_temporality,Retrospective
+R524,WF_Controlled,Workflow_Controlled_study,Yes
+R524,WF_Multi,Workflow_multiple_contexts,No
+R524,WF_Offline,Workflow_Offline,Yes
+R524,WF_Operational,Workflow_Operational,No
+R524,WF_Simulated,Workflow_Simulated,Yes
+R524,WF_Unclear,Workflow_Unclear,No
+R524,evaluation_design_labels,evaluation design labels,Retrospective clinical-data evaluation; Randomized reader study
+R524,patient_randomized_trial,patient randomized trial,No
+R524,random_allocation_reported,random allocation reported,Reported
+R524,randomization_method_description,randomization method description,Clinicians randomly assigned to two reading sequences; case order independently randomized per clinician; algorithm Not reported
+R524,randomization_unit_description,randomization unit description,Clinician reading sequence and within-set case order
+R529,DO_Completeness,Source_completeness,Unclear
+R529,DO_Nature,Origin_nature,clinical_derived
+R529,DO_Resource,Resource_type,public_benchmark_or_exam
+R529,DO_Role,Data_role,evaluation_data
+R529,EM01,Automated_quantitative,Yes
+R529,EM02,Human_or_expert,Yes
+R529,EM03,LLM_as_judge,Not reported
+R529,EM04,User_or_reader_study,Not reported
+R529,EM05,Comparative_or_ablation,Yes
+R529,EM06,Error_or_failure_analysis,Yes
+R529,EM07,Dialogue_or_trajectory,Yes
+R529,EM08,Stress_or_perturbation,Yes
+R529,EM09,Citation_or_reference_verify,Yes
+R529,ET01,Index_agent,Yes
+R529,ET02,Agent_component,Yes
+R529,ET03,Comparator_system,Yes
+R529,ET04,Non_agent_baseline,Yes
+R529,ET_Scope,Evaluation_scope,Full
+R529,SD_Human,Human_participants,Yes
+R529,SD_Patient_impact,Impact_on_patient_care,No
+R529,SD_Setting,Study_setting,clinical_operational
+R529,SD_Temporality,Study_temporality,Unclear
+R529,WF_Controlled,Workflow_Controlled_study,Yes
+R529,WF_Multi,Workflow_multiple_contexts,No
+R529,WF_Offline,Workflow_Offline,Yes
+R529,WF_Operational,Workflow_Operational,No
+R529,WF_Simulated,Workflow_Simulated,No
+R529,WF_Unclear,Workflow_Unclear,No
+R529,evaluation_design_labels,evaluation design labels,Expert output assessment; Technical model comparison
+R529,patient_randomized_trial,patient randomized trial,No
+R529,random_allocation_reported,random allocation reported,Not reported
+R529,randomization_method_description,randomization method description,Not reported
+R529,randomization_unit_description,randomization unit description,Not applicable
+R543,DO_Completeness,Source_completeness,Unclear
+R543,DO_Nature,Origin_nature,mixed
+R543,DO_Resource,Resource_type,public_benchmark_or_exam
+R543,DO_Role,Data_role,evaluation_data
+R543,EM01,Automated_quantitative,Yes
+R543,EM02,Human_or_expert,Yes
+R543,EM03,LLM_as_judge,Not reported
+R543,EM04,User_or_reader_study,Not reported
+R543,EM05,Comparative_or_ablation,Yes
+R543,EM06,Error_or_failure_analysis,Yes
+R543,EM07,Dialogue_or_trajectory,Not reported
+R543,EM08,Stress_or_perturbation,Not reported
+R543,EM09,Citation_or_reference_verify,Yes
+R543,ET01,Index_agent,Yes
+R543,ET02,Agent_component,Yes
+R543,ET03,Comparator_system,Yes
+R543,ET04,Non_agent_baseline,Not reported
+R543,ET_Scope,Evaluation_scope,Full
+R543,SD_Human,Human_participants,Not reported
+R543,SD_Patient_impact,Impact_on_patient_care,No
+R543,SD_Setting,Study_setting,research_environment
+R543,SD_Temporality,Study_temporality,Unclear
+R543,WF_Controlled,Workflow_Controlled_study,No
+R543,WF_Multi,Workflow_multiple_contexts,No
+R543,WF_Offline,Workflow_Offline,Yes
+R543,WF_Operational,Workflow_Operational,No
+R543,WF_Simulated,Workflow_Simulated,Yes
+R543,WF_Unclear,Workflow_Unclear,No
+R543,evaluation_design_labels,evaluation design labels,Technical benchmark
+R543,patient_randomized_trial,patient randomized trial,No
+R543,random_allocation_reported,random allocation reported,Not applicable
+R543,randomization_method_description,randomization method description,TxAgent retrieval/tool/prompt variants tested on competition question labels.
+R543,randomization_unit_description,randomization unit description,Not applicable

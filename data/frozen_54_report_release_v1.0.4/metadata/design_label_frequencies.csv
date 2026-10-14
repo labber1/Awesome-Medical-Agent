@@ -1,0 +1,24 @@
+Evaluation design label,Reports,% of 54,Rule
+Clinical case counterfactual evaluation,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Clinical case evaluation,2,3.7,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Clinician rollout audit,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Device-event data analysis demonstration,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Expert output assessment,6,11.1,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Exploratory physician-assessed chatbot comparison,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Human comparator evaluation,3,5.6,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Human output assessment,4,7.4,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Mechanism-specific technical benchmark,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Observational-study reproduction benchmark,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Prospective patient-interaction evaluation,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Randomized paired expert-rating evaluation,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Randomized reader study,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Randomized user study,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Retrospective clinical-data evaluation,8,14.8,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Retrospective clinical-data reconstruction,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Simulation evaluation,14,25.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Synthetic-data evaluation,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Technical benchmark,32,59.3,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Technical calculation benchmark,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Technical configuration comparison,2,3.7,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Technical model comparison,1,1.9,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales
+Technical planning comparison,3,5.6,Overlapping confirmed labels; do not sum; unclear roles retained in source rationales

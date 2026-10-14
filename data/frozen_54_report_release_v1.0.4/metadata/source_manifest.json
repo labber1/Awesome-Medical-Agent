@@ -1,0 +1,14 @@
+{
+  "version": "1.0.4",
+  "analytical_snapshot_date": "2026-10-14",
+  "source_appendices_sha256": {
+    "Multimedia_Appendix_1_Search_Strategy.xlsx": "0eabaacb7b1b945137337c5fa12867e504d3e453f70a997015ce362d8c5cb63e",
+    "Multimedia_Appendix_2_Full_Text_Eligibility_Consensus.xlsx": "c41ae8f02a1e85462e2eb28811392321ec31e1d86b00e7c9115914559710c680",
+    "Multimedia_Appendix_3_Report_Level_Analytical_Coding.xlsx": "0a3e3208156fd0f99a3910706338a087f2b5d638fca195802a5420c9727d57ef",
+    "Multimedia_Appendix_4_Variable_Summary_and_Denominators.xlsx": "17c139d3eb0e8f0b1b630caf2397ee261411c9290ef215ab454ab0e3bad07892",
+    "Multimedia_Appendix_5_Safeguard_and_Governance_Coding.xlsx": "1a410c4981bcbd971c6fe94c690005f1c791437bf9b4b995c2d078a6dbac6d9b",
+    "Multimedia_Appendix_6_Inter_rater_Reliability_and_Data_Harmonization.xlsx": "cf7dff0b7f3da879ccf6fb4cb3f4e9ece49b7c9f8307c97977438aad2743729f"
+  },
+  "original_reviewer_AB_modified": false,
+  "source_verification_scope": "Exports final appendix values; this publication step is not a new primary-source review."
+}

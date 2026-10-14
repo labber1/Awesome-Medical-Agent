@@ -1,0 +1,25 @@
+Category ID,Dimension,Category name,Metric examples,Boundary rule
+C01,Capability,Task accuracy or prediction,"Accuracy, F1, sensitivity, specificity, AUROC","Correctness of diagnostic, classification, or prediction tasks; retain the original metric separately."
+C02,Capability,Retrieval and grounding,"Retrieval recall, citation support","Quality of retrieval, citations, or evidence support; this does not establish implementation of a provenance safeguard."
+C03,Capability,Tool selection or execution,"Tool success, invalid call","Tool selection, invocation, or execution performance; permission violations may also be coded as S04."
+C04,Capability,Extraction and representation,"Entity F1, SQL/FHIR validity",Information extraction and structured-output quality.
+C05,Capability,Quantitative reasoning,"Formula accuracy, numerical error","Formulas, calculations, units, or quantitative reasoning."
+C06,Capability,Calibration and uncertainty,"Calibration error, selective accuracy",Measurement of calibration does not establish an abstention or escalation mechanism.
+C07,Capability,Language quality,"Readability, semantic similarity",Linguistic quality of text; distinguish from factual errors under S02.
+C99,Capability,Other capability,Source-defined measure,Specify the original metric and why it does not fit an existing capability category.
+W01,Workflow,End-to-end completion,"Task completion, successful trajectory","Completion of a full task or trajectory, rather than success of a single tool call."
+W02,Workflow,Sequential coherence,"Pathway adherence, state-transition validity","Step order, trajectory coherence, or clinical pathway adherence."
+W03,Workflow,Action appropriateness,"Guideline concordance, unnecessary action",Appropriateness of workflow actions; explicit safety consequences may also be coded as S01.
+W04,Workflow,Efficiency and resources,"Latency, cost, token use","Time, cost, or resource consumption; retain the original units."
+W05,Workflow,Human workload and usability,"Review time, usability, satisfaction","Human workload, usability, or satisfaction; expert scoring does not automatically qualify."
+W06,Workflow,Coordination and handoff,"Handoff success, context completeness",Outcomes of human-agent or multi-agent coordination and handoff.
+W99,Workflow,Other workflow,Source-defined measure,Explain the reason for classification as other workflow.
+S01,Safety-related outcome,Clinical harm and unsafe action,"Unsafe recommendation, medication error",Explicit clinical harm or safety outcomes; distinguish these from control mechanisms.
+S02,Safety-related outcome,Factuality and hallucination,"Hallucination, contradiction, factual error",Observable factual errors; do not assume that every factual error caused clinical harm.
+S03,Safety-related outcome,Privacy and confidentiality,"Leakage, anonymization quality",Privacy outcomes; local execution alone is not a privacy-effectiveness metric.
+S04,Safety-related outcome,Security and permission violations,"Unauthorized action, attack success",Permission violations or security-attack outcomes.
+S05,Safety-related outcome,Escalation or refusal performance,"Missed escalation, inappropriate refusal","Appropriateness of escalation, abstention, refusal, or blocking; design descriptions alone are not evaluation outcomes."
+S06,Safety-related outcome,Equity and subgroup safety,"Subgroup gap, biased interaction",Subgroup or equity outcomes; these do not establish implementation of an equity control.
+S07,Safety-related outcome,Audit and lifecycle performance,"Log completeness, drift latency, regression","Measured logging, monitoring, or update-related outcomes; mechanism existence is recorded separately."
+S08,Safety-related outcome,Robustness and failure severity,"Perturbation robustness, failure severity",Robustness or failure severity under risk-related conditions; not every benchmark variation qualifies.
+S99,Safety-related outcome,Other safety outcome,Source-defined measure,Explain the reason for classification as other safety outcome. S99 is excluded from the prespecified S01-S08 safety-outcome aggregate.

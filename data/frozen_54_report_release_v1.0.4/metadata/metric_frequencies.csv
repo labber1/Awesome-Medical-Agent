@@ -1,0 +1,25 @@
+Category_ID,Category name,Reported n,Reported %,Not reported n,Explicitly not evaluated n,Unclear n,Report denominator
+C01,Task accuracy or prediction,45,83.3,9,0,0,54
+C02,Retrieval and grounding,11,20.4,43,0,0,54
+C03,Tool selection or execution,26,48.1,28,0,0,54
+C04,Extraction and representation,16,29.6,38,0,0,54
+C05,Quantitative reasoning,7,13,47,0,0,54
+C06,Calibration and uncertainty,2,3.7,52,0,0,54
+C07,Language quality,19,35.2,35,0,0,54
+C99,Other capability,3,5.6,51,0,0,54
+S01,Clinical harm and unsafe action,13,24.1,39,1,1,54
+S02,Factuality and hallucination,18,33.3,36,0,0,54
+S03,Privacy and confidentiality,1,1.9,53,0,0,54
+S04,Security and permission violations,2,3.7,52,0,0,54
+S05,Escalation or refusal performance,5,9.3,49,0,0,54
+S06,Equity and subgroup safety,5,9.3,49,0,0,54
+S07,Audit and lifecycle performance,1,1.9,53,0,0,54
+S08,Robustness and failure severity,24,44.4,30,0,0,54
+S99,Other safety outcome,0,0,54,0,0,54
+W01,End-to-end completion,25,46.3,29,0,0,54
+W02,Sequential coherence,19,35.2,34,1,0,54
+W03,Action appropriateness,25,46.3,29,0,0,54
+W04,Efficiency and resources,31,57.4,23,0,0,54
+W05,Human workload and usability,5,9.3,49,0,0,54
+W06,Coordination and handoff,7,13,46,0,1,54
+W99,Other workflow,1,1.9,53,0,0,54

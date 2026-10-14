@@ -1,0 +1,55 @@
+report_id,evaluation_design_labels,random_allocation_reported,randomization_method_description,randomization_unit_description,patient_randomized_trial
+R074,Technical benchmark; Retrospective clinical-data evaluation,Not reported,Not reported,Not applicable,No
+R081,Retrospective clinical-data evaluation; Expert output assessment,Not reported,Not reported,Not applicable,No
+R138,Retrospective clinical-data evaluation; Prospective patient-interaction evaluation,Not reported,"Matched base/enhanced systems used by the same patients; anonymized model IDs, no random participant allocation described in inspected protocol",Not applicable,No
+R231,Simulation evaluation,Not applicable,Not applicable,Not applicable,No
+R325,Randomized user study,Reported,Condition order A/B or B/A and patient cases randomly assigned; sequence-generation algorithm Not reported,Clinician/participant assigned condition sequence and mock patient cases,No
+R358,Simulation evaluation; Retrospective clinical-data evaluation; Human comparator evaluation,Not reported,Not reported,Not applicable,No
+R452,Technical benchmark,Not reported,Not reported,Not applicable,No
+R499,Retrospective clinical-data evaluation; Technical planning comparison,Not reported,Not reported,Not applicable,No
+R524,Retrospective clinical-data evaluation; Randomized reader study,Reported,Clinicians randomly assigned to two reading sequences; case order independently randomized per clinician; algorithm Not reported,Clinician reading sequence and within-set case order,No
+R529,Expert output assessment; Technical model comparison,Not reported,Not reported,Not applicable,No
+R300,Technical benchmark,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R365,Technical benchmark,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R369,Technical benchmark; Retrospective clinical-data evaluation; Synthetic-data evaluation; Human output assessment,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R397,Simulation evaluation,Not applicable,Not applicable,Not applicable,No
+R467,Retrospective clinical-data evaluation; Technical planning comparison,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R469,Technical benchmark; Retrospective clinical-data reconstruction,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R484,Technical benchmark; Human comparator evaluation,Not reported,No patient/user condition-allocation procedure established in inspected evaluation; random data sampling or initial parameters are not allocation,Not applicable,No
+R001,Clinical case evaluation; Expert output assessment,Explicitly not randomized,Authors explicitly state experiments were not randomized because only one test group existed.,Not applicable,No
+R010,Technical benchmark,Not applicable,Technical prompt/tool/memory configurations tested on benchmark tasks; no patient/user condition-allocation unit in this evaluation.,Not applicable,No
+R030,Technical benchmark,Not applicable,Fixed medical-QA benchmark and model/agent ablation comparisons; no patient/user allocation in described evaluation.,Not applicable,No
+R033,Technical benchmark; Expert output assessment,Not reported,Human expansion ratings described; condition allocation or presentation randomization is not specified.,Not reported,No
+R041,Technical benchmark,Not reported,Simulated agents plus real clinician dialogue ratings; no participant/condition allocation procedure established.,Not reported,No
+R068,Technical planning comparison; Simulation evaluation; Randomized paired expert-rating evaluation,Reported,"Authors describe blinded randomized paired expert ratings and random sampling of 10/100 cases. The randomized presentation/assignment object, sequence-generation method and allocation concealment are not reported in the inspected AppendixA; do not infer them from case sampling.",Not reported,No
+R096,Simulation evaluation; Expert output assessment,Not reported,Four medical experts rate profiles/simulation results in blinded setups; random condition allocation not specified.,Not reported,No
+R141,Technical calculation benchmark; Exploratory physician-assessed chatbot comparison,Not applicable,"Generated calculation-vignette and tool-augmentation trials with physician exploratory scoring, not patient/user intervention allocation.",Not applicable,No
+R142,Technical benchmark,Not applicable,Computational CDSS configuration evaluation on fixed biomedical datasets; no patient/user condition allocation.,Not applicable,No
+R271,Simulation evaluation; Technical benchmark,Not applicable,"Agent training/dialogue benchmark, not allocation of actual patients or users.",Not applicable,No
+R279,Device-event data analysis demonstration; Technical configuration comparison,Not applicable,Baseline then optimized configuration executed on three event-record tasks; no participant condition allocation.,Not applicable,No
+R371,Technical benchmark,Not applicable,Search-agent training and fixed QA tests; author trace analysis is not a randomized user intervention.,Not applicable,No
+R375,Simulation evaluation; Human comparator evaluation,Not reported,Two physician comparator groups receive different information conditions; the selection/assignment method is not specified as random.,Physician group for information condition; randomization not established,No
+R377,Technical benchmark,Not applicable,KAMAC models/agent settings tested on MedQA and Progn-VQA; no human condition allocation.,Not applicable,No
+R378,Technical benchmark,Not applicable,Summary-generation architectures compared on 100 abstract-PLS pairs with automated metrics; no patient/user allocation.,Not applicable,No
+R381,Simulation evaluation; Human output assessment,Not reported,"Manual dialogue behavior ratings are described, but evaluator/condition allocation is not specified.",Not reported,No
+R406,Simulation evaluation; Technical benchmark,Not applicable,Computational differential-diagnosis framework and model/iteration settings on shared datasets.,Not applicable,No
+R407,Technical benchmark,Not applicable,CalcQA/tool experiments score agent outputs; physician activity described as dataset annotation/review.,Not applicable,No
+R418,Technical benchmark,Not applicable,CAB task and agent-configuration comparisons without human condition allocation.,Not applicable,No
+R447,Technical benchmark; Clinician rollout audit,Not reported,Clinician scores 144 rollouts across 36 tasks/four models; allocation/order randomization is not specified.,Not reported,No
+R451,Technical benchmark,Not applicable,"Computational stage-wise fairness evaluation across agents, demographic subgroups and datasets.",Not applicable,No
+R453,Technical benchmark,Not applicable,Task-generation/benchmark quality audit and model tests; no allocated patient/user conditions established.,Not applicable,No
+R454,Technical benchmark,Not applicable,"Training/medical VQA/model/tool substitution benchmarks, not human condition allocation.",Not applicable,No
+R455,Simulation evaluation; Technical benchmark,Not applicable,Model physician/patient agents evaluated in CP-Env; no actual patient/user condition allocation.,Not applicable,No
+R458,Technical benchmark,Not applicable,Backbone replacements in diagnostic/QA/AgentClinic simulations use fixed or sampled task inputs.,Not applicable,No
+R460,Clinical case counterfactual evaluation; Technical benchmark,Not reported,Blinded medical-professional validation of counterfactual outputs; random participant/condition allocation is not specified.,Not reported,No
+R461,Technical benchmark,Not applicable,Virtual EHR benchmark task-success evaluation with automated/reference checks; no human condition allocation.,Not applicable,No
+R475,Observational-study reproduction benchmark,Not applicable,Agents reproduce observational research in medical databases; technical cohort-judge screening is not patient intervention allocation.,Not applicable,No
+R476,Simulation evaluation; Technical benchmark,Not applicable,Qwen physician/patient agents evolve across training batches in a simulated arena.,Not applicable,No
+R491,Clinical case evaluation; Expert output assessment,Not reported,Clinicians score treatment/explanation outputs for shared cases; random assignment or presentation order not specified.,Not reported,No
+R493,Technical benchmark,Not applicable,Trial-outcome prediction models tested on historical datasets; source trial participants are not allocated in this agent study.,Not applicable,No
+R501,Technical benchmark; Human output assessment,Not applicable,Radiology impression configurations tested on 100 report cases with automatic scores and manual inconsistency review.,Not applicable,No
+R503,Simulation evaluation,Not applicable,"Doctor-model policies tested in 15 all-model AgentClinic scenarios, without patient/user condition allocation.",Not applicable,No
+R509,Simulation evaluation; Technical benchmark,Not applicable,CLI/MedicalOS settings evaluated against diagnoses in AgentClinic-MedQA simulation.,Not applicable,No
+R511,Simulation evaluation; Technical configuration comparison; Human output assessment,Not applicable,All robot/manager team roles are LLMs; hierarchical simulation configurations compared before humans join.,Not applicable,No
+R514,Mechanism-specific technical benchmark,Not applicable,EHRAgent/GuardAgent benchmark tests synthetic role/task access restrictions.,Not applicable,No
+R543,Technical benchmark,Not applicable,TxAgent retrieval/tool/prompt variants tested on competition question labels.,Not applicable,No

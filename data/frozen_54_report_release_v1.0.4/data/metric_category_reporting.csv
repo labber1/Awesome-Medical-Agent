@@ -1,0 +1,1297 @@
+Report_ID,Category_ID,Final reporting status
+R001,C01,Not reported
+R001,C02,Reported
+R001,C03,Reported
+R001,C04,Not reported
+R001,C05,Not reported
+R001,C06,Not reported
+R001,C07,Not reported
+R001,C99,Not reported
+R001,S01,Reported
+R001,S02,Reported
+R001,S03,Not reported
+R001,S04,Not reported
+R001,S05,Not reported
+R001,S06,Reported
+R001,S07,Not reported
+R001,S08,Reported
+R001,S99,Not reported
+R001,W01,Reported
+R001,W02,Not reported
+R001,W03,Reported
+R001,W04,Not reported
+R001,W05,Not reported
+R001,W06,Not reported
+R001,W99,Not reported
+R010,C01,Reported
+R010,C02,Not reported
+R010,C03,Reported
+R010,C04,Reported
+R010,C05,Reported
+R010,C06,Not reported
+R010,C07,Not reported
+R010,C99,Not reported
+R010,S01,Reported
+R010,S02,Not reported
+R010,S03,Not reported
+R010,S04,Not reported
+R010,S05,Not reported
+R010,S06,Not reported
+R010,S07,Not reported
+R010,S08,Not reported
+R010,S99,Not reported
+R010,W01,Reported
+R010,W02,Not reported
+R010,W03,Reported
+R010,W04,Reported
+R010,W05,Not reported
+R010,W06,Not reported
+R010,W99,Not reported
+R030,C01,Reported
+R030,C02,Reported
+R030,C03,Reported
+R030,C04,Not reported
+R030,C05,Not reported
+R030,C06,Not reported
+R030,C07,Reported
+R030,C99,Not reported
+R030,S01,Not reported
+R030,S02,Reported
+R030,S03,Not reported
+R030,S04,Not reported
+R030,S05,Not reported
+R030,S06,Not reported
+R030,S07,Not reported
+R030,S08,Not reported
+R030,S99,Not reported
+R030,W01,Not reported
+R030,W02,Not reported
+R030,W03,Not reported
+R030,W04,Not reported
+R030,W05,Not reported
+R030,W06,Not reported
+R030,W99,Not reported
+R033,C01,Not reported
+R033,C02,Not reported
+R033,C03,Not reported
+R033,C04,Reported
+R033,C05,Not reported
+R033,C06,Not reported
+R033,C07,Reported
+R033,C99,Not reported
+R033,S01,Not reported
+R033,S02,Not reported
+R033,S03,Not reported
+R033,S04,Not reported
+R033,S05,Not reported
+R033,S06,Not reported
+R033,S07,Not reported
+R033,S08,Reported
+R033,S99,Not reported
+R033,W01,Not reported
+R033,W02,Not reported
+R033,W03,Not reported
+R033,W04,Reported
+R033,W05,Not reported
+R033,W06,Not reported
+R033,W99,Not reported
+R041,C01,Reported
+R041,C02,Not reported
+R041,C03,Reported
+R041,C04,Reported
+R041,C05,Not reported
+R041,C06,Not reported
+R041,C07,Reported
+R041,C99,Not reported
+R041,S01,Not reported
+R041,S02,Not reported
+R041,S03,Not reported
+R041,S04,Not reported
+R041,S05,Reported
+R041,S06,Reported
+R041,S07,Not reported
+R041,S08,Reported
+R041,S99,Not reported
+R041,W01,Not reported
+R041,W02,Reported
+R041,W03,Not reported
+R041,W04,Reported
+R041,W05,Not reported
+R041,W06,Reported
+R041,W99,Not reported
+R068,C01,Reported
+R068,C02,Not reported
+R068,C03,Not reported
+R068,C04,Not reported
+R068,C05,Not reported
+R068,C06,Not reported
+R068,C07,Reported
+R068,C99,Not reported
+R068,S01,Reported
+R068,S02,Not reported
+R068,S03,Not reported
+R068,S04,Not reported
+R068,S05,Reported
+R068,S06,Not reported
+R068,S07,Not reported
+R068,S08,Reported
+R068,S99,Not reported
+R068,W01,Not reported
+R068,W02,Not reported
+R068,W03,Reported
+R068,W04,Reported
+R068,W05,Reported
+R068,W06,Reported
+R068,W99,Not reported
+R074,C01,Reported
+R074,C02,Not reported
+R074,C03,Reported
+R074,C04,Reported
+R074,C05,Not reported
+R074,C06,Not reported
+R074,C07,Reported
+R074,C99,Not reported
+R074,S01,Not reported
+R074,S02,Not reported
+R074,S03,Not reported
+R074,S04,Not reported
+R074,S05,Not reported
+R074,S06,Not reported
+R074,S07,Not reported
+R074,S08,Not reported
+R074,S99,Not reported
+R074,W01,Reported
+R074,W02,Not reported
+R074,W03,Not reported
+R074,W04,Not reported
+R074,W05,Not reported
+R074,W06,Not reported
+R074,W99,Not reported
+R081,C01,Reported
+R081,C02,Not reported
+R081,C03,Reported
+R081,C04,Not reported
+R081,C05,Not reported
+R081,C06,Not reported
+R081,C07,Reported
+R081,C99,Not reported
+R081,S01,Not reported
+R081,S02,Not reported
+R081,S03,Not reported
+R081,S04,Not reported
+R081,S05,Not reported
+R081,S06,Not reported
+R081,S07,Not reported
+R081,S08,Not reported
+R081,S99,Not reported
+R081,W01,Not reported
+R081,W02,Not reported
+R081,W03,Reported
+R081,W04,Reported
+R081,W05,Not reported
+R081,W06,Not reported
+R081,W99,Not reported
+R096,C01,Reported
+R096,C02,Not reported
+R096,C03,Not reported
+R096,C04,Reported
+R096,C05,Not reported
+R096,C06,Not reported
+R096,C07,Reported
+R096,C99,Reported
+R096,S01,Not reported
+R096,S02,Not reported
+R096,S03,Not reported
+R096,S04,Not reported
+R096,S05,Not reported
+R096,S06,Not reported
+R096,S07,Not reported
+R096,S08,Reported
+R096,S99,Not reported
+R096,W01,Not reported
+R096,W02,Reported
+R096,W03,Not reported
+R096,W04,Not reported
+R096,W05,Not reported
+R096,W06,Not reported
+R096,W99,Not reported
+R138,C01,Reported
+R138,C02,Not reported
+R138,C03,Not reported
+R138,C04,Not reported
+R138,C05,Not reported
+R138,C06,Not reported
+R138,C07,Reported
+R138,C99,Not reported
+R138,S01,Not reported
+R138,S02,Reported
+R138,S03,Not reported
+R138,S04,Not reported
+R138,S05,Not reported
+R138,S06,Not reported
+R138,S07,Not reported
+R138,S08,Not reported
+R138,S99,Not reported
+R138,W01,Not reported
+R138,W02,Not reported
+R138,W03,Reported
+R138,W04,Not reported
+R138,W05,Reported
+R138,W06,Not reported
+R138,W99,Not reported
+R141,C01,Reported
+R141,C02,Not reported
+R141,C03,Reported
+R141,C04,Not reported
+R141,C05,Reported
+R141,C06,Not reported
+R141,C07,Not reported
+R141,C99,Not reported
+R141,S01,Explicitly not evaluated
+R141,S02,Reported
+R141,S03,Not reported
+R141,S04,Not reported
+R141,S05,Not reported
+R141,S06,Not reported
+R141,S07,Not reported
+R141,S08,Not reported
+R141,S99,Not reported
+R141,W01,Not reported
+R141,W02,Not reported
+R141,W03,Not reported
+R141,W04,Not reported
+R141,W05,Not reported
+R141,W06,Not reported
+R141,W99,Not reported
+R142,C01,Reported
+R142,C02,Not reported
+R142,C03,Not reported
+R142,C04,Not reported
+R142,C05,Not reported
+R142,C06,Not reported
+R142,C07,Not reported
+R142,C99,Not reported
+R142,S01,Not reported
+R142,S02,Not reported
+R142,S03,Not reported
+R142,S04,Not reported
+R142,S05,Not reported
+R142,S06,Not reported
+R142,S07,Not reported
+R142,S08,Not reported
+R142,S99,Not reported
+R142,W01,Not reported
+R142,W02,Reported
+R142,W03,Not reported
+R142,W04,Reported
+R142,W05,Not reported
+R142,W06,Not reported
+R142,W99,Not reported
+R231,C01,Reported
+R231,C02,Not reported
+R231,C03,Not reported
+R231,C04,Reported
+R231,C05,Not reported
+R231,C06,Not reported
+R231,C07,Not reported
+R231,C99,Not reported
+R231,S01,Reported
+R231,S02,Not reported
+R231,S03,Not reported
+R231,S04,Not reported
+R231,S05,Not reported
+R231,S06,Not reported
+R231,S07,Not reported
+R231,S08,Reported
+R231,S99,Not reported
+R231,W01,Not reported
+R231,W02,Not reported
+R231,W03,Reported
+R231,W04,Reported
+R231,W05,Not reported
+R231,W06,Not reported
+R231,W99,Not reported
+R271,C01,Reported
+R271,C02,Not reported
+R271,C03,Not reported
+R271,C04,Not reported
+R271,C05,Not reported
+R271,C06,Not reported
+R271,C07,Not reported
+R271,C99,Not reported
+R271,S01,Not reported
+R271,S02,Not reported
+R271,S03,Not reported
+R271,S04,Not reported
+R271,S05,Not reported
+R271,S06,Not reported
+R271,S07,Not reported
+R271,S08,Not reported
+R271,S99,Not reported
+R271,W01,Not reported
+R271,W02,Not reported
+R271,W03,Not reported
+R271,W04,Reported
+R271,W05,Not reported
+R271,W06,Not reported
+R271,W99,Not reported
+R279,C01,Reported
+R279,C02,Not reported
+R279,C03,Reported
+R279,C04,Not reported
+R279,C05,Not reported
+R279,C06,Not reported
+R279,C07,Not reported
+R279,C99,Not reported
+R279,S01,Not reported
+R279,S02,Not reported
+R279,S03,Not reported
+R279,S04,Not reported
+R279,S05,Not reported
+R279,S06,Not reported
+R279,S07,Not reported
+R279,S08,Not reported
+R279,S99,Not reported
+R279,W01,Reported
+R279,W02,Reported
+R279,W03,Not reported
+R279,W04,Not reported
+R279,W05,Not reported
+R279,W06,Not reported
+R279,W99,Not reported
+R300,C01,Reported
+R300,C02,Not reported
+R300,C03,Not reported
+R300,C04,Not reported
+R300,C05,Not reported
+R300,C06,Not reported
+R300,C07,Not reported
+R300,C99,Not reported
+R300,S01,Not reported
+R300,S02,Not reported
+R300,S03,Not reported
+R300,S04,Not reported
+R300,S05,Not reported
+R300,S06,Not reported
+R300,S07,Not reported
+R300,S08,Not reported
+R300,S99,Not reported
+R300,W01,Not reported
+R300,W02,Reported
+R300,W03,Not reported
+R300,W04,Reported
+R300,W05,Not reported
+R300,W06,Not reported
+R300,W99,Not reported
+R325,C01,Not reported
+R325,C02,Not reported
+R325,C03,Not reported
+R325,C04,Not reported
+R325,C05,Not reported
+R325,C06,Not reported
+R325,C07,Reported
+R325,C99,Not reported
+R325,S01,Unclear
+R325,S02,Reported
+R325,S03,Not reported
+R325,S04,Not reported
+R325,S05,Not reported
+R325,S06,Not reported
+R325,S07,Not reported
+R325,S08,Not reported
+R325,S99,Not reported
+R325,W01,Reported
+R325,W02,Not reported
+R325,W03,Reported
+R325,W04,Reported
+R325,W05,Reported
+R325,W06,Not reported
+R325,W99,Not reported
+R358,C01,Reported
+R358,C02,Not reported
+R358,C03,Reported
+R358,C04,Reported
+R358,C05,Not reported
+R358,C06,Not reported
+R358,C07,Not reported
+R358,C99,Not reported
+R358,S01,Reported
+R358,S02,Not reported
+R358,S03,Not reported
+R358,S04,Not reported
+R358,S05,Not reported
+R358,S06,Reported
+R358,S07,Not reported
+R358,S08,Reported
+R358,S99,Not reported
+R358,W01,Reported
+R358,W02,Reported
+R358,W03,Reported
+R358,W04,Reported
+R358,W05,Not reported
+R358,W06,Not reported
+R358,W99,Not reported
+R365,C01,Reported
+R365,C02,Not reported
+R365,C03,Not reported
+R365,C04,Not reported
+R365,C05,Not reported
+R365,C06,Not reported
+R365,C07,Not reported
+R365,C99,Not reported
+R365,S01,Not reported
+R365,S02,Not reported
+R365,S03,Not reported
+R365,S04,Not reported
+R365,S05,Not reported
+R365,S06,Not reported
+R365,S07,Not reported
+R365,S08,Not reported
+R365,S99,Not reported
+R365,W01,Not reported
+R365,W02,Not reported
+R365,W03,Not reported
+R365,W04,Not reported
+R365,W05,Not reported
+R365,W06,Unclear
+R365,W99,Not reported
+R369,C01,Not reported
+R369,C02,Not reported
+R369,C03,Not reported
+R369,C04,Reported
+R369,C05,Not reported
+R369,C06,Not reported
+R369,C07,Not reported
+R369,C99,Not reported
+R369,S01,Not reported
+R369,S02,Reported
+R369,S03,Not reported
+R369,S04,Not reported
+R369,S05,Not reported
+R369,S06,Not reported
+R369,S07,Not reported
+R369,S08,Not reported
+R369,S99,Not reported
+R369,W01,Not reported
+R369,W02,Not reported
+R369,W03,Not reported
+R369,W04,Not reported
+R369,W05,Not reported
+R369,W06,Not reported
+R369,W99,Not reported
+R371,C01,Reported
+R371,C02,Reported
+R371,C03,Not reported
+R371,C04,Not reported
+R371,C05,Not reported
+R371,C06,Not reported
+R371,C07,Not reported
+R371,C99,Not reported
+R371,S01,Not reported
+R371,S02,Not reported
+R371,S03,Not reported
+R371,S04,Not reported
+R371,S05,Not reported
+R371,S06,Not reported
+R371,S07,Not reported
+R371,S08,Reported
+R371,S99,Not reported
+R371,W01,Not reported
+R371,W02,Not reported
+R371,W03,Not reported
+R371,W04,Not reported
+R371,W05,Not reported
+R371,W06,Not reported
+R371,W99,Not reported
+R375,C01,Reported
+R375,C02,Not reported
+R375,C03,Not reported
+R375,C04,Reported
+R375,C05,Not reported
+R375,C06,Not reported
+R375,C07,Reported
+R375,C99,Reported
+R375,S01,Not reported
+R375,S02,Reported
+R375,S03,Not reported
+R375,S04,Not reported
+R375,S05,Not reported
+R375,S06,Not reported
+R375,S07,Not reported
+R375,S08,Not reported
+R375,S99,Not reported
+R375,W01,Not reported
+R375,W02,Not reported
+R375,W03,Reported
+R375,W04,Reported
+R375,W05,Not reported
+R375,W06,Not reported
+R375,W99,Not reported
+R377,C01,Reported
+R377,C02,Not reported
+R377,C03,Not reported
+R377,C04,Not reported
+R377,C05,Not reported
+R377,C06,Not reported
+R377,C07,Not reported
+R377,C99,Not reported
+R377,S01,Not reported
+R377,S02,Not reported
+R377,S03,Not reported
+R377,S04,Not reported
+R377,S05,Not reported
+R377,S06,Not reported
+R377,S07,Not reported
+R377,S08,Not reported
+R377,S99,Not reported
+R377,W01,Not reported
+R377,W02,Not reported
+R377,W03,Not reported
+R377,W04,Reported
+R377,W05,Not reported
+R377,W06,Reported
+R377,W99,Not reported
+R378,C01,Not reported
+R378,C02,Not reported
+R378,C03,Not reported
+R378,C04,Not reported
+R378,C05,Not reported
+R378,C06,Not reported
+R378,C07,Reported
+R378,C99,Not reported
+R378,S01,Not reported
+R378,S02,Reported
+R378,S03,Not reported
+R378,S04,Not reported
+R378,S05,Not reported
+R378,S06,Not reported
+R378,S07,Not reported
+R378,S08,Not reported
+R378,S99,Not reported
+R378,W01,Not reported
+R378,W02,Not reported
+R378,W03,Not reported
+R378,W04,Not reported
+R378,W05,Not reported
+R378,W06,Not reported
+R378,W99,Not reported
+R381,C01,Reported
+R381,C02,Not reported
+R381,C03,Reported
+R381,C04,Reported
+R381,C05,Not reported
+R381,C06,Not reported
+R381,C07,Reported
+R381,C99,Not reported
+R381,S01,Not reported
+R381,S02,Reported
+R381,S03,Not reported
+R381,S04,Not reported
+R381,S05,Not reported
+R381,S06,Not reported
+R381,S07,Not reported
+R381,S08,Reported
+R381,S99,Not reported
+R381,W01,Reported
+R381,W02,Reported
+R381,W03,Not reported
+R381,W04,Reported
+R381,W05,Not reported
+R381,W06,Reported
+R381,W99,Not reported
+R397,C01,Not reported
+R397,C02,Not reported
+R397,C03,Not reported
+R397,C04,Not reported
+R397,C05,Not reported
+R397,C06,Not reported
+R397,C07,Not reported
+R397,C99,Not reported
+R397,S01,Reported
+R397,S02,Not reported
+R397,S03,Not reported
+R397,S04,Not reported
+R397,S05,Not reported
+R397,S06,Not reported
+R397,S07,Not reported
+R397,S08,Reported
+R397,S99,Not reported
+R397,W01,Not reported
+R397,W02,Not reported
+R397,W03,Not reported
+R397,W04,Not reported
+R397,W05,Not reported
+R397,W06,Not reported
+R397,W99,Not reported
+R406,C01,Reported
+R406,C02,Not reported
+R406,C03,Not reported
+R406,C04,Not reported
+R406,C05,Not reported
+R406,C06,Not reported
+R406,C07,Not reported
+R406,C99,Not reported
+R406,S01,Not reported
+R406,S02,Not reported
+R406,S03,Not reported
+R406,S04,Not reported
+R406,S05,Not reported
+R406,S06,Not reported
+R406,S07,Not reported
+R406,S08,Not reported
+R406,S99,Not reported
+R406,W01,Not reported
+R406,W02,Reported
+R406,W03,Not reported
+R406,W04,Not reported
+R406,W05,Not reported
+R406,W06,Not reported
+R406,W99,Not reported
+R407,C01,Not reported
+R407,C02,Not reported
+R407,C03,Reported
+R407,C04,Reported
+R407,C05,Reported
+R407,C06,Not reported
+R407,C07,Not reported
+R407,C99,Not reported
+R407,S01,Not reported
+R407,S02,Not reported
+R407,S03,Not reported
+R407,S04,Not reported
+R407,S05,Not reported
+R407,S06,Not reported
+R407,S07,Not reported
+R407,S08,Not reported
+R407,S99,Not reported
+R407,W01,Reported
+R407,W02,Not reported
+R407,W03,Not reported
+R407,W04,Not reported
+R407,W05,Not reported
+R407,W06,Not reported
+R407,W99,Not reported
+R418,C01,Reported
+R418,C02,Not reported
+R418,C03,Reported
+R418,C04,Reported
+R418,C05,Reported
+R418,C06,Not reported
+R418,C07,Not reported
+R418,C99,Not reported
+R418,S01,Not reported
+R418,S02,Reported
+R418,S03,Not reported
+R418,S04,Not reported
+R418,S05,Reported
+R418,S06,Not reported
+R418,S07,Not reported
+R418,S08,Reported
+R418,S99,Not reported
+R418,W01,Not reported
+R418,W02,Not reported
+R418,W03,Reported
+R418,W04,Reported
+R418,W05,Not reported
+R418,W06,Not reported
+R418,W99,Not reported
+R447,C01,Reported
+R447,C02,Reported
+R447,C03,Reported
+R447,C04,Reported
+R447,C05,Not reported
+R447,C06,Not reported
+R447,C07,Not reported
+R447,C99,Not reported
+R447,S01,Not reported
+R447,S02,Reported
+R447,S03,Not reported
+R447,S04,Not reported
+R447,S05,Not reported
+R447,S06,Not reported
+R447,S07,Not reported
+R447,S08,Reported
+R447,S99,Not reported
+R447,W01,Reported
+R447,W02,Reported
+R447,W03,Reported
+R447,W04,Not reported
+R447,W05,Not reported
+R447,W06,Not reported
+R447,W99,Not reported
+R451,C01,Reported
+R451,C02,Not reported
+R451,C03,Not reported
+R451,C04,Not reported
+R451,C05,Not reported
+R451,C06,Not reported
+R451,C07,Not reported
+R451,C99,Not reported
+R451,S01,Not reported
+R451,S02,Not reported
+R451,S03,Not reported
+R451,S04,Not reported
+R451,S05,Not reported
+R451,S06,Reported
+R451,S07,Not reported
+R451,S08,Not reported
+R451,S99,Not reported
+R451,W01,Not reported
+R451,W02,Not reported
+R451,W03,Not reported
+R451,W04,Not reported
+R451,W05,Not reported
+R451,W06,Not reported
+R451,W99,Not reported
+R452,C01,Reported
+R452,C02,Reported
+R452,C03,Reported
+R452,C04,Not reported
+R452,C05,Not reported
+R452,C06,Not reported
+R452,C07,Reported
+R452,C99,Not reported
+R452,S01,Not reported
+R452,S02,Not reported
+R452,S03,Not reported
+R452,S04,Not reported
+R452,S05,Not reported
+R452,S06,Not reported
+R452,S07,Not reported
+R452,S08,Reported
+R452,S99,Not reported
+R452,W01,Not reported
+R452,W02,Not reported
+R452,W03,Not reported
+R452,W04,Not reported
+R452,W05,Not reported
+R452,W06,Not reported
+R452,W99,Not reported
+R453,C01,Not reported
+R453,C02,Reported
+R453,C03,Reported
+R453,C04,Reported
+R453,C05,Reported
+R453,C06,Not reported
+R453,C07,Not reported
+R453,C99,Not reported
+R453,S01,Not reported
+R453,S02,Not reported
+R453,S03,Not reported
+R453,S04,Not reported
+R453,S05,Not reported
+R453,S06,Not reported
+R453,S07,Not reported
+R453,S08,Not reported
+R453,S99,Not reported
+R453,W01,Not reported
+R453,W02,Explicitly not evaluated
+R453,W03,Reported
+R453,W04,Not reported
+R453,W05,Not reported
+R453,W06,Not reported
+R453,W99,Not reported
+R454,C01,Reported
+R454,C02,Reported
+R454,C03,Reported
+R454,C04,Not reported
+R454,C05,Not reported
+R454,C06,Not reported
+R454,C07,Not reported
+R454,C99,Not reported
+R454,S01,Not reported
+R454,S02,Reported
+R454,S03,Not reported
+R454,S04,Not reported
+R454,S05,Not reported
+R454,S06,Not reported
+R454,S07,Not reported
+R454,S08,Reported
+R454,S99,Not reported
+R454,W01,Not reported
+R454,W02,Reported
+R454,W03,Reported
+R454,W04,Reported
+R454,W05,Not reported
+R454,W06,Not reported
+R454,W99,Not reported
+R455,C01,Reported
+R455,C02,Reported
+R455,C03,Reported
+R455,C04,Reported
+R455,C05,Not reported
+R455,C06,Not reported
+R455,C07,Reported
+R455,C99,Not reported
+R455,S01,Not reported
+R455,S02,Not reported
+R455,S03,Reported
+R455,S04,Not reported
+R455,S05,Not reported
+R455,S06,Not reported
+R455,S07,Not reported
+R455,S08,Not reported
+R455,S99,Not reported
+R455,W01,Reported
+R455,W02,Reported
+R455,W03,Reported
+R455,W04,Reported
+R455,W05,Not reported
+R455,W06,Not reported
+R455,W99,Not reported
+R458,C01,Reported
+R458,C02,Not reported
+R458,C03,Not reported
+R458,C04,Not reported
+R458,C05,Not reported
+R458,C06,Not reported
+R458,C07,Not reported
+R458,C99,Not reported
+R458,S01,Not reported
+R458,S02,Not reported
+R458,S03,Not reported
+R458,S04,Not reported
+R458,S05,Not reported
+R458,S06,Not reported
+R458,S07,Not reported
+R458,S08,Not reported
+R458,S99,Not reported
+R458,W01,Reported
+R458,W02,Not reported
+R458,W03,Not reported
+R458,W04,Reported
+R458,W05,Not reported
+R458,W06,Not reported
+R458,W99,Not reported
+R460,C01,Reported
+R460,C02,Not reported
+R460,C03,Reported
+R460,C04,Not reported
+R460,C05,Not reported
+R460,C06,Not reported
+R460,C07,Not reported
+R460,C99,Not reported
+R460,S01,Reported
+R460,S02,Not reported
+R460,S03,Not reported
+R460,S04,Not reported
+R460,S05,Not reported
+R460,S06,Not reported
+R460,S07,Not reported
+R460,S08,Reported
+R460,S99,Not reported
+R460,W01,Not reported
+R460,W02,Not reported
+R460,W03,Not reported
+R460,W04,Reported
+R460,W05,Not reported
+R460,W06,Not reported
+R460,W99,Not reported
+R461,C01,Reported
+R461,C02,Reported
+R461,C03,Reported
+R461,C04,Not reported
+R461,C05,Not reported
+R461,C06,Not reported
+R461,C07,Not reported
+R461,C99,Not reported
+R461,S01,Not reported
+R461,S02,Not reported
+R461,S03,Not reported
+R461,S04,Not reported
+R461,S05,Not reported
+R461,S06,Not reported
+R461,S07,Not reported
+R461,S08,Not reported
+R461,S99,Not reported
+R461,W01,Reported
+R461,W02,Not reported
+R461,W03,Reported
+R461,W04,Not reported
+R461,W05,Not reported
+R461,W06,Not reported
+R461,W99,Not reported
+R467,C01,Reported
+R467,C02,Not reported
+R467,C03,Not reported
+R467,C04,Not reported
+R467,C05,Not reported
+R467,C06,Not reported
+R467,C07,Not reported
+R467,C99,Not reported
+R467,S01,Reported
+R467,S02,Not reported
+R467,S03,Not reported
+R467,S04,Not reported
+R467,S05,Not reported
+R467,S06,Not reported
+R467,S07,Not reported
+R467,S08,Reported
+R467,S99,Not reported
+R467,W01,Reported
+R467,W02,Reported
+R467,W03,Reported
+R467,W04,Reported
+R467,W05,Not reported
+R467,W06,Not reported
+R467,W99,Not reported
+R469,C01,Reported
+R469,C02,Not reported
+R469,C03,Not reported
+R469,C04,Not reported
+R469,C05,Not reported
+R469,C06,Not reported
+R469,C07,Not reported
+R469,C99,Not reported
+R469,S01,Not reported
+R469,S02,Not reported
+R469,S03,Not reported
+R469,S04,Not reported
+R469,S05,Not reported
+R469,S06,Not reported
+R469,S07,Not reported
+R469,S08,Reported
+R469,S99,Not reported
+R469,W01,Reported
+R469,W02,Not reported
+R469,W03,Not reported
+R469,W04,Reported
+R469,W05,Not reported
+R469,W06,Not reported
+R469,W99,Not reported
+R475,C01,Reported
+R475,C02,Not reported
+R475,C03,Reported
+R475,C04,Reported
+R475,C05,Reported
+R475,C06,Not reported
+R475,C07,Not reported
+R475,C99,Not reported
+R475,S01,Not reported
+R475,S02,Reported
+R475,S03,Not reported
+R475,S04,Not reported
+R475,S05,Not reported
+R475,S06,Not reported
+R475,S07,Not reported
+R475,S08,Reported
+R475,S99,Not reported
+R475,W01,Reported
+R475,W02,Reported
+R475,W03,Not reported
+R475,W04,Reported
+R475,W05,Not reported
+R475,W06,Not reported
+R475,W99,Not reported
+R476,C01,Reported
+R476,C02,Not reported
+R476,C03,Reported
+R476,C04,Not reported
+R476,C05,Not reported
+R476,C06,Not reported
+R476,C07,Reported
+R476,C99,Not reported
+R476,S01,Reported
+R476,S02,Reported
+R476,S03,Not reported
+R476,S04,Not reported
+R476,S05,Not reported
+R476,S06,Not reported
+R476,S07,Not reported
+R476,S08,Not reported
+R476,S99,Not reported
+R476,W01,Not reported
+R476,W02,Reported
+R476,W03,Reported
+R476,W04,Reported
+R476,W05,Not reported
+R476,W06,Reported
+R476,W99,Not reported
+R484,C01,Reported
+R484,C02,Reported
+R484,C03,Not reported
+R484,C04,Not reported
+R484,C05,Not reported
+R484,C06,Reported
+R484,C07,Not reported
+R484,C99,Not reported
+R484,S01,Reported
+R484,S02,Not reported
+R484,S03,Not reported
+R484,S04,Not reported
+R484,S05,Not reported
+R484,S06,Not reported
+R484,S07,Not reported
+R484,S08,Reported
+R484,S99,Not reported
+R484,W01,Reported
+R484,W02,Reported
+R484,W03,Reported
+R484,W04,Reported
+R484,W05,Not reported
+R484,W06,Not reported
+R484,W99,Not reported
+R491,C01,Reported
+R491,C02,Not reported
+R491,C03,Not reported
+R491,C04,Not reported
+R491,C05,Not reported
+R491,C06,Not reported
+R491,C07,Reported
+R491,C99,Reported
+R491,S01,Reported
+R491,S02,Not reported
+R491,S03,Not reported
+R491,S04,Not reported
+R491,S05,Not reported
+R491,S06,Not reported
+R491,S07,Not reported
+R491,S08,Not reported
+R491,S99,Not reported
+R491,W01,Reported
+R491,W02,Not reported
+R491,W03,Reported
+R491,W04,Reported
+R491,W05,Not reported
+R491,W06,Reported
+R491,W99,Reported
+R493,C01,Reported
+R493,C02,Not reported
+R493,C03,Not reported
+R493,C04,Not reported
+R493,C05,Not reported
+R493,C06,Not reported
+R493,C07,Not reported
+R493,C99,Not reported
+R493,S01,Not reported
+R493,S02,Not reported
+R493,S03,Not reported
+R493,S04,Not reported
+R493,S05,Not reported
+R493,S06,Not reported
+R493,S07,Not reported
+R493,S08,Not reported
+R493,S99,Not reported
+R493,W01,Reported
+R493,W02,Reported
+R493,W03,Not reported
+R493,W04,Reported
+R493,W05,Not reported
+R493,W06,Not reported
+R493,W99,Not reported
+R499,C01,Reported
+R499,C02,Not reported
+R499,C03,Not reported
+R499,C04,Not reported
+R499,C05,Not reported
+R499,C06,Not reported
+R499,C07,Not reported
+R499,C99,Not reported
+R499,S01,Reported
+R499,S02,Not reported
+R499,S03,Not reported
+R499,S04,Not reported
+R499,S05,Not reported
+R499,S06,Not reported
+R499,S07,Not reported
+R499,S08,Not reported
+R499,S99,Not reported
+R499,W01,Reported
+R499,W02,Not reported
+R499,W03,Reported
+R499,W04,Reported
+R499,W05,Not reported
+R499,W06,Not reported
+R499,W99,Not reported
+R501,C01,Reported
+R501,C02,Not reported
+R501,C03,Not reported
+R501,C04,Not reported
+R501,C05,Not reported
+R501,C06,Not reported
+R501,C07,Reported
+R501,C99,Not reported
+R501,S01,Not reported
+R501,S02,Reported
+R501,S03,Not reported
+R501,S04,Not reported
+R501,S05,Not reported
+R501,S06,Not reported
+R501,S07,Not reported
+R501,S08,Not reported
+R501,S99,Not reported
+R501,W01,Not reported
+R501,W02,Not reported
+R501,W03,Not reported
+R501,W04,Not reported
+R501,W05,Not reported
+R501,W06,Not reported
+R501,W99,Not reported
+R503,C01,Reported
+R503,C02,Not reported
+R503,C03,Not reported
+R503,C04,Not reported
+R503,C05,Not reported
+R503,C06,Not reported
+R503,C07,Not reported
+R503,C99,Not reported
+R503,S01,Not reported
+R503,S02,Not reported
+R503,S03,Not reported
+R503,S04,Not reported
+R503,S05,Not reported
+R503,S06,Not reported
+R503,S07,Not reported
+R503,S08,Not reported
+R503,S99,Not reported
+R503,W01,Reported
+R503,W02,Not reported
+R503,W03,Reported
+R503,W04,Reported
+R503,W05,Not reported
+R503,W06,Not reported
+R503,W99,Not reported
+R509,C01,Reported
+R509,C02,Not reported
+R509,C03,Reported
+R509,C04,Not reported
+R509,C05,Not reported
+R509,C06,Reported
+R509,C07,Not reported
+R509,C99,Not reported
+R509,S01,Not reported
+R509,S02,Not reported
+R509,S03,Not reported
+R509,S04,Not reported
+R509,S05,Not reported
+R509,S06,Not reported
+R509,S07,Not reported
+R509,S08,Not reported
+R509,S99,Not reported
+R509,W01,Reported
+R509,W02,Reported
+R509,W03,Reported
+R509,W04,Not reported
+R509,W05,Not reported
+R509,W06,Not reported
+R509,W99,Not reported
+R511,C01,Reported
+R511,C02,Not reported
+R511,C03,Reported
+R511,C04,Not reported
+R511,C05,Not reported
+R511,C06,Not reported
+R511,C07,Reported
+R511,C99,Not reported
+R511,S01,Not reported
+R511,S02,Reported
+R511,S03,Not reported
+R511,S04,Reported
+R511,S05,Reported
+R511,S06,Not reported
+R511,S07,Not reported
+R511,S08,Reported
+R511,S99,Not reported
+R511,W01,Reported
+R511,W02,Reported
+R511,W03,Reported
+R511,W04,Reported
+R511,W05,Not reported
+R511,W06,Reported
+R511,W99,Not reported
+R514,C01,Not reported
+R514,C02,Not reported
+R514,C03,Reported
+R514,C04,Not reported
+R514,C05,Not reported
+R514,C06,Not reported
+R514,C07,Not reported
+R514,C99,Not reported
+R514,S01,Not reported
+R514,S02,Not reported
+R514,S03,Not reported
+R514,S04,Reported
+R514,S05,Reported
+R514,S06,Not reported
+R514,S07,Not reported
+R514,S08,Reported
+R514,S99,Not reported
+R514,W01,Reported
+R514,W02,Not reported
+R514,W03,Not reported
+R514,W04,Reported
+R514,W05,Not reported
+R514,W06,Not reported
+R514,W99,Not reported
+R524,C01,Reported
+R524,C02,Not reported
+R524,C03,Not reported
+R524,C04,Not reported
+R524,C05,Not reported
+R524,C06,Not reported
+R524,C07,Not reported
+R524,C99,Not reported
+R524,S01,Not reported
+R524,S02,Reported
+R524,S03,Not reported
+R524,S04,Not reported
+R524,S05,Not reported
+R524,S06,Reported
+R524,S07,Reported
+R524,S08,Reported
+R524,S99,Not reported
+R524,W01,Reported
+R524,W02,Not reported
+R524,W03,Reported
+R524,W04,Not reported
+R524,W05,Reported
+R524,W06,Not reported
+R524,W99,Not reported
+R529,C01,Reported
+R529,C02,Not reported
+R529,C03,Reported
+R529,C04,Not reported
+R529,C05,Reported
+R529,C06,Not reported
+R529,C07,Reported
+R529,C99,Not reported
+R529,S01,Reported
+R529,S02,Reported
+R529,S03,Not reported
+R529,S04,Not reported
+R529,S05,Not reported
+R529,S06,Not reported
+R529,S07,Not reported
+R529,S08,Reported
+R529,S99,Not reported
+R529,W01,Reported
+R529,W02,Reported
+R529,W03,Reported
+R529,W04,Reported
+R529,W05,Reported
+R529,W06,Not reported
+R529,W99,Not reported
+R543,C01,Reported
+R543,C02,Reported
+R543,C03,Reported
+R543,C04,Not reported
+R543,C05,Not reported
+R543,C06,Not reported
+R543,C07,Not reported
+R543,C99,Not reported
+R543,S01,Not reported
+R543,S02,Not reported
+R543,S03,Not reported
+R543,S04,Not reported
+R543,S05,Not reported
+R543,S06,Not reported
+R543,S07,Not reported
+R543,S08,Reported
+R543,S99,Not reported
+R543,W01,Not reported
+R543,W02,Not reported
+R543,W03,Not reported
+R543,W04,Not reported
+R543,W05,Not reported
+R543,W06,Not reported
+R543,W99,Not reported
